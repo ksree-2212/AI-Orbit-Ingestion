@@ -1,0 +1,403 @@
+[
+  {
+    "id": "14c0e1b7-d333-57c1-b74f-405b65f9f305",
+    "entity_type": "Device",
+    "name": "NVIDIA H100 SXM",
+    "description": "Enterprise AI accelerator based on Hopper architecture with Transformer Engine, 80GB HBM3 memory, and 3.35 TB/s memory bandwidth.",
+    "url": "https://nvidia.com/h100",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://nvidia.com"
+    },
+    "metadata": {
+      "manufacturer": "NVIDIA",
+      "supported_models": [
+        "Llama 3.1 405B",
+        "DeepSeek-V3",
+        "Mistral Large 2"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a40d7fae-3e8e-53dd-bd13-8f40f9045842",
+    "entity_type": "Device",
+    "name": "NVIDIA B200 Blackwell",
+    "description": "Next-generation Blackwell AI superchip with 208 billion transistors delivering up to 20 petaflops of FP4 inference compute.",
+    "url": "https://nvidia.com/blackwell",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://nvidia.com"
+    },
+    "metadata": {
+      "manufacturer": "NVIDIA",
+      "supported_models": [
+        "Llama 3.1 405B",
+        "DeepSeek-R1"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "430c4a4e-a82a-555a-b02c-07fb79b11716",
+    "entity_type": "Device",
+    "name": "NVIDIA GB200 NVL72",
+    "description": "Liquid-cooled rack-scale system connecting 72 Blackwell GPUs and 36 Grace CPUs into a massive single-GPU domain with NVLink 5.",
+    "url": "https://nvidia.com/gb200-nvl72",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://nvidia.com"
+    },
+    "metadata": {
+      "manufacturer": "NVIDIA"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "af68eb16-7435-5256-8b76-847c43f73c24",
+    "entity_type": "Device",
+    "name": "Groq LPU Card",
+    "description": "Language Processing Unit PCIe accelerator built on deterministic Tensor Streaming Architecture for ultra-high token generation speed.",
+    "url": "https://groq.com/hardware",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://groq.com"
+    },
+    "metadata": {
+      "manufacturer": "Groq",
+      "supported_models": [
+        "Llama 3.3 70B",
+        "Mistral NeMo",
+        "Whisper large-v3-turbo"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f52cd5af-c613-54e8-8e7f-41b323df6bea",
+    "entity_type": "Device",
+    "name": "Apple Vision Pro",
+    "description": "Spatial computing headset powered by Apple M2 and R1 silicon running spatial AI, computer vision, and gaze-tracking neural networks.",
+    "url": "https://apple.com/apple-vision-pro",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Computer Vision"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://apple.com"
+    },
+    "metadata": {
+      "manufacturer": "Apple"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b02d7a18-25e4-5cb0-90ae-8d64e65ceda8",
+    "entity_type": "Device",
+    "name": "Rabbit R1",
+    "description": "Pocket AI companion device featuring Rabbit OS, push-to-talk microphone, 360-degree rotational camera, and analog scroll wheel.",
+    "url": "https://rabbit.tech/r1",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://rabbit.tech"
+    },
+    "metadata": {
+      "manufacturer": "Rabbit"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d6941e42-dea2-5ef7-b879-4b5e66a293d1",
+    "entity_type": "Device",
+    "name": "Humane Ai Pin",
+    "description": "Screenless wearable pin with laser ink display, voice gestures, and OpenAI cloud model integration.",
+    "url": "https://hu.ma.ne/aipin",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://hu.ma.ne"
+    },
+    "metadata": {
+      "manufacturer": "Humane"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5222da92-b172-557b-a9ec-4722787b2020",
+    "entity_type": "Device",
+    "name": "Raspberry Pi 5 AI Kit",
+    "description": "Compact edge AI bundle combining Raspberry Pi 5 with Hailo-8L M.2 neural accelerator delivering 13 TOPS of local inference.",
+    "url": "https://raspberrypi.com/products/ai-kit",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://raspberrypi.com"
+    },
+    "metadata": {
+      "supported_models": [
+        "Llama 3.2 3B"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7fbc6924-07db-53d6-8c70-0da2572c0046",
+    "entity_type": "Device",
+    "name": "NVIDIA Jetson Orin Nano",
+    "description": "Compact edge AI module offering up to 40 TOPS of AI compute for computer vision, robotics, and generative AI edge applications.",
+    "url": "https://nvidia.com/jetson-orin-nano",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://nvidia.com"
+    },
+    "metadata": {
+      "manufacturer": "NVIDIA",
+      "supported_models": [
+        "Llama 3.2 3B",
+        "Phi-3.5-mini"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c49d2add-cd22-5422-859a-3041ecd66bf8",
+    "entity_type": "Device",
+    "name": "Tenstorrent Wormhole",
+    "description": "Tensix core RISC-V based machine learning accelerator card engineered for scalable cost-effective transformer training and inference.",
+    "url": "https://tenstorrent.com/hardware/wormhole",
+    "categories": [
+      "Ai Hardware & Accelerators"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://tenstorrent.com"
+    },
+    "metadata": {
+      "manufacturer": "Tenstorrent"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "867f58a7-8bd0-5c70-8566-7c48226aa5ae",
+    "entity_type": "Device",
+    "name": "Intel Gaudi 3",
+    "description": "AI accelerator tailored for cost-effective generative AI training and deployment with 128GB HBM2e memory and 3.7 TB/s bandwidth.",
+    "url": "https://intel.com/gaudi3",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://intel.com"
+    },
+    "metadata": {
+      "manufacturer": "Intel",
+      "supported_models": [
+        "Llama 3.3 70B",
+        "Mistral Large 2"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "43d3b049-7368-59b6-a3a0-31b366a89a55",
+    "entity_type": "Device",
+    "name": "AMD Instinct MI300X",
+    "description": "Generative AI accelerator featuring CDNA 3 architecture with 192GB HBM3 memory and 5.3 TB/s bandwidth for large model inference.",
+    "url": "https://amd.com/instinct-mi300x",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://amd.com"
+    },
+    "metadata": {
+      "manufacturer": "AMD",
+      "supported_models": [
+        "Llama 3.1 405B",
+        "DeepSeek-V3"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a9b280be-6795-58e1-8348-0c50a760e0cd",
+    "entity_type": "Device",
+    "name": "Google TPU v5p",
+    "description": "Google's most powerful Tensor Processing Unit supercomputer chip optimized for training frontier foundation models like Gemini.",
+    "url": "https://cloud.google.com/tpu",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://cloud.google.com"
+    },
+    "metadata": {
+      "manufacturer": "Google DeepMind",
+      "supported_models": [
+        "Gemini 1.5 Pro",
+        "Gemini 2.0 Flash"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7374b06f-75dd-5693-ae6f-2bba65b670fd",
+    "entity_type": "Device",
+    "name": "Cerebras CS-3",
+    "description": "Wafer-Scale AI supercomputer containing 4 million AI cores on a single continuous silicon wafer for instant trillion-parameter training.",
+    "url": "https://cerebras.ai/product-system",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://cerebras.ai"
+    },
+    "metadata": {
+      "manufacturer": "Cerebras Systems",
+      "supported_models": [
+        "Llama 3.3 70B"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "66f4ed0d-8f9c-5640-8701-118c19f59e51",
+    "entity_type": "Device",
+    "name": "Hailo-8 M.2 Module",
+    "description": "Ultra-compact M.2 AI acceleration module for edge vision and industrial IoT systems delivering 26 TOPS at 2.5 watts.",
+    "url": "https://hailo.ai/products/ai-accelerators/hailo-8-m2-module",
+    "categories": [
+      "Ai Hardware & Accelerators"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://hailo.ai"
+    },
+    "metadata": {
+      "manufacturer": "Hailo"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "86aad242-3ed8-5dab-ae6c-9ba84541736c",
+    "entity_type": "Device",
+    "name": "Meta Ray-Ban Smart Glasses",
+    "description": "Smart glasses with open-ear speakers, ultra-wide 12MP camera, and Meta AI multimodal voice assistant integration.",
+    "url": "https://ray-ban.com/meta",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://meta.com"
+    },
+    "metadata": {
+      "manufacturer": "Meta",
+      "supported_models": [
+        "Llama 3.2 3B"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b078abd0-e3b2-5134-9f13-be928d8b3d2d",
+    "entity_type": "Device",
+    "name": "Friend AI Pendant",
+    "description": "Wearable Bluetooth AI pendant worn around the neck that listens to your daily life and sends context-aware text messages.",
+    "url": "https://friend.com",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://friend.com"
+    },
+    "metadata": {
+      "manufacturer": "Friend"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2ec738a6-7605-5d79-893b-30e503e5149a",
+    "entity_type": "Device",
+    "name": "Plaud Note AI Recorder",
+    "description": "Card-thin voice recorder attached to smartphones that captures phone calls, transcribes via Whisper, and structures summaries with Claude.",
+    "url": "https://plaud.ai",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://plaud.ai"
+    },
+    "metadata": {
+      "manufacturer": "Plaud",
+      "supported_models": [
+        "Whisper large-v3-turbo",
+        "Claude 3.5 Sonnet"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  }
+]

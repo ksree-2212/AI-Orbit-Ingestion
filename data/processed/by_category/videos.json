@@ -1,0 +1,442 @@
+[
+  {
+    "id": "28a10642-065f-5cf8-b2a5-b38386c649bf",
+    "entity_type": "Video",
+    "name": "Andrej Karpathy: Let's build GPT from scratch, in code, spelled out",
+    "description": "Comprehensive 2-hour walkthrough building a complete Transformer generative pre-trained language model in Python and PyTorch from raw mathematics to character generation.",
+    "url": "https://youtube.com/watch?v=kCc8FmEb1nY",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "subject": "Large Language Models"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "eedd45b0-af21-5760-8349-22ac2d85713b",
+    "entity_type": "Video",
+    "name": "3Blue1Brown: Visualizing Attention Mechanisms in Large Language Models (Transformers)",
+    "description": "Geometric and visual intuitive breakdown of self-attention mechanisms, query-key dot products, and multi-head representation spaces in modern transformers.",
+    "url": "https://youtube.com/watch?v=eMlx5fFNoYc",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "subject": "Large Language Models"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3361920b-7f48-5212-9199-fe3b5a514866",
+    "entity_type": "Video",
+    "name": "Yannic Kilcher: DeepSeek-R1 Architecture and Pure Reinforcement Learning Paper Review",
+    "description": "In-depth technical breakdown of DeepSeek-R1 paper, explaining cold-start vs pure RL emergent reasoning behaviors, reward modeling, and distillation efficiency.",
+    "url": "https://youtube.com/watch?v=deepseek_r1_review",
+    "categories": [
+      "Open Source Ai",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "DeepSeek-R1"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "00a142c9-a1a3-54be-8fae-ec50529b7444",
+    "entity_type": "Video",
+    "name": "Two Minute Papers: Figure 02 Humanoid Robot Working Inside BMW Automotive Plant!",
+    "description": "Fellow scholars, what a time to be alive! A breakdown of the Figure 02 humanoid robot autonomous sheet metal handling in real industrial factory conditions.",
+    "url": "https://youtube.com/watch?v=figure02_bmw_twominute",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Figure 02"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "51c25a2d-80e1-5dde-a55d-e84411122855",
+    "entity_type": "Video",
+    "name": "Lex Fridman Podcast: Dario Amodei on Claude 3.5, Scaling Laws, and the Future of AI",
+    "description": "Anthropic CEO Dario Amodei discusses constitutional AI, mechanistic interpretability, model scaling trajectories, and safe deployment of frontier intelligence.",
+    "url": "https://youtube.com/watch?v=lex_dario_amodei",
+    "categories": [
+      "Ai Safety & Alignment",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Anthropic"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b4466da1-02b6-5d54-a50d-7c474f99a596",
+    "entity_type": "Video",
+    "name": "Fireship: Model Context Protocol (MCP) in 100 Seconds - The USB-C for AI Apps",
+    "description": "Fast-paced overview of Anthropic's Model Context Protocol (MCP), explaining why universal tools and data connectors will replace custom API glue code.",
+    "url": "https://youtube.com/watch?v=mcp_in_100_seconds",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "github-mcp-server"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1aa8d077-4de2-51fb-b80e-58b43c187a74",
+    "entity_type": "Video",
+    "name": "StatQuest: Transformer Neural Networks Explained Simply from Embeddings to Self-Attention",
+    "description": "Clear step-by-step conceptual guide to Positional Encoding, Query/Key/Value transformations, and Multi-Head Attention without overwhelming mathematical jargon.",
+    "url": "https://youtube.com/watch?v=statquest_transformers",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "subject": "Large Language Models"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3fa1631f-ef68-5eaf-ad5f-20c9e21f9ae2",
+    "entity_type": "Video",
+    "name": "AI Explained: OpenAI o1 Chain of Thought and Internal Reasoning Mechanics Analyzed",
+    "description": "Technical analysis evaluating OpenAI o1 and o1-mini benchmarks, hidden reasoning tokens, backtracking, and performance scaling with thinking time.",
+    "url": "https://youtube.com/watch?v=aiexplained_o1",
+    "categories": [
+      "Large Language Models",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "OpenAI o1"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "72449147-f006-559f-8619-b8beee393cf3",
+    "entity_type": "Video",
+    "name": "Wes Roth: Unitree G1 Humanoid Robot Mass Production and Factory Testing Deep Dive",
+    "description": "Analysis of Unitree G1 humanoid robot features, commercial price points at $16k, actuator torque ratings, and consumer applications.",
+    "url": "https://youtube.com/watch?v=wesroth_unitree_g1",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Unitree G1"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f0f3ccbf-9d5c-5da9-9f71-cba2927ac2db",
+    "entity_type": "Video",
+    "name": "The Verge: Humane Ai Pin and Rabbit R1 Six Months Later - The State of Dedicated AI Gadgets",
+    "description": "Long-term review and real-world testing of standalone AI hardware devices, wearable cameras, and battery life tradeoffs.",
+    "url": "https://youtube.com/watch?v=theverge_ai_gadgets_review",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Rabbit R1"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "41b4ba3e-4717-53c3-a004-d70611d8df9a",
+    "entity_type": "Video",
+    "name": "Matthew Berman: Complete Guide to Running Open-Source Local LLMs with Ollama and vLLM",
+    "description": "Step-by-step tutorial on deploying Llama 3.3 and DeepSeek locally, setting up continuous batching, and integrating with Open WebUI.",
+    "url": "https://youtube.com/watch?v=matthewberman_local_llms",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Ollama"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "58ca5c5b-0941-5101-a0c7-8152ddbcd021",
+    "entity_type": "Video",
+    "name": "TechLead: Cursor AI vs GitHub Copilot - Why Every Developer is Switching",
+    "description": "Senior software engineer perspective comparing Cursor AI multi-file edits and composer mode with traditional GitHub Copilot completions.",
+    "url": "https://youtube.com/watch?v=techlead_cursor_vs_copilot",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Cursor"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f12ade4c-46d6-5781-97ae-d7b0596ad7d9",
+    "entity_type": "Video",
+    "name": "Dwarkesh Patel: Demis Hassabis on AGI, AlphaFold 3, and Scaling Intelligence",
+    "description": "In-depth conversation with Google DeepMind co-founder Demis Hassabis on the journey from AlphaGo to Gemini 2.0 and AlphaFold biomolecular breakthrough.",
+    "url": "https://youtube.com/watch?v=dwarkesh_demis_hassabis",
+    "categories": [
+      "Generative AI",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Google DeepMind"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "cad5458d-191e-5b29-b3b5-c182c8e7438c",
+    "entity_type": "Video",
+    "name": "Computerphile: How Diffusion Models Actually Work Step by Step",
+    "description": "Professor Mike Pound breaks down forward noise addition, reverse score-matching denoising processes, and U-Net / DiT architectures in generative imaging.",
+    "url": "https://youtube.com/watch?v=computerphile_diffusion",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "subject": "Creative AI & Generation"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5bc68b57-0a26-5290-8e1c-4708d1b25b79",
+    "entity_type": "Video",
+    "name": "Umar Jamil: Llama 3 Source Code Walkthrough from Scratch with PyTorch",
+    "description": "Line-by-line coding tutorial implementing RoPE (Rotary Position Embedding), Grouped-Query Attention (GQA), and SwiGLU activations as in Meta Llama 3.",
+    "url": "https://youtube.com/watch?v=umarjamil_llama3",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Llama 3.3 70B"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1d1e04b1-5fb6-5d72-a6ad-d0883e334780",
+    "entity_type": "Video",
+    "name": "MKBHD: Apple Vision Pro - 6 Months Later Real World Review",
+    "description": "Marques Brownlee shares comprehensive impressions on spatial computing ergonomics, persona realism, hand tracking latency, and day-to-day productivity.",
+    "url": "https://youtube.com/watch?v=mkbhd_vision_pro_6months",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Computer Vision"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Apple Vision Pro"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "75da4fd9-694e-5d50-8149-fffb7d1202f8",
+    "entity_type": "Video",
+    "name": "Stanford CS25: Transformers in Vision, Robotics, and Multimodal Systems",
+    "description": "Stanford University guest lecture on Vision Transformers (ViT), diffusion models in robotic manipulation, and cross-modal attention mechanisms.",
+    "url": "https://youtube.com/watch?v=stanford_cs25_multimodal",
+    "categories": [
+      "Multimodal Ai",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "subject": "Multimodal AI"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a2d48b49-423b-5442-80fb-752cba83557b",
+    "entity_type": "Video",
+    "name": "Greg Kamradt: 25+ Advanced RAG Techniques Explained with Code Implementations",
+    "description": "Architectural breakdown of chunking strategies, hypothetical document embeddings (HyDE), contextual reranking, and semantic caching for enterprise RAG.",
+    "url": "https://youtube.com/watch?v=gregkamradt_rag_techniques",
+    "categories": [
+      "Developer Tools",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "subject": "Retrieval-Augmented Generation"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ffb55d16-bf4f-5aab-9f71-d65ae56499ff",
+    "entity_type": "Video",
+    "name": "George Hotz: Tinygrad, Custom GPU Kernels, and Building AI Compute from Ground Up",
+    "description": "George Hotz live-coding session explaining memory layout optimization, matrix multiplications, and writing clean deep learning frameworks.",
+    "url": "https://youtube.com/watch?v=georgehotz_tinygrad",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "subject": "AI Hardware & Accelerators"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "476866d0-4aa5-5690-86e0-649539eb1091",
+    "entity_type": "Video",
+    "name": "Prompt Engineering: Building Production Multi-Agent Systems with CrewAI and LangGraph",
+    "description": "Practical guide to constructing collaborative multi-agent teams with shared state, deterministic guardrails, and automated feedback loops.",
+    "url": "https://youtube.com/watch?v=promptengineering_crewai_langgraph",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "CrewAI"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2454f8bb-c820-5a08-a69c-5cf8b8056370",
+    "entity_type": "Video",
+    "name": "Yannic Kilcher: FlashAttention-3 Fast and Memory-Efficient Exact Attention on Hopper GPUs",
+    "description": "Technical review explaining asynchronous data movement between HBM and SRAM on NVIDIA H100 to maximize tensor core utilization.",
+    "url": "https://youtube.com/watch?v=yannic_flashattention3",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "NVIDIA H100 SXM"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0d5123f0-90ab-510a-bd5d-cc47e194976d",
+    "entity_type": "Video",
+    "name": "Two Minute Papers: Groq Ultra-Fast LPU In Action Generating 500 Tokens Per Second!",
+    "description": "Demonstration of lightning-fast conversational streaming on Groq's Tensor Streaming Processor silicon compared to standard GPU clusters.",
+    "url": "https://youtube.com/watch?v=twominutepapers_groq_lpu",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Groq LPU Card"
+    },
+    "created_at": null,
+    "updated_at": null
+  }
+]

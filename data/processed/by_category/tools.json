@@ -1,0 +1,744 @@
+[
+  {
+    "id": "1d76a0e8-ceea-5b81-b3d3-3223350c3023",
+    "entity_type": "Tool",
+    "name": "ChatGPT",
+    "description": "OpenAI's leading conversational AI platform featuring advanced web search, code interpreter, DALL-E 3 image generation, and voice chat.",
+    "url": "https://chatgpt.com",
+    "categories": [
+      "Generative AI",
+      "Large Language Models",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://openai.com/chatgpt"
+    },
+    "metadata": {
+      "developer": "OpenAI",
+      "powered_by_model": "GPT-4o",
+      "solved_tasks": [
+        "Retrieval-Augmented Generation",
+        "Autonomous Code Generation"
+      ],
+      "modalities": [
+        "code",
+        "multimodal",
+        "text",
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0c7253af-fae3-5a75-99b3-025bda3d38d0",
+    "entity_type": "Tool",
+    "name": "Claude Desktop",
+    "description": "Native desktop application for Anthropic Claude featuring Model Context Protocol (MCP) local tool integration and Artifacts preview.",
+    "url": "https://claude.ai/download",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://claude.ai"
+    },
+    "metadata": {
+      "developer": "Anthropic",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Function Calling and Tool Use",
+        "Long-Context Document Synthesis"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f18caea2-6a43-5da7-a1f5-7f690b1e8427",
+    "entity_type": "Tool",
+    "name": "vLLM",
+    "description": "High-throughput and memory-efficient LLM serving engine featuring PagedAttention and continuous batching for production inference.",
+    "url": "https://vllm.ai",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/vllm-project/vllm"
+    },
+    "metadata": {
+      "developer": "vLLM",
+      "solved_tasks": [
+        "Local LLM Quantization and Inference",
+        "Edge Hardware Model Deployment"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9e6ce3b4-c1d9-501d-b750-ec08ed9af3b4",
+    "entity_type": "Tool",
+    "name": "Ollama",
+    "description": "Get up and running with Llama 3.3, DeepSeek-R1, Mistral, and other large language models locally on macOS, Linux, and Windows.",
+    "url": "https://ollama.com",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ollama/ollama"
+    },
+    "metadata": {
+      "developer": "Ollama",
+      "solved_tasks": [
+        "Local LLM Quantization and Inference"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a50c1ac9-e0c1-5438-a391-fd3462d5e331",
+    "entity_type": "Tool",
+    "name": "LangChain",
+    "description": "Framework for developing context-aware applications powered by language models, agents, and retrieval systems.",
+    "url": "https://langchain.com",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/langchain-ai/langchain"
+    },
+    "metadata": {
+      "developer": "LangChain",
+      "solved_tasks": [
+        "Multi-Agent Collaboration",
+        "Retrieval-Augmented Generation"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "cd851e39-23fa-594a-ae6e-e2d2d27bf0fa",
+    "entity_type": "Tool",
+    "name": "LlamaIndex",
+    "description": "Data framework for LLM applications to ingest, structure, and query private and domain-specific enterprise data.",
+    "url": "https://llamaindex.ai",
+    "categories": [
+      "Developer Tools",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/run-llama/llama_index"
+    },
+    "metadata": {
+      "developer": "LlamaIndex",
+      "solved_tasks": [
+        "Retrieval-Augmented Generation",
+        "Semantic Search and Embeddings"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "24de1309-41d5-5bde-afce-15a8ccbc0bbd",
+    "entity_type": "Tool",
+    "name": "Runway Studio",
+    "description": "Web-based video generation and generative audio studio powered by Gen-3 Alpha for motion designers and film directors.",
+    "url": "https://app.runwayml.com",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://runwayml.com"
+    },
+    "metadata": {
+      "developer": "Runway",
+      "powered_by_model": "Runway Gen-3 Alpha",
+      "solved_tasks": [
+        "Text-to-Video Cinematic Synthesis"
+      ],
+      "modalities": [
+        "video",
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1b810320-b7ba-5887-a877-ee12a03889ca",
+    "entity_type": "Tool",
+    "name": "ElevenLabs Reader",
+    "description": "High-fidelity text-to-speech mobile and web app that reads articles, books, and documents in lifelike cloned voices.",
+    "url": "https://elevenlabs.io/reader",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://elevenlabs.io"
+    },
+    "metadata": {
+      "developer": "ElevenLabs",
+      "solved_tasks": [
+        "Audio Transcription and Diarization",
+        "Low-Latency Real-Time Voice Chat"
+      ],
+      "modalities": [
+        "audio",
+        "multimodal",
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7c5ad677-37af-5ad4-bcbc-1d30c115c928",
+    "entity_type": "Tool",
+    "name": "GitHub Copilot",
+    "description": "AI pair programmer embedded in Visual Studio, VS Code, and JetBrains IDEs to suggest code completions and explanations.",
+    "url": "https://github.com/features/copilot",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/features/copilot"
+    },
+    "metadata": {
+      "developer": "Microsoft",
+      "powered_by_model": "GPT-4o",
+      "solved_tasks": [
+        "Autonomous Code Generation"
+      ],
+      "modalities": [
+        "code"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c9b741cb-a25e-56e8-93d2-79557376c9c2",
+    "entity_type": "Tool",
+    "name": "Devin",
+    "description": "Cognition's autonomous AI software engineer capable of planning, executing complex coding tasks, and deploying full applications.",
+    "url": "https://cognition.ai",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://cognition.ai"
+    },
+    "metadata": {
+      "developer": "Cognition",
+      "solved_tasks": [
+        "Autonomous Code Generation",
+        "Multi-Agent Collaboration"
+      ],
+      "modalities": [
+        "code"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9b6d9106-ed0e-525b-b46b-44eaebfeea7b",
+    "entity_type": "Tool",
+    "name": "Windsurf",
+    "description": "Agentic AI IDE by Codeium featuring Flows and Cascade to coordinate developer edits across multi-file codebases.",
+    "url": "https://codeium.com/windsurf",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://codeium.com"
+    },
+    "metadata": {
+      "developer": "Codeium",
+      "solved_tasks": [
+        "Autonomous Code Generation"
+      ],
+      "modalities": [
+        "code"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "fe6bbf2b-c176-5ccf-bd94-3729afca5919",
+    "entity_type": "Tool",
+    "name": "WhisperX",
+    "description": "Enhanced automatic speech recognition pipeline featuring word-level timestamps and speaker diarization using Whisper.",
+    "url": "https://github.com/m-bain/whisperX",
+    "categories": [
+      "Audio & Speech",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/m-bain/whisperX"
+    },
+    "metadata": {
+      "developer": "m-bain",
+      "powered_by_model": "Whisper large-v3-turbo",
+      "solved_tasks": [
+        "Audio Transcription and Diarization"
+      ],
+      "modalities": [
+        "audio"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "767cd12f-32a7-5dbf-87d6-aaa6b858a2b7",
+    "entity_type": "Tool",
+    "name": "Tabnine",
+    "description": "Private, secure AI code completion assistant supporting local on-premise model hosting for enterprise developers.",
+    "url": "https://tabnine.com",
+    "categories": [
+      "Ai Safety & Alignment",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://tabnine.com"
+    },
+    "metadata": {
+      "developer": "Tabnine",
+      "solved_tasks": [
+        "Autonomous Code Generation"
+      ],
+      "modalities": [
+        "code",
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "84154c5c-7125-54f4-ae54-bb8f92c88a62",
+    "entity_type": "Tool",
+    "name": "Raycast AI",
+    "description": "Productivity launcher extension providing instant access to frontier LLMs, inline text transforms, and custom agent commands.",
+    "url": "https://raycast.com/ai",
+    "categories": [
+      "Developer Tools",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://raycast.com"
+    },
+    "metadata": {
+      "developer": "Raycast",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Long-Context Document Synthesis"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "83d8ebdd-c46c-5b4a-880b-96163ac2d6de",
+    "entity_type": "Tool",
+    "name": "Granola",
+    "description": "AI notepad for meetings that combines human typing with automated audio transcription and smart bullet-point structuring.",
+    "url": "https://granola.ai",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://granola.ai"
+    },
+    "metadata": {
+      "developer": "Granola",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Meeting Summarization and Action Item Extraction"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "625f2567-5bdd-5e51-bbd6-0ebdb70a7c6b",
+    "entity_type": "Tool",
+    "name": "Phind",
+    "description": "Intelligent search engine specifically tailored for software developers and technical architecture troubleshooting.",
+    "url": "https://phind.com",
+    "categories": [
+      "Developer Tools",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://phind.com"
+    },
+    "metadata": {
+      "developer": "Phind",
+      "solved_tasks": [
+        "Real-Time Web Research and Fact-Checking",
+        "Autonomous Code Generation"
+      ],
+      "modalities": [
+        "code"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4ceac0f3-f836-537b-8a29-9b569abdcf0e",
+    "entity_type": "Tool",
+    "name": "Replit Agent",
+    "description": "Autonomous development agent in Replit that designs, provisions databases, codes, and deploys full web apps from prompt.",
+    "url": "https://replit.com/ai",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://replit.com"
+    },
+    "metadata": {
+      "developer": "Replit",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Autonomous Code Generation"
+      ],
+      "modalities": [
+        "code"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "88a11bd8-76ed-5381-832f-8d370661da24",
+    "entity_type": "Tool",
+    "name": "Hugging Face Hub",
+    "description": "The central repository for open-source AI models, datasets, and Spaces demos with Git-based version control.",
+    "url": "https://huggingface.co/models",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "developer": "Hugging Face",
+      "solved_tasks": [
+        "Synthetic Dataset Generation"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0ba4d38b-a905-55b1-b43c-3db62921c0cc",
+    "entity_type": "Tool",
+    "name": "Poe",
+    "description": "Fast multi-bot platform by Quora letting users chat with diverse frontier models and create monetized custom AI bots.",
+    "url": "https://poe.com",
+    "categories": [
+      "Generative AI",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://poe.com"
+    },
+    "metadata": {
+      "developer": "Quora",
+      "powered_by_model": "GPT-4o",
+      "solved_tasks": [
+        "Retrieval-Augmented Generation"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5ec991cf-2416-512f-bea3-54f3946e3ec5",
+    "entity_type": "Tool",
+    "name": "Together AI",
+    "description": "Fast cloud platform for building, fine-tuning, and running open-source generative AI models at high token throughput.",
+    "url": "https://together.ai",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://together.ai"
+    },
+    "metadata": {
+      "developer": "Together AI",
+      "solved_tasks": [
+        "Local LLM Quantization and Inference"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "538ff721-eeb3-50c4-989f-296d609bc695",
+    "entity_type": "Tool",
+    "name": "GroqCloud",
+    "description": "Ultra-low-latency developer cloud API delivering hundreds of tokens per second powered by Groq LPU silicon.",
+    "url": "https://console.groq.com",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://groq.com"
+    },
+    "metadata": {
+      "developer": "Groq",
+      "solved_tasks": [
+        "Low-Latency Real-Time Voice Chat",
+        "Edge Hardware Model Deployment"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b1cdb04b-5f16-5de6-a42b-47a5ae7cdc7a",
+    "entity_type": "Tool",
+    "name": "AutoGPT",
+    "description": "Autonomous open-source agent framework executing multi-step goals via internet browsing, file management, and tool use.",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "categories": [
+      "Autonomous Agents",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT"
+    },
+    "metadata": {
+      "developer": "Significant Gravitas",
+      "solved_tasks": [
+        "Multi-Agent Collaboration",
+        "Autonomous Code Generation"
+      ],
+      "implements_entity": "AutoGPT",
+      "license": "MIT",
+      "modalities": [
+        "code"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3175a3c2-100c-50bd-81b1-2505f26fa8aa",
+    "entity_type": "Tool",
+    "name": "CrewAI",
+    "description": "Cutting-edge framework for orchestrating role-playing autonomous AI agents to solve complex enterprise workflows collaboratively.",
+    "url": "https://crewai.com",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/crewAIInc/crewAI"
+    },
+    "metadata": {
+      "developer": "CrewAI",
+      "solved_tasks": [
+        "Multi-Agent Collaboration"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "82ff580e-e6f3-57fa-b409-a0af48e4a68c",
+    "entity_type": "Tool",
+    "name": "DSPy",
+    "description": "Framework by Stanford for programming with foundation models, replacing fragile prompt engineering with automatic optimizers.",
+    "url": "https://github.com/stanfordnlp/dspy",
+    "categories": [
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/stanfordnlp/dspy"
+    },
+    "metadata": {
+      "developer": "Stanford NLP",
+      "solved_tasks": [
+        "Prompt Optimization and DSPy Compilation"
+      ],
+      "implements_entity": "DSPy",
+      "license": "MIT",
+      "modalities": [
+        "code",
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "dd8a3cf9-354b-51a3-a62d-6ca0fbd10dfb",
+    "entity_type": "Tool",
+    "name": "Open Interpreter",
+    "description": "Open-source natural language interface letting LLMs run code (Python, Bash, JS) locally on your computer terminal.",
+    "url": "https://openinterpreter.com",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/KillianLucas/open-interpreter"
+    },
+    "metadata": {
+      "developer": "Killian Lucas",
+      "solved_tasks": [
+        "Autonomous Code Generation",
+        "Function Calling and Tool Use"
+      ],
+      "modalities": [
+        "code"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "58678ab1-e4dc-5246-8427-fb4f3de58e53",
+    "entity_type": "Tool",
+    "name": "Jan.ai",
+    "description": "Open-source, local-first alternative to ChatGPT running completely offline on your desktop hardware without telemetry.",
+    "url": "https://jan.ai",
+    "categories": [
+      "Open Source Ai",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/janhq/jan"
+    },
+    "metadata": {
+      "developer": "Jan HQ",
+      "solved_tasks": [
+        "Local LLM Quantization and Inference"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "17a2fdcb-59e1-59eb-9441-b6e3a1ba1f27",
+    "entity_type": "Tool",
+    "name": "LM Studio",
+    "description": "Discover, download, and run local LLMs (GGUF format) with a sleek desktop UI and drop-in OpenAI-compatible local server.",
+    "url": "https://lmstudio.ai",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://lmstudio.ai"
+    },
+    "metadata": {
+      "developer": "LM Studio",
+      "solved_tasks": [
+        "Local LLM Quantization and Inference"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  }
+]

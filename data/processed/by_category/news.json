@@ -1,0 +1,511 @@
+[
+  {
+    "id": "adb065be-09ea-5736-b060-128c906dbec9",
+    "entity_type": "News",
+    "name": "Anthropic Announces Claude 3.5 Sonnet Upgrade with Native Tool Use and Computer Control",
+    "description": "Anthropic unveils an upgraded Claude 3.5 Sonnet model introducing an industry-first public beta of computer use, enabling models to interact with desktop screens and keyboards.",
+    "url": "https://anthropic.com/news/3-5-models-and-computer-use",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://anthropic.com/news"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Anthropic",
+        "Claude 3.5 Sonnet"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f6515b1c-5001-5e4a-aa58-4a7ec5f1d675",
+    "entity_type": "News",
+    "name": "DeepSeek Open-Sources DeepSeek-R1 Reasoning Model and System Weights under MIT License",
+    "description": "DeepSeek disrupts AI economics by releasing weights and technical recipes for DeepSeek-R1, demonstrating frontier reasoning parity using purely reinforcement learning.",
+    "url": "https://deepseek.com/news/deepseek-r1-release",
+    "categories": [
+      "Open Source Ai",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://deepseek.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "DeepSeek",
+        "DeepSeek-R1"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ad644f36-18e8-56fa-ae00-322361e08b12",
+    "entity_type": "News",
+    "name": "OpenAI Unveils o1 Reasoning Model Series for Advanced Math, Coding, and Science",
+    "description": "OpenAI announces the o1 family of models that spend more test-time compute thinking through problems before providing solutions.",
+    "url": "https://openai.com/news/introducing-openai-o1",
+    "categories": [
+      "Large Language Models",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://openai.com/news"
+    },
+    "metadata": {
+      "covered_entities": [
+        "OpenAI",
+        "OpenAI o1"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "447c8cdf-2111-546f-b201-ec5476ee9c09",
+    "entity_type": "News",
+    "name": "Figure 02 Humanoid Robot Successfully Completes Production Trial at BMW Spartanburg Plant",
+    "description": "Figure AI announces that its Figure 02 humanoid robot successfully completed sheet metal and chassis insertion trials on the active BMW automotive assembly line.",
+    "url": "https://figure.ai/news/bmw-pilot-success",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://figure.ai"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Figure AI",
+        "Figure 02"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ecf7fbbf-b2af-5bc8-b416-2ca9823aabba",
+    "entity_type": "News",
+    "name": "Anthropic Open-Sources Model Context Protocol (MCP) Standard for Universal AI Tools",
+    "description": "Anthropic releases the Model Context Protocol (MCP) as an open industry standard to replace fragmented custom integrations between LLMs and enterprise tools.",
+    "url": "https://anthropic.com/news/model-context-protocol",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://anthropic.com/news"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Anthropic",
+        "github-mcp-server",
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d5bf0557-dfab-5202-b1a9-9efbab34c022",
+    "entity_type": "News",
+    "name": "NVIDIA Blackwell GB200 Systems Enter Mass Production and Global Data Center Shipments",
+    "description": "NVIDIA CEO Jensen Huang confirms full mass production ramp of Blackwell GB200 NVL72 liquid-cooled supercomputing systems.",
+    "url": "https://nvidianews.nvidia.com/news/blackwell-production-ramp",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://nvidianews.nvidia.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "NVIDIA",
+        "NVIDIA B200 Blackwell",
+        "NVIDIA GB200 NVL72"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "08670926-0621-5d6c-b38d-3e74daf93b42",
+    "entity_type": "News",
+    "name": "Meta Releases Llama 3.3 70B Offering 405B Capabilities at Single-GPU Serving Cost",
+    "description": "Meta AI publishes Llama 3.3 70B, combining advanced knowledge distillation and fine-tuning to rival the largest 405B frontier open models.",
+    "url": "https://ai.meta.com/blog/llama-3-3-release",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://ai.meta.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Meta",
+        "Llama 3.3 70B"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1ebe7437-58e1-573c-ad36-83e95ecb92ab",
+    "entity_type": "News",
+    "name": "Mistral AI Launches Codestral Open-Weight Model for Software Developers",
+    "description": "Mistral AI introduces Codestral, a 22B parameter model tailored specifically for code generation, completion, and fill-in-the-middle operations across 80+ programming languages.",
+    "url": "https://mistral.ai/news/codestral-announcement",
+    "categories": [
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://mistral.ai/news"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Mistral AI",
+        "Codestral"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ca1abf76-a1fa-5f65-aa11-0e2235dfe5bb",
+    "entity_type": "News",
+    "name": "Runway Launches Gen-3 Alpha Video Model with Breakthrough Camera Motion Controls",
+    "description": "Runway unveils Gen-3 Alpha, delivering significant improvements in fidelity, temporal consistency, and fine-grained camera direction for video creators.",
+    "url": "https://runwayml.com/news/gen-3-alpha-launch",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://runwayml.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Runway",
+        "Runway Gen-3 Alpha"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ab159af1-3fa7-5bb5-9a8a-61d30e8a1259",
+    "entity_type": "News",
+    "name": "Black Forest Labs Announces Flux.1 Suite of Open-Weight Diffusion Models",
+    "description": "Founded by the original creators of Stable Diffusion, Black Forest Labs releases Flux.1 Schnell, Dev, and Pro models for state-of-the-art image generation.",
+    "url": "https://blackforestlabs.ai/announcements/flux1-release",
+    "categories": [
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://blackforestlabs.ai"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Flux.1 Schnell",
+        "Flux.1 Dev"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "16c34d08-9d38-5438-9042-63beabd985de",
+    "entity_type": "News",
+    "name": "Groq Demonstrates Over 500 Tokens/Second Inference Throughput on LPU Hardware",
+    "description": "Groq showcases real-time streaming LLM performance exceeding 500 tokens per second for Llama 3.3 models running on LPUs.",
+    "url": "https://groq.com/news/groq-500-tps-milestone",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://groq.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Groq",
+        "Groq LPU Card"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0c939ab6-5cb3-55ca-ac98-9b5425d83566",
+    "entity_type": "News",
+    "name": "Apple Intelligence Rolls Out Across iOS, iPadOS, and macOS with Private Cloud Compute",
+    "description": "Apple launches Apple Intelligence featuring on-device foundational models, writing tools, photo clean-up, and Siri integrations.",
+    "url": "https://apple.com/newsroom/2026/08/apple-intelligence",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://apple.com/newsroom"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Apple Vision Pro"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2b25570e-76f0-5248-978c-bf9acd7af2c2",
+    "entity_type": "News",
+    "name": "ElevenLabs Launches Conversational Voice Agent API with Sub-250ms Response Latency",
+    "description": "ElevenLabs introduces an end-to-end voice agent platform enabling developers to deploy conversational voice bots with integrated speech-to-speech pipelines.",
+    "url": "https://elevenlabs.io/news/conversational-ai-api",
+    "categories": [
+      "Audio & Speech",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://elevenlabs.io"
+    },
+    "metadata": {
+      "covered_entities": [
+        "ElevenLabs",
+        "ElevenLabs Reader"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0553cd98-2c5c-5b3e-84c8-3d18bc47b491",
+    "entity_type": "News",
+    "name": "Boston Dynamics Retires Hydraulic Atlas to Debut Fully Electric Commercial Humanoid",
+    "description": "Boston Dynamics unveils an all-electric Atlas humanoid robot engineered for real-world industrial automotive applications in partnership with Hyundai.",
+    "url": "https://bostondynamics.com/news/electric-atlas-reveal",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://bostondynamics.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Boston Dynamics",
+        "Boston Dynamics Atlas"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d1f17cd8-85a8-5292-9153-bf78e8174ff8",
+    "entity_type": "News",
+    "name": "Hugging Face Hub Surpasses 1 Million Open Machine Learning Models Milestone",
+    "description": "Hugging Face marks a historic milestone as over one million open AI models and datasets are actively hosted and evaluated on the platform.",
+    "url": "https://huggingface.co/blog/1-million-models",
+    "categories": [
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Hugging Face",
+        "Hugging Face Hub"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d6901deb-36f2-5416-92ff-3dbb69c6eb9c",
+    "entity_type": "News",
+    "name": "Unitree Robotics Announces Commercial Availability of G1 Humanoid Robot at $16,000",
+    "description": "Unitree announces mass production and global shipping of the G1 bipedal humanoid robot priced at $16k to democratize robotics education and research.",
+    "url": "https://unitree.com/news/g1-mass-production",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://unitree.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Unitree Robotics",
+        "Unitree G1"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b81ab8b3-26f2-5d49-99ff-de573059aa47",
+    "entity_type": "News",
+    "name": "Cohere Unveils Command R+ Tailored for Enterprise Retrieval-Augmented Generation",
+    "description": "Cohere introduces Command R+, a scalable 104B model with advanced multilingual citations, tool use, and enterprise compliance integration.",
+    "url": "https://cohere.com/news/command-r-plus",
+    "categories": [
+      "Enterprise Ai",
+      "Large Language Models",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://cohere.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Cohere",
+        "Command R+"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c89739a7-5fa3-5336-ae11-8447f207466f",
+    "entity_type": "News",
+    "name": "Anysphere Raises $60 Million Series A at $2.5B Valuation for Cursor AI Code Editor",
+    "description": "Anysphere, the developer of Cursor, closes a new funding round to expand its autonomous programming infrastructure and frontier model partnerships.",
+    "url": "https://cursor.com/blog/series-a",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://cursor.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "76ad9508-1149-57fb-9ea1-80056dc2005a",
+    "entity_type": "News",
+    "name": "Google DeepMind AlphaFold 3 Successfully Models Interactions of All Life's Molecules",
+    "description": "DeepMind and Isomorphic Labs publish AlphaFold 3, predicting structure and interactions of proteins, DNA, RNA, ligands, and chemical modifications with unprecedented accuracy.",
+    "url": "https://deepmind.google/discover/blog/alphafold-3-predicts-structure-and-interactions",
+    "categories": [
+      "Generative AI",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://deepmind.google"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Google DeepMind"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0867acf6-7195-58c5-836f-a3c802440851",
+    "entity_type": "News",
+    "name": "OpenAI Rolls Out GPT-4o Advanced Voice Mode with Expressive Real-Time Emotional Prosody",
+    "description": "OpenAI begins full rollout of Advanced Voice Mode powered by GPT-4o, allowing fluid interruptions, singing, humor, and emotional nuances in conversational audio.",
+    "url": "https://openai.com/news/advanced-voice-mode-rollout",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://openai.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "OpenAI",
+        "GPT-4o",
+        "ChatGPT"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1b86eccf-c640-5e3f-8f49-2280d92b657f",
+    "entity_type": "News",
+    "name": "Scale AI Closes $1 Billion Series F Funding Led by Accel to Build Defense and Frontier Data",
+    "description": "Scale AI reaches $13.8B valuation in Series F round with participation from NVIDIA, Amazon, and Meta to fuel frontier model evaluation and synthetic RLHF datasets.",
+    "url": "https://scale.com/blog/series-f",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Enterprise Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://scale.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Scale AI",
+        "NVIDIA",
+        "Meta"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "57032c9c-dffe-5825-8755-2edd017fdfe6",
+    "entity_type": "News",
+    "name": "Stability AI Unveils Stable Diffusion 3.5 Suite with Improved Typography and Prompt Following",
+    "description": "Stability AI introduces Stable Diffusion 3.5 Large, Large Turbo, and Medium under a permissive community license for research and commercial use.",
+    "url": "https://stability.ai/news/stable-diffusion-3-5-release",
+    "categories": [
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://stability.ai"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Stability AI",
+        "Stable Diffusion 3.5 Large"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  }
+]

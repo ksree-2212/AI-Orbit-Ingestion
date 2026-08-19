@@ -1,0 +1,112 @@
+{
+  "total_nodes": 269,
+  "total_edges": 324,
+  "average_degree": 2.41,
+  "top_connected_hubs": [
+    {
+      "name": "Claude Desktop",
+      "type": "Tool",
+      "in_degree": 21,
+      "out_degree": 3,
+      "total_degree": 24
+    },
+    {
+      "name": "Cursor",
+      "type": "Company",
+      "in_degree": 16,
+      "out_degree": 2,
+      "total_degree": 18
+    },
+    {
+      "name": "Claude 3.5 Sonnet",
+      "type": "Model",
+      "in_degree": 4,
+      "out_degree": 11,
+      "total_degree": 15
+    },
+    {
+      "name": "OpenAI",
+      "type": "Company",
+      "in_degree": 12,
+      "out_degree": 0,
+      "total_degree": 12
+    },
+    {
+      "name": "Autonomous Code Generation",
+      "type": "Task",
+      "in_degree": 11,
+      "out_degree": 0,
+      "total_degree": 11
+    },
+    {
+      "name": "Anthropic",
+      "type": "Company",
+      "in_degree": 10,
+      "out_degree": 0,
+      "total_degree": 10
+    },
+    {
+      "name": "GPT-4o",
+      "type": "Model",
+      "in_degree": 3,
+      "out_degree": 7,
+      "total_degree": 10
+    },
+    {
+      "name": "Retrieval-Augmented Generation",
+      "type": "Task",
+      "in_degree": 8,
+      "out_degree": 0,
+      "total_degree": 8
+    },
+    {
+      "name": "Meta",
+      "type": "Company",
+      "in_degree": 7,
+      "out_degree": 0,
+      "total_degree": 7
+    },
+    {
+      "name": "Llama 3.3 70B",
+      "type": "Model",
+      "in_degree": 6,
+      "out_degree": 1,
+      "total_degree": 7
+    },
+    {
+      "name": "Mistral AI",
+      "type": "Company",
+      "in_degree": 6,
+      "out_degree": 0,
+      "total_degree": 6
+    },
+    {
+      "name": "Google DeepMind",
+      "type": "Company",
+      "in_degree": 6,
+      "out_degree": 0,
+      "total_degree": 6
+    },
+    {
+      "name": "NVIDIA",
+      "type": "Company",
+      "in_degree": 6,
+      "out_degree": 0,
+      "total_degree": 6
+    },
+    {
+      "name": "DeepSeek-R1",
+      "type": "Model",
+      "in_degree": 4,
+      "out_degree": 2,
+      "total_degree": 6
+    },
+    {
+      "name": "ChatGPT",
+      "type": "Tool",
+      "in_degree": 3,
+      "out_degree": 3,
+      "total_degree": 6
+    }
+  ]
+}

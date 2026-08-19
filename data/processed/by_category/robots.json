@@ -1,0 +1,293 @@
+[
+  {
+    "id": "90d1a564-62b9-5e60-80ab-c9823becf5ac",
+    "entity_type": "Robot",
+    "name": "Figure 02",
+    "description": "Next-generation commercially deployed bipedal humanoid robot featuring onboard VLM intelligence and dexterous manipulation for industrial assembly.",
+    "url": "https://figure.ai/figure-02",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://figure.ai"
+    },
+    "metadata": {
+      "manufacturer": "Figure AI",
+      "powered_by_model": "OpenAI o1"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d3b0b439-6397-51eb-985b-9db5a7da9500",
+    "entity_type": "Robot",
+    "name": "Boston Dynamics Atlas",
+    "description": "Fully electric, commercial-grade humanoid robot designed for real-world heavy industrial manipulation with a full 360-degree range of motion.",
+    "url": "https://bostondynamics.com/atlas",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://bostondynamics.com"
+    },
+    "metadata": {
+      "manufacturer": "Boston Dynamics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2039365d-9df5-5e5c-8e62-fe1db9454944",
+    "entity_type": "Robot",
+    "name": "Boston Dynamics Spot",
+    "description": "Agile quadruped mobile robot that navigates terrain with unprecedented mobility, automating routine inspection tasks and data capture.",
+    "url": "https://bostondynamics.com/spot",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://bostondynamics.com"
+    },
+    "metadata": {
+      "manufacturer": "Boston Dynamics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2f28c12e-5fb0-52a8-9385-314fc81ca6c3",
+    "entity_type": "Robot",
+    "name": "Tesla Optimus Gen 2",
+    "description": "Bipedal general-purpose humanoid robot developed by Tesla using end-to-end neural network visual navigation and custom actuators.",
+    "url": "https://tesla.com/optimus",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://tesla.com"
+    },
+    "metadata": {
+      "manufacturer": "Tesla"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "cf859dd4-3ead-529d-8e72-eb7b8d9b1ea9",
+    "entity_type": "Robot",
+    "name": "Unitree G1",
+    "description": "Mass-produced human-like agent humanoid robot offering 360-degree joint flexibility, reinforcement learning locomotion, and under-$16k pricing.",
+    "url": "https://unitree.com/g1",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://unitree.com"
+    },
+    "metadata": {
+      "manufacturer": "Unitree Robotics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2609b4fd-3513-5a1e-924b-124a355374d6",
+    "entity_type": "Robot",
+    "name": "Unitree Go2",
+    "description": "Intelligent bipedal/quadruped companion robot equipped with 4D ultra-wide LiDAR, obstacle avoidance, and GPT-powered voice interaction.",
+    "url": "https://unitree.com/go2",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://unitree.com"
+    },
+    "metadata": {
+      "manufacturer": "Unitree Robotics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "bcc8b01f-cf3a-5109-999f-232160f6f70b",
+    "entity_type": "Robot",
+    "name": "1X NEO",
+    "description": "Bipedal humanoid android built with bio-inspired soft actuators specifically engineered for safe physical interaction in home environments.",
+    "url": "https://1x.tech/neo",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://1x.tech"
+    },
+    "metadata": {
+      "manufacturer": "1X Technologies"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7c5c119b-5db0-50f9-bb2f-a5f6cda9bca1",
+    "entity_type": "Robot",
+    "name": "1X EVE",
+    "description": "Commercial wheeled android with dual manipulative grippers deployed across European industrial and security facilities.",
+    "url": "https://1x.tech/eve",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://1x.tech"
+    },
+    "metadata": {
+      "manufacturer": "1X Technologies"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7a5ed16a-7441-5454-9b86-39a4439ea869",
+    "entity_type": "Robot",
+    "name": "Sanctuary AI Phoenix",
+    "description": "General-purpose humanoid robot powered by the Carbon AI cognitive architecture featuring human-like haptic tactile dexterity.",
+    "url": "https://sanctuary.ai/phoenix",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://sanctuary.ai"
+    },
+    "metadata": {
+      "manufacturer": "Sanctuary AI"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0ed349ec-1d47-57a3-9237-393d4ff32c2b",
+    "entity_type": "Robot",
+    "name": "Apptronik Apollo",
+    "description": "Commercial humanoid robot designed to work alongside humans in warehouses and manufacturing plants with swappable batteries.",
+    "url": "https://apptronik.com/apollo",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://apptronik.com"
+    },
+    "metadata": {
+      "manufacturer": "Apptronik"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "391b8f3b-d70d-56b9-9c32-6ebbbe31ea01",
+    "entity_type": "Robot",
+    "name": "Agility Robotics Digit",
+    "description": "Bipedal logistics robot purpose-built for bulk tote handling and bulk warehouse automation inside distribution centers.",
+    "url": "https://agilityrobotics.com/digit",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://agilityrobotics.com"
+    },
+    "metadata": {
+      "manufacturer": "Agility Robotics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4c7ce7e1-2f90-543a-8a16-09d72a701a00",
+    "entity_type": "Robot",
+    "name": "Kepler Forerunner K1",
+    "description": "General-purpose humanoid robot with planetary roller screw actuators for high payload capacity and factory tasks.",
+    "url": "https://keplerbot.com",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://keplerbot.com"
+    },
+    "metadata": {
+      "manufacturer": "Kepler Robotics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5085aa38-4724-5a5f-95e7-ca39c11d1b3f",
+    "entity_type": "Robot",
+    "name": "Fourier Intelligence GR-1",
+    "description": "General-purpose humanoid robot developed for rehabilitation assistance, elderly care, and laboratory research.",
+    "url": "https://fftai.com/gr1",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://fftai.com"
+    },
+    "metadata": {
+      "manufacturer": "Fourier Intelligence"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b1ad0b3b-1c36-51ce-9a84-6e9137dbe648",
+    "entity_type": "Robot",
+    "name": "UBTECH Walker S",
+    "description": "Industrial humanoid robot equipped with multi-modal visual sensor fusion deployed in EV automotive factory inspection lines.",
+    "url": "https://ubtrobot.com/walker-s",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://ubtrobot.com"
+    },
+    "metadata": {
+      "manufacturer": "UBTECH Robotics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f7d1527d-f47d-5468-ab7f-da4150b729bc",
+    "entity_type": "Robot",
+    "name": "PAL Robotics TALOS",
+    "description": "Heavy-payload bipedal humanoid research platform with torque control across all joints for dynamic force tasks.",
+    "url": "https://pal-robotics.com/robots/talos",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://pal-robotics.com"
+    },
+    "metadata": {
+      "manufacturer": "PAL Robotics"
+    },
+    "created_at": null,
+    "updated_at": null
+  }
+]

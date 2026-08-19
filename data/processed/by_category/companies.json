@@ -1,0 +1,491 @@
+[
+  {
+    "id": "defd7c9d-9c47-5c90-a977-b59422eae63d",
+    "entity_type": "Company",
+    "name": "OpenAI",
+    "description": "AI research and deployment company behind the GPT series, ChatGPT, DALL-E, and OpenAI o1 reasoning models.",
+    "url": "https://openai.com",
+    "categories": [
+      "Ai Safety & Alignment",
+      "Generative AI",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://openai.com/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9a1f4fd1-0e37-5977-b4c4-6615e31c3561",
+    "entity_type": "Company",
+    "name": "Anthropic",
+    "description": "AI safety and research company focused on building steerable, interpretable, and reliable frontier models including Claude 3.5.",
+    "url": "https://anthropic.com",
+    "categories": [
+      "Ai Safety & Alignment",
+      "Autonomous Agents",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://anthropic.com/company"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f5b4aade-e58a-5b26-b2e3-f882b0d3d544",
+    "entity_type": "Company",
+    "name": "Mistral AI",
+    "description": "European AI lab developing open-weights and commercial frontier language models including Mistral Large and Codestral.",
+    "url": "https://mistral.ai",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://mistral.ai/company"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b13bacc5-10a1-525e-a546-d3fba6497eaa",
+    "entity_type": "Company",
+    "name": "Hugging Face",
+    "description": "The open platform where the machine learning community collaborates on models, datasets, and AI applications.",
+    "url": "https://huggingface.co",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://huggingface.co/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "6f3727f2-e759-5655-90bd-c7abae2cecb8",
+    "entity_type": "Company",
+    "name": "Cohere",
+    "description": "Enterprise AI platform specializing in enterprise-grade large language models, multilingual embeddings, and RAG solutions.",
+    "url": "https://cohere.com",
+    "categories": [
+      "Enterprise Ai",
+      "Large Language Models",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://cohere.com/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3c3869bb-8c13-54b1-800e-1d0f5b705887",
+    "entity_type": "Company",
+    "name": "DeepSeek",
+    "description": "AI research lab known for high-efficiency open models such as DeepSeek-V3 and DeepSeek-R1 reasoning models.",
+    "url": "https://deepseek.com",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://deepseek.com"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1f130411-7bc0-5933-9da2-04e8190ddb5a",
+    "entity_type": "Company",
+    "name": "Google DeepMind",
+    "description": "Pioneering AI research laboratory behind AlphaFold, AlphaGo, and Google Gemini multimodal frontier models.",
+    "url": "https://deepmind.google",
+    "categories": [
+      "Large Language Models",
+      "Multimodal Ai",
+      "Scientific Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://deepmind.google/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "fa64fa8a-dbb8-56a0-ba87-e045d10f4a2a",
+    "entity_type": "Company",
+    "name": "Meta",
+    "description": "Technology conglomerate leading open-source foundation model research with the Llama series and PyTorch ecosystem.",
+    "url": "https://ai.meta.com",
+    "categories": [
+      "Computer Vision",
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://ai.meta.com/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "13e12c4d-0234-54f3-bcaa-cd90b850ffef",
+    "entity_type": "Company",
+    "name": "NVIDIA",
+    "description": "Global leader in accelerated computing hardware, GPUs (H100, Blackwell), and AI enterprise software frameworks (CUDA, NeMo, TensorRT-LLM).",
+    "url": "https://nvidia.com",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://nvidia.com/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c0a20122-8215-540c-bff0-4fa3ed5ecebe",
+    "entity_type": "Company",
+    "name": "Figure AI",
+    "description": "Autonomous humanoid robotics company creating general-purpose bipedal robots for manufacturing, logistics, and human assistance.",
+    "url": "https://figure.ai",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://figure.ai/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1df1b2d6-1ac1-5af2-a975-37f48244412f",
+    "entity_type": "Company",
+    "name": "Boston Dynamics",
+    "description": "World leader in dynamic mobile robotics, creators of the Atlas electric humanoid, Spot quadruped, and Stretch warehouse robot.",
+    "url": "https://bostondynamics.com",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://bostondynamics.com/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3a34e7cf-13d9-5d7a-ad2c-2309c96f0bbe",
+    "entity_type": "Company",
+    "name": "Unitree Robotics",
+    "description": "Robotics enterprise developing high-performance commercial bipedal humanoid robots (G1, H1) and quadruped platforms.",
+    "url": "https://unitree.com",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://unitree.com"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "52a09620-a8cc-5866-8dff-0706399b719b",
+    "entity_type": "Company",
+    "name": "1X Technologies",
+    "description": "AI and robotics company producing androids designed to work alongside humans, including NEO and EVE bipedal/wheeled robots.",
+    "url": "https://1x.tech",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://1x.tech/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "22730574-6db4-5192-b011-7c36e0538f59",
+    "entity_type": "Company",
+    "name": "Sanctuary AI",
+    "description": "Creators of Phoenix, a general-purpose humanoid robot powered by the Carbon cognitive architecture for human-like intelligence.",
+    "url": "https://sanctuary.ai",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://sanctuary.ai/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a76bbd70-d01f-5511-92b6-4199487c4338",
+    "entity_type": "Company",
+    "name": "ElevenLabs",
+    "description": "Voice AI research company delivering lifelike text-to-speech, voice cloning, and real-time conversational voice agents.",
+    "url": "https://elevenlabs.io",
+    "categories": [
+      "Audio & Speech",
+      "Creative Ai & Generation",
+      "Generative AI"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://elevenlabs.io/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9c67d4a7-222b-55f0-9fa3-27198dbbb3a8",
+    "entity_type": "Company",
+    "name": "Runway",
+    "description": "Applied AI research company pioneering multimodal generative AI systems and foundational video models including Gen-3 Alpha.",
+    "url": "https://runwayml.com",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation",
+      "Generative AI"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://runwayml.com/about"
+    },
+    "metadata": {
+      "company": "Runway",
+      "powered_by_model": "Runway Gen-3 Alpha",
+      "solved_tasks": [
+        "Text-to-Video Cinematic Synthesis"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7287dc99-19e5-5bd4-9103-7e8352f5e978",
+    "entity_type": "Company",
+    "name": "Midjourney",
+    "description": "Advanced generative image synthesis system with enhanced photorealism, coherent human hands, dynamic lighting, and texture accuracy.",
+    "url": "https://midjourney.com",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation",
+      "Generative AI"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://midjourney.com"
+    },
+    "metadata": {
+      "developer": "Midjourney",
+      "solved_tasks": [
+        "Photorealistic Image Inpainting"
+      ],
+      "company": "Midjourney"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a05f0654-5043-58d1-8cac-5c7bfb9084e6",
+    "entity_type": "Company",
+    "name": "Cursor",
+    "description": "AI-powered code editor built on VS Code with native codebase indexing, inline multi-file edits, and agentic terminal commands.",
+    "url": "https://cursor.com",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://cursor.com/about"
+    },
+    "metadata": {
+      "developer": "Cursor",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Autonomous Code Generation",
+        "Automated Unit Test Generation"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "882257e3-132d-5863-b1fa-cb65a7b00f02",
+    "entity_type": "Company",
+    "name": "Groq",
+    "description": "Compute company creator of the LPU (Language Processing Unit) inference engine for ultra-low latency real-time LLM serving.",
+    "url": "https://groq.com",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://groq.com/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "39f06ab5-be69-5406-a495-73cb208f22b1",
+    "entity_type": "Company",
+    "name": "Scale AI",
+    "description": "Data infrastructure platform providing data annotation, RLHF, and evaluation for frontier AI labs and enterprises.",
+    "url": "https://scale.com",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Enterprise Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://scale.com/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7cb827e6-bdf4-5c94-bc16-ba5790cf22cd",
+    "entity_type": "Company",
+    "name": "Perplexity AI",
+    "description": "Conversational search engine delivering accurate, cited answers backed by live internet crawling and academic sources.",
+    "url": "https://perplexity.ai",
+    "categories": [
+      "Generative AI",
+      "Personal Ai Assistants",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://perplexity.ai/about"
+    },
+    "metadata": {
+      "developer": "Perplexity AI",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Real-Time Web Research and Fact-Checking",
+        "Retrieval-Augmented Generation"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0a122fd8-3dc2-5737-b879-59af1fc75cd7",
+    "entity_type": "Company",
+    "name": "Rabbit",
+    "description": "AI hardware startup developing pocket-sized companion devices and Large Action Models (LAM) to interact with mobile apps.",
+    "url": "https://rabbit.tech",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Autonomous Agents",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://rabbit.tech/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9931db3b-d73d-58b9-bd09-a3d67c96bfbb",
+    "entity_type": "Company",
+    "name": "Humane",
+    "description": "Experience company designing wearable AI devices, ambient computing platforms, and screenless personal assistants.",
+    "url": "https://hu.ma.ne",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://hu.ma.ne/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "22877355-c1a5-5761-b13e-ff8829a12cb2",
+    "entity_type": "Company",
+    "name": "Cerebras Systems",
+    "description": "Creator of the Wafer-Scale Engine (WSE-3), building ultra-scale compute clusters for accelerated deep learning and inference.",
+    "url": "https://cerebras.ai",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://cerebras.ai/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "6ff94a5a-3f02-52ff-a0f0-cda232bd4707",
+    "entity_type": "Company",
+    "name": "Stability AI",
+    "description": "Open-source generative AI company creator of Stable Diffusion image and video synthesis foundation models.",
+    "url": "https://stability.ai",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://stability.ai/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  }
+]

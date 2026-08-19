@@ -1,0 +1,427 @@
+[
+  {
+    "id": "55ea3ef8-bad4-5446-85d8-32f4e81de87f",
+    "entity_type": "Creative",
+    "name": "Udio Music",
+    "description": "High-fidelity AI music generation platform created by former DeepMind researchers producing full vocal tracks, instruments, and solos.",
+    "url": "https://udio.com",
+    "categories": [
+      "Audio & Speech",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://udio.com"
+    },
+    "metadata": {
+      "developer": "Udio",
+      "solved_tasks": [
+        "Music Composition and Synthesis"
+      ],
+      "modalities": [
+        "audio"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3b94c201-92e3-5b6f-b6e3-615f516564f2",
+    "entity_type": "Creative",
+    "name": "Suno v3.5",
+    "description": "Generative audio platform capable of synthesizing radio-quality two-minute songs with diverse musical styles and lyric generation.",
+    "url": "https://suno.com",
+    "categories": [
+      "Audio & Speech",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://suno.com"
+    },
+    "metadata": {
+      "developer": "Suno",
+      "solved_tasks": [
+        "Music Composition and Synthesis"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "67ba9c09-396e-5b88-8a82-a4311dc589d0",
+    "entity_type": "Creative",
+    "name": "Krea AI Realtime Canvas",
+    "description": "Real-time interactive generative canvas that transforms rough brushstrokes and 3D shapes into rendered artwork instantaneously.",
+    "url": "https://krea.ai",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://krea.ai"
+    },
+    "metadata": {
+      "developer": "Krea AI",
+      "modalities": [
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "15270f40-40f4-52ef-ac18-21d605bf9a6a",
+    "entity_type": "Creative",
+    "name": "Magnific AI Upscaler",
+    "description": "High-resolution hallucinatory image upscaler and enhancement engine that adds intricate realistic details to images.",
+    "url": "https://magnific.ai",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://magnific.ai"
+    },
+    "metadata": {
+      "developer": "Freepik / Magnific",
+      "solved_tasks": [
+        "Photorealistic Image Inpainting"
+      ],
+      "modalities": [
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "76e4f2d9-0857-57b7-96ab-346b935c8389",
+    "entity_type": "Creative",
+    "name": "ElevenLabs Voice Studio",
+    "description": "Professional audio workspace for voice cloning, dynamic emotional pacing, dubbing across 29 languages, and sound effects creation.",
+    "url": "https://elevenlabs.io/voice-lab",
+    "categories": [
+      "Audio & Speech",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://elevenlabs.io"
+    },
+    "metadata": {
+      "company": "ElevenLabs",
+      "solved_tasks": [
+        "Audio Transcription and Diarization"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "95d7656e-6a22-5976-b3b1-e4d2c79aaacf",
+    "entity_type": "Creative",
+    "name": "Pika 1.5",
+    "description": "Generative video tool featuring Pikaffects (inflate, melt, crush, explode) and realistic physics for visual creators.",
+    "url": "https://pika.art",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://pika.art"
+    },
+    "metadata": {
+      "developer": "Pika Labs",
+      "solved_tasks": [
+        "Text-to-Video Cinematic Synthesis"
+      ],
+      "modalities": [
+        "video",
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "dcbdee8d-2d2e-55fd-a1fe-6ad2773928c0",
+    "entity_type": "Creative",
+    "name": "Luma Dream Machine",
+    "description": "High-speed video generation model creating realistic, smooth camera pans and complex character movements from text or images.",
+    "url": "https://lumalabs.ai/dream-machine",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://lumalabs.ai"
+    },
+    "metadata": {
+      "developer": "Luma AI",
+      "solved_tasks": [
+        "Text-to-Video Cinematic Synthesis"
+      ],
+      "modalities": [
+        "video",
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c4ede107-0bc6-5c86-9862-19391841dc8d",
+    "entity_type": "Creative",
+    "name": "Topaz Video AI",
+    "description": "Production-grade desktop neural video enhancer for motion deinterlacing, 4K/8K upscaling, and 120fps frame interpolation.",
+    "url": "https://topazlabs.com/topaz-video-ai",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://topazlabs.com"
+    },
+    "metadata": {
+      "developer": "Topaz Labs",
+      "modalities": [
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "49805d01-df8f-557e-88ae-c79e3d23baab",
+    "entity_type": "Creative",
+    "name": "Leonardo AI",
+    "description": "Comprehensive creative suite offering fine-tuned generative models for game assets, character concept art, and marketing collateral.",
+    "url": "https://leonardo.ai",
+    "categories": [
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://leonardo.ai"
+    },
+    "metadata": {
+      "developer": "Canva / Leonardo AI",
+      "solved_tasks": [
+        "Photorealistic Image Inpainting"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "67ab8b49-7b39-5e9e-ac84-e7c7c3982dc9",
+    "entity_type": "Creative",
+    "name": "Ideogram 2.0",
+    "description": "Leading text-to-image platform known for flawless typography rendering, graphic design layout, and photorealistic accuracy.",
+    "url": "https://ideogram.ai",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://ideogram.ai"
+    },
+    "metadata": {
+      "developer": "Ideogram AI",
+      "modalities": [
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "60d61de3-2ee8-5f6d-86f2-f3d4a6bd5874",
+    "entity_type": "Creative",
+    "name": "Recraft AI Vector Generator",
+    "description": "Infinite vector canvas that generates editable vector graphics, icons, 3D illustrations, and brand style guides.",
+    "url": "https://recraft.ai",
+    "categories": [
+      "Creative Ai & Generation",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://recraft.ai"
+    },
+    "metadata": {
+      "developer": "Recraft",
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ea62d2ae-690f-5dd3-a8ed-e6b65af2bcb7",
+    "entity_type": "Creative",
+    "name": "Stable Video Diffusion",
+    "description": "Open-source latent video diffusion model by Stability AI capable of generating multi-view video clips from single still images.",
+    "url": "https://stability.ai/stable-video",
+    "categories": [
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Stability-AI/generative-models"
+    },
+    "metadata": {
+      "company": "Stability AI",
+      "solved_tasks": [
+        "Text-to-Video Cinematic Synthesis"
+      ],
+      "modalities": [
+        "video",
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3c4af421-888a-5780-a60f-f3cf9db29e49",
+    "entity_type": "Creative",
+    "name": "Civitai Model Hub",
+    "description": "Open community repository for sharing and discovering fine-tuned Stable Diffusion checkpoints, LoRAs, and ControlNets.",
+    "url": "https://civitai.com",
+    "categories": [
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://civitai.com"
+    },
+    "metadata": {
+      "developer": "Civitai",
+      "modalities": [
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "dde536be-112b-54b9-815f-5110206e379f",
+    "entity_type": "Creative",
+    "name": "Meshy 3D AI",
+    "description": "3D generative AI tool that turns text descriptions and 2D concept sketches into fully textured, low-poly and high-poly 3D meshes.",
+    "url": "https://meshy.ai",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://meshy.ai"
+    },
+    "metadata": {
+      "developer": "Meshy",
+      "solved_tasks": [
+        "3D Asset Generation from Text"
+      ],
+      "modalities": [
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "90703930-f160-51f8-8038-3a93a609c7e0",
+    "entity_type": "Creative",
+    "name": "Kaiber AI Animation",
+    "description": "Generative creative audio-reactive video studio used by musicians (Linkin Park, Kid Cudi) to produce animated music videos.",
+    "url": "https://kaiber.ai",
+    "categories": [
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://kaiber.ai"
+    },
+    "metadata": {
+      "developer": "Kaiber",
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d9afffcc-969f-5c5c-ae89-4a5983ba54ba",
+    "entity_type": "Creative",
+    "name": "Soundraw AI Music",
+    "description": "Generative background music creation tool allowing creators to customize tempo, instruments, and energy arc dynamically.",
+    "url": "https://soundraw.io",
+    "categories": [
+      "Audio & Speech",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://soundraw.io"
+    },
+    "metadata": {
+      "developer": "Soundraw",
+      "solved_tasks": [
+        "Music Composition and Synthesis"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "191e6a34-9a60-5d68-b9ab-392121b00e85",
+    "entity_type": "Creative",
+    "name": "Spline AI 3D Generator",
+    "description": "Collaborative 3D design software incorporating generative prompts to create interactive web 3D scenes, physics, and animations.",
+    "url": "https://spline.design/ai",
+    "categories": [
+      "Creative Ai & Generation",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://spline.design"
+    },
+    "metadata": {
+      "developer": "Spline",
+      "solved_tasks": [
+        "3D Asset Generation from Text"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  }
+]

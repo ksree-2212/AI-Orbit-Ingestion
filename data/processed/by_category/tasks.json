@@ -1,0 +1,450 @@
+[
+  {
+    "id": "dad4de61-988f-5658-aed7-df8183ab0f15",
+    "entity_type": "Task",
+    "name": "Autonomous Code Generation",
+    "description": "Synthesizing multi-file software implementations, boilerplate modules, and algorithmic routines from high-level natural language prompts.",
+    "url": "https://aiorbit.io/tasks/autonomous-code-generation",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "29931b89-fc83-5ebd-b0be-36e324c7fa95",
+    "entity_type": "Task",
+    "name": "Retrieval-Augmented Generation",
+    "description": "Grounding large language model responses with external verified vector knowledge stores, relational databases, and enterprise document caches.",
+    "url": "https://aiorbit.io/tasks/retrieval-augmented-generation",
+    "categories": [
+      "Enterprise Ai",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "03aa2a23-405b-5846-8ea5-a603ef3b9009",
+    "entity_type": "Task",
+    "name": "Multimodal Visual Question Answering",
+    "description": "Interpreting complex charts, architectural blueprints, UI mockups, and natural photos to answer contextual inquiries accurately.",
+    "url": "https://aiorbit.io/tasks/multimodal-vqa",
+    "categories": [
+      "Computer Vision",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9fc5c682-191e-5f86-9f71-fa8a5aa31633",
+    "entity_type": "Task",
+    "name": "Long-Context Document Synthesis",
+    "description": "Extracting insights, structural themes, contradictions, and summaries from million-token document corpuses, 10-K filings, and book manuscripts.",
+    "url": "https://aiorbit.io/tasks/long-context-synthesis",
+    "categories": [
+      "Enterprise Ai",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7cf0f30a-6943-5abc-b6db-bcab7e8e70e3",
+    "entity_type": "Task",
+    "name": "Low-Latency Real-Time Voice Chat",
+    "description": "Bidirectional full-duplex conversational interaction with sub-300ms turn-taking latency, natural intonation, and interruptibility.",
+    "url": "https://aiorbit.io/tasks/real-time-voice-chat",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "e2b88a83-3f2e-5063-8a49-d26241f73841",
+    "entity_type": "Task",
+    "name": "Humanoid Locomotion and Navigation",
+    "description": "Dynamic bipedal balance control, terrain adaptation, obstacle avoidance, and path trajectory execution for humanoid robots.",
+    "url": "https://aiorbit.io/tasks/humanoid-locomotion",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "8794f408-3577-5f63-916c-7ed4bb0218da",
+    "entity_type": "Task",
+    "name": "Bimanual Robot Manipulation",
+    "description": "Coordinated two-handed grasping, tool handling, assembly, and delicate object manipulation using vision-language-action policies.",
+    "url": "https://aiorbit.io/tasks/bimanual-manipulation",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "49a72131-1046-51b3-815f-b79b949db444",
+    "entity_type": "Task",
+    "name": "Text-to-Video Cinematic Synthesis",
+    "description": "Generating temporally coherent high-definition video scenes, camera movements, and cinematic lighting from detailed descriptive text prompts.",
+    "url": "https://aiorbit.io/tasks/text-to-video-synthesis",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d692be08-3a2e-5eaa-b85d-774ad42ce023",
+    "entity_type": "Task",
+    "name": "Photorealistic Image Inpainting",
+    "description": "Seamlessly altering, removing, or adding visual components to high-resolution imagery while maintaining lighting and textural continuity.",
+    "url": "https://aiorbit.io/tasks/image-inpainting",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "46c50cba-11e0-5c5e-9bdc-945fb663aa72",
+    "entity_type": "Task",
+    "name": "Automated Unit Test Generation",
+    "description": "Analyzing software source code to synthesize comprehensive, edge-case resilient unit, integration, and regression test suites.",
+    "url": "https://aiorbit.io/tasks/automated-unit-testing",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "216a17a8-6057-535b-ab75-e4036c09f637",
+    "entity_type": "Task",
+    "name": "Function Calling and Tool Use",
+    "description": "Parsing user queries into structured API payloads (JSON schema), executing external tool calls, and weaving results into final outputs.",
+    "url": "https://aiorbit.io/tasks/function-calling-tool-use",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "599e0bab-d7e0-51f6-8871-e48cdbef5e42",
+    "entity_type": "Task",
+    "name": "SQL Query Generation from Natural Language",
+    "description": "Translating natural language business questions into optimized, schema-compliant SQL queries against relational databases.",
+    "url": "https://aiorbit.io/tasks/text-to-sql",
+    "categories": [
+      "Developer Tools",
+      "Enterprise Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5fed8bc5-c5c6-5233-a462-18a762f7a7bf",
+    "entity_type": "Task",
+    "name": "Audio Transcription and Diarization",
+    "description": "Converting multilingual speech audio into timestamped text transcripts with precise speaker separation and noise suppression.",
+    "url": "https://aiorbit.io/tasks/audio-transcription-diarization",
+    "categories": [
+      "Audio & Speech"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5e73307e-6dcb-544d-aac8-4bbaaa7c04c1",
+    "entity_type": "Task",
+    "name": "Music Composition and Synthesis",
+    "description": "Composing full musical arrangements including harmonic chord progressions, lyrics, instrumental stems, and vocal mixing from text prompts.",
+    "url": "https://aiorbit.io/tasks/music-synthesis",
+    "categories": [
+      "Audio & Speech",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "411d585c-ff3e-5b0a-b347-d5c0c36c7805",
+    "entity_type": "Task",
+    "name": "Local LLM Quantization and Inference",
+    "description": "Compressing foundation models (AWQ, GPTQ, GGUF 4-bit) to execute on consumer hardware with minimal perplexity degradation.",
+    "url": "https://aiorbit.io/tasks/local-llm-quantization",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a443dee6-d540-5210-9ea4-2632a159a676",
+    "entity_type": "Task",
+    "name": "Synthetic Dataset Generation",
+    "description": "Creating diverse, high-entropy training datasets using frontier teacher models with programmatic quality filtering and deduplication.",
+    "url": "https://aiorbit.io/tasks/synthetic-data-generation",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "cce492c5-801c-5578-88d0-b521ccfb5168",
+    "entity_type": "Task",
+    "name": "Prompt Optimization and DSPy Compilation",
+    "description": "Programmatically discovering optimal prompt signatures and few-shot exemplars using metric-driven optimization algorithms.",
+    "url": "https://aiorbit.io/tasks/prompt-optimization",
+    "categories": [
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "55b589ef-e2d7-503c-9a22-7427e1d91e4f",
+    "entity_type": "Task",
+    "name": "Edge Hardware Model Deployment",
+    "description": "Porting and executing optimized deep learning models on resource-constrained embedded boards, smartphones, and edge devices.",
+    "url": "https://aiorbit.io/tasks/edge-hardware-deployment",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b757dfd5-2851-53f5-a0fe-f2e9842fdf32",
+    "entity_type": "Task",
+    "name": "Multi-Agent Collaboration",
+    "description": "Orchestrating specialized AI agents with distinct roles, communication protocols, and shared memory to solve macro objectives.",
+    "url": "https://aiorbit.io/tasks/multi-agent-collaboration",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "52eb2f7a-4107-5ef4-b72a-bcba63f9e0b3",
+    "entity_type": "Task",
+    "name": "Real-Time Web Research and Fact-Checking",
+    "description": "Querying search APIs, scraping live web pages, extracting relevant snippets, and synthesizing cited, factually verified answers.",
+    "url": "https://aiorbit.io/tasks/real-time-web-research",
+    "categories": [
+      "Personal Ai Assistants",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "82267bd0-444f-5b74-aca8-679f6e372764",
+    "entity_type": "Task",
+    "name": "Semantic Search and Embeddings",
+    "description": "Transforming unstructured text into dense vector embeddings for high-dimensional cosine similarity ranking and retrieval.",
+    "url": "https://aiorbit.io/tasks/semantic-search",
+    "categories": [
+      "Developer Tools",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ab4401e3-2302-57e0-b8e2-9136ebe7b8e3",
+    "entity_type": "Task",
+    "name": "Video Temporal Grounding",
+    "description": "Locating specific moments, actions, or dialogue segments within long video files based on natural language queries.",
+    "url": "https://aiorbit.io/tasks/video-temporal-grounding",
+    "categories": [
+      "Computer Vision",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c1019d48-6eac-572a-8710-4db056fa95b1",
+    "entity_type": "Task",
+    "name": "3D Asset Generation from Text",
+    "description": "Synthesizing textured 3D meshes and NeRF / Gaussian Splat representations from text descriptions or single 2D images.",
+    "url": "https://aiorbit.io/tasks/3d-asset-generation",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "15f06826-a5a3-5090-8c19-9ca0ed77d934",
+    "entity_type": "Task",
+    "name": "Meeting Summarization and Action Item Extraction",
+    "description": "Distilling multi-speaker business discussions into structured executive takeaways, decisions, and assigned follow-up action items.",
+    "url": "https://aiorbit.io/tasks/meeting-summarization",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "26241546-4212-5bf1-abae-ca8aef478273",
+    "entity_type": "Task",
+    "name": "Mathematical Reasoning and Theorem Proving",
+    "description": "Formulating rigorous step-by-step mathematical proofs, verifying formal syntax in Lean 4, and solving Olympiad-level problems.",
+    "url": "https://aiorbit.io/tasks/mathematical-reasoning",
+    "categories": [
+      "Developer Tools",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  }
+]

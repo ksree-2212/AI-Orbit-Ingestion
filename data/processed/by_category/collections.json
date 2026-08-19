@@ -1,0 +1,371 @@
+[
+  {
+    "id": "0ea06414-007b-5c25-bd5a-e2a5d24c093d",
+    "entity_type": "Collection",
+    "name": "Top Open-Source LLMs 2026",
+    "description": "A curated collection of leading open-weight foundation models offering state-of-the-art reasoning, coding, and multilingual performance.",
+    "url": "https://aiorbit.io/collections/top-open-source-llms",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Llama 3.3 70B",
+        "DeepSeek-V3",
+        "DeepSeek-R1",
+        "Qwen 2.5 72B",
+        "Codestral"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "e3c5ad51-9f80-5226-a482-cccaf4b61872",
+    "entity_type": "Collection",
+    "name": "Production RAG Stack Blueprint",
+    "description": "Essential production-ready frameworks, retrieval models, and vector management tools for building robust enterprise RAG systems.",
+    "url": "https://aiorbit.io/collections/production-rag-stack",
+    "categories": [
+      "Developer Tools",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "LlamaIndex",
+        "LangChain",
+        "Command R+",
+        "postgres-mcp-server"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "17c2cc2e-529b-5843-aa94-3a29764c1db3",
+    "entity_type": "Collection",
+    "name": "Official MCP Server Directory",
+    "description": "Standardized Model Context Protocol servers connecting frontier LLM clients to external developer tools and data stores.",
+    "url": "https://aiorbit.io/collections/official-mcp-servers",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "github-mcp-server",
+        "postgres-mcp-server",
+        "filesystem-mcp-server",
+        "brave-search-mcp-server",
+        "puppeteer-mcp-server"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2b8c140b-54c5-5b85-b622-38da63c6c5f1",
+    "entity_type": "Collection",
+    "name": "Humanoid Robotics Pioneers",
+    "description": "Leading commercial and research humanoid bipedal robots pushing the boundaries of embodied AI and physical automation.",
+    "url": "https://aiorbit.io/collections/humanoid-robotics-pioneers",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Figure 02",
+        "Boston Dynamics Atlas",
+        "Tesla Optimus Gen 2",
+        "Unitree G1",
+        "Sanctuary AI Phoenix"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0d73d53e-b074-59a3-bc37-7b5991963204",
+    "entity_type": "Collection",
+    "name": "Local LLM Inference Engines",
+    "description": "High-performance engines and CLI runtimes optimized for running quantized neural models on consumer desktops and private servers.",
+    "url": "https://aiorbit.io/collections/local-llm-inference-engines",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "vLLM",
+        "Ollama",
+        "LM Studio",
+        "Jan.ai"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "36a5b31b-b027-562b-9bba-c1415e61c6d5",
+    "entity_type": "Collection",
+    "name": "Premier AI Code Assistants",
+    "description": "The best developer tools and AI-native IDEs transforming modern software development through automated code synthesis.",
+    "url": "https://aiorbit.io/collections/ai-code-assistants",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Cursor",
+        "GitHub Copilot",
+        "Windsurf",
+        "Devin"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d9fdf307-661c-5f73-960c-4552e77ce44b",
+    "entity_type": "Collection",
+    "name": "Multimodal Vision-Language Leaders",
+    "description": "Top multimodal systems capable of joint reasoning across text, high-resolution imagery, charts, and video feeds.",
+    "url": "https://aiorbit.io/collections/multimodal-leaders",
+    "categories": [
+      "Computer Vision",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Claude 3.5 Sonnet",
+        "GPT-4o",
+        "Gemini 1.5 Pro",
+        "Pixtral 12B"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "27f5e824-fc20-50a1-ae5c-56a1fa2a3716",
+    "entity_type": "Collection",
+    "name": "Next-Gen AI Hardware & Accelerators",
+    "description": "Cutting-edge silicon, specialized LPUs, wafer-scale chips, and edge AI boards accelerating foundation model workloads.",
+    "url": "https://aiorbit.io/collections/ai-hardware-accelerators",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "NVIDIA H100 SXM",
+        "NVIDIA B200 Blackwell",
+        "Groq LPU Card",
+        "Cerebras CS-3"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5d17359c-8e54-56e8-a8f0-6901ab4937d4",
+    "entity_type": "Collection",
+    "name": "Creative Generative Media Suite",
+    "description": "Premier image, video, and audio synthesis tools enabling artists and creators to generate production-quality media.",
+    "url": "https://aiorbit.io/collections/creative-media-suite",
+    "categories": [
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Midjourney Web",
+        "Runway Studio",
+        "ElevenLabs Voice Studio",
+        "Flux.1 Schnell"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2d6e25ac-7756-5478-add4-44b0535c1977",
+    "entity_type": "Collection",
+    "name": "Autonomous Multi-Agent Frameworks",
+    "description": "Modern orchestration libraries and runtime environments designed for multi-agent delegation and autonomous execution.",
+    "url": "https://aiorbit.io/collections/multi-agent-frameworks",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "CrewAI",
+        "AutoGPT",
+        "LangChain"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1d2ee6c4-1bd1-5dcc-b744-7571a08b7686",
+    "entity_type": "Collection",
+    "name": "Real-Time Voice and Speech Ecosystem",
+    "description": "High-fidelity automatic speech recognition models, low-latency voice synthesis APIs, and voice agent orchestration.",
+    "url": "https://aiorbit.io/collections/voice-speech-ecosystem",
+    "categories": [
+      "Audio & Speech"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Whisper large-v3-turbo",
+        "ElevenLabs Reader",
+        "WhisperX"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "6492ffc5-1860-5911-ae5a-a72b62416add",
+    "entity_type": "Collection",
+    "name": "Frontier AI Safety and Alignment Labs",
+    "description": "Organizations and research groups dedicated to constitutional AI, interpretability, and robust safety guardrails.",
+    "url": "https://aiorbit.io/collections/ai-safety-labs",
+    "categories": [
+      "Ai Safety & Alignment"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Anthropic",
+        "OpenAI",
+        "Google DeepMind"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "18305e0f-7e91-54c5-9eb2-01961ffeff21",
+    "entity_type": "Collection",
+    "name": "Open-Weights Diffusion Models",
+    "description": "Openly licensed diffusion and flow-matching transformer weights for local photorealistic image synthesis.",
+    "url": "https://aiorbit.io/collections/open-diffusion-models",
+    "categories": [
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Flux.1 Schnell",
+        "Flux.1 Dev",
+        "Stable Diffusion 3.5 Large"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4d6c905e-28b2-53d0-bd98-7f65b9fffb92",
+    "entity_type": "Collection",
+    "name": "Edge AI & Embedded Robotics Kits",
+    "description": "Energy-efficient compute modules and developer kits powering real-time perception for drones, mobile robots, and smart sensors.",
+    "url": "https://aiorbit.io/collections/edge-ai-robotics-kits",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "NVIDIA Jetson Orin Nano",
+        "Raspberry Pi 5 AI Kit",
+        "Hailo-8 M.2 Module"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f810d1d8-4f30-5bfb-ac3a-7cc124b093c6",
+    "entity_type": "Collection",
+    "name": "Enterprise Foundation Model Catalog",
+    "description": "High-throughput frontier LLM APIs backed by strict data privacy guarantees, high uptime SLAs, and SOC2 compliance.",
+    "url": "https://aiorbit.io/collections/enterprise-foundation-models",
+    "categories": [
+      "Enterprise Ai",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Claude 3.5 Sonnet",
+        "GPT-4o",
+        "Command R+",
+        "Mistral Large 2"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  }
+]

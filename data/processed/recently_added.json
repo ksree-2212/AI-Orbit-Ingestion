@@ -1,0 +1,600 @@
+[
+  {
+    "id": "b0768f40-2f6e-5157-b685-fc9960d7f386",
+    "entity_type": "Model",
+    "name": "Claude 3.5 Sonnet",
+    "description": "Frontier multimodal AI model by Anthropic setting industry benchmarks in coding, reasoning, and visual processing.",
+    "url": "https://anthropic.com/claude/sonnet",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/anthropic"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "6346590d-55c6-511d-b7be-66f786f4f0a7",
+    "entity_type": "Model",
+    "name": "Claude 3.5 Haiku",
+    "description": "Anthropic's fastest next-generation model delivering high intelligence at sub-second response latencies.",
+    "url": "https://anthropic.com/claude/haiku",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://anthropic.com/claude"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4c32b6fd-129d-5840-8cbf-f9baba636d80",
+    "entity_type": "Model",
+    "name": "Claude 3 Opus",
+    "description": "Anthropic's flagship powerhouse model for highly complex analysis, academic synthesis, and deep research.",
+    "url": "https://anthropic.com/claude/opus",
+    "categories": [
+      "Large Language Models",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://anthropic.com/claude"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d0f411bf-2374-52aa-9a3c-5874d09979c5",
+    "entity_type": "Model",
+    "name": "GPT-4o",
+    "description": "OpenAI's flagship omni model natively processing audio, vision, and text in real-time with human-like responsiveness.",
+    "url": "https://openai.com/index/hello-gpt-4o",
+    "categories": [
+      "Audio & Speech",
+      "Large Language Models",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://openai.com/gpt-4o"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ea2edc5f-300f-5ec4-bb7b-fa0c5f46125d",
+    "entity_type": "Model",
+    "name": "GPT-4o mini",
+    "description": "Cost-efficient small model by OpenAI designed for low-latency lightweight multimodal tasks and high-throughput automation.",
+    "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://openai.com"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "35482a00-d2b1-509d-ab09-979a3718a1bd",
+    "entity_type": "Model",
+    "name": "OpenAI o1",
+    "description": "Frontier reasoning model by OpenAI trained with reinforcement learning to produce internal chains of thought before answering.",
+    "url": "https://openai.com/o1",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://openai.com/o1"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b16a9c68-54b6-5b52-9cb8-fd4518134621",
+    "entity_type": "Model",
+    "name": "OpenAI o3-mini",
+    "description": "High-speed reasoning model tailored for science, math, and coding with customizable reasoning effort tiers.",
+    "url": "https://openai.com/index/openai-o3-mini",
+    "categories": [
+      "Developer Tools",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://openai.com"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d5f280ca-e08c-5941-9076-e67b37ce8f82",
+    "entity_type": "Model",
+    "name": "DeepSeek-V3",
+    "description": "Open source repository for DeepSeek-V3 671B Mixture-of-Experts base and chat models with Multi-head Latent Attention inference code.",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+    },
+    "metadata": {
+      "implements_entity": "DeepSeek-V3",
+      "company": "DeepSeek",
+      "license": "MIT",
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "fe213dea-ef51-531a-9350-2e2c0247f663",
+    "entity_type": "Model",
+    "name": "DeepSeek-R1",
+    "description": "Open-weights reasoning model utilizing large-scale reinforcement learning without supervised warm-up to achieve breakthrough math and code logic.",
+    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "categories": [
+      "Developer Tools",
+      "Open Source Ai",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+    },
+    "metadata": {
+      "implements_entity": "DeepSeek-R1",
+      "company": "DeepSeek",
+      "license": "MIT",
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5b925cb8-7b2a-55fb-bece-502cc5be8ae1",
+    "entity_type": "Model",
+    "name": "Llama 3.3 70B",
+    "description": "Meta's state-of-the-art open weights model delivering 405B-grade capabilities in an efficient 70B footprint.",
+    "url": "https://ai.meta.com/blog/llama-3-3",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Open-Weights"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a38b75c2-ab0d-5d7e-b5b5-a3c0df4c21ab",
+    "entity_type": "Model",
+    "name": "Llama 3.1 405B",
+    "description": "The world's largest openly accessible flagship foundation model by Meta, rivaling leading closed frontier systems.",
+    "url": "https://ai.meta.com/blog/meta-llama-3-1",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-405B"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "8ff76137-1022-583f-9b61-a58f3795390c",
+    "entity_type": "Model",
+    "name": "Llama 3.2 3B",
+    "description": "Lightweight on-device multilingual text model by Meta optimized for mobile, edge, and low-memory inference.",
+    "url": "https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-models",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "304abe11-2cd3-5f9a-a3a0-98e1b34920ff",
+    "entity_type": "Model",
+    "name": "Mistral Large 2",
+    "description": "Flagship 123B parameter model from Mistral AI with top-tier code generation, reasoning, and 128k context capabilities.",
+    "url": "https://mistral.ai/news/mistral-large-2407",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-Instruct-2407"
+    },
+    "metadata": {
+      "modalities": [
+        "code"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "e01ccaf2-5d18-5efb-82e8-f2d7af54a2e8",
+    "entity_type": "Model",
+    "name": "Codestral",
+    "description": "Mistral AI's 22B open-weight generative model explicitly designed for code generation, completion, and fill-in-the-middle tasks.",
+    "url": "https://mistral.ai/news/codestral",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/mistralai/Codestral-22B-v0.1"
+    },
+    "metadata": {
+      "modalities": [
+        "code",
+        "text"
+      ],
+      "license": "Open-Weights"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ccbe04df-b631-56d9-a0ad-6e88963cdc40",
+    "entity_type": "Model",
+    "name": "Mixtral 8x22B",
+    "description": "High-capacity sparse Mixture-of-Experts model from Mistral AI offering 176B total parameters with fast 39B active routing.",
+    "url": "https://mistral.ai/news/mixtral-8x22b",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/mistralai/Mixtral-8x22B-v0.1"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "50f89fe2-55b6-5124-aeea-572de3dceb23",
+    "entity_type": "Model",
+    "name": "Gemini 1.5 Pro",
+    "description": "Google DeepMind's flagship foundation model featuring a 2-million token context window for massive multimodal document and video ingestion.",
+    "url": "https://deepmind.google/technologies/gemini/pro",
+    "categories": [
+      "Computer Vision",
+      "Large Language Models",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://deepmind.google"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal",
+        "vision"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "6f864019-49d1-56ef-8a81-21be76a972ab",
+    "entity_type": "Model",
+    "name": "Gemini 2.0 Flash",
+    "description": "Real-time multimodal model by Google DeepMind engineered for sub-200ms audio-visual streaming and tool agent invocation.",
+    "url": "https://deepmind.google/technologies/gemini/flash",
+    "categories": [
+      "Audio & Speech",
+      "Autonomous Agents",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://deepmind.google"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4aa4d30b-ec14-5bd8-9113-854265cfb539",
+    "entity_type": "Model",
+    "name": "Qwen 2.5 72B",
+    "description": "Flagship open weights model by Alibaba Cloud excelling across reasoning, coding, math, and multilingual benchmarks.",
+    "url": "https://github.com/QwenLM/Qwen2.5",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-72B-Instruct"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Open-Weights"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "92bc1a5b-5d7b-52be-bbdb-0599388d4dac",
+    "entity_type": "Model",
+    "name": "Qwen 2.5 Coder 32B",
+    "description": "Dedicated code generation and software engineering open model matching leading commercial code copilots.",
+    "url": "https://github.com/QwenLM/Qwen2.5-Coder",
+    "categories": [
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct"
+    },
+    "metadata": {
+      "modalities": [
+        "code"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "293d1c96-9a5f-56a2-9451-fb8b65163b51",
+    "entity_type": "Model",
+    "name": "Flux.1 Schnell",
+    "description": "12B parameter rectified flow transformer by Black Forest Labs delivering photorealistic text-to-image synthesis in 1-4 steps.",
+    "url": "https://blackforestlabs.ai",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/black-forest-labs/FLUX.1-schnell"
+    },
+    "metadata": {
+      "developer": "Black Forest Labs",
+      "powered_by_model": "Flux.1 Schnell",
+      "solved_tasks": [
+        "Photorealistic Image Inpainting"
+      ],
+      "modalities": [
+        "vision"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ff76a587-63ae-5417-ade5-099c1cb7b673",
+    "entity_type": "Model",
+    "name": "Stable Diffusion 3.5 Large",
+    "description": "Multimodal diffusion transformer (MMDiT) by Stability AI with 8B parameters for high-fidelity generative visual imagery.",
+    "url": "https://stability.ai/news/introducing-stable-diffusion-3-5",
+    "categories": [
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/stabilityai/stable-diffusion-3.5-large"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal",
+        "vision"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "56ae2085-27e2-588e-a63d-abd2e5e4bd6a",
+    "entity_type": "Model",
+    "name": "Whisper large-v3-turbo",
+    "description": "Optimized automatic speech recognition (ASR) model by OpenAI with reduced decoder layers for 8x faster transcription.",
+    "url": "https://github.com/openai/whisper",
+    "categories": [
+      "Audio & Speech",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/openai/whisper-large-v3-turbo"
+    },
+    "metadata": {
+      "company": "OpenAI",
+      "license": "MIT",
+      "modalities": [
+        "audio"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "e0f9cc36-ab5b-56b3-9899-fe1078ca1bc5",
+    "entity_type": "Model",
+    "name": "Command R+",
+    "description": "Cohere's 104B parameter enterprise-optimized LLM tailored for production Retrieval-Augmented Generation (RAG) and tool use.",
+    "url": "https://cohere.com/command",
+    "categories": [
+      "Enterprise Ai",
+      "Large Language Models",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/CohereForAI/c4ai-command-r-plus"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "e3c33a8b-fbbb-51d6-b2a8-841236a10c59",
+    "entity_type": "Model",
+    "name": "DALL-E 3",
+    "description": "OpenAI's advanced text-to-image synthesis model with deep semantic alignment and textual detail rendering.",
+    "url": "https://openai.com/dall-e-3",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://openai.com"
+    },
+    "metadata": {
+      "modalities": [
+        "vision"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b54f8a86-3fa4-5064-ba71-475c0515ee74",
+    "entity_type": "Model",
+    "name": "Grok-2",
+    "description": "Frontier language and vision model by xAI with real-time web integration and advanced coding benchmark performance.",
+    "url": "https://x.ai/blog/grok-2",
+    "categories": [
+      "Large Language Models",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://x.ai"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  }
+]

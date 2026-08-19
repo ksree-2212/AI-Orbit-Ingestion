@@ -1,0 +1,413 @@
+[
+  {
+    "id": "f990f0e6-0e5b-51ae-bb6e-21d1658bf916",
+    "entity_type": "Repository",
+    "name": "vllm-project/vllm",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs with PagedAttention and CUDA kernels.",
+    "url": "https://github.com/vllm-project/vllm",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/vllm-project/vllm"
+    },
+    "metadata": {
+      "implements_entity": "vLLM",
+      "license": "Apache-2.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1d10447e-ddca-55b8-9337-3bbbb45ec962",
+    "entity_type": "Repository",
+    "name": "huggingface/transformers",
+    "description": "Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX with tens of thousands of pretrained models.",
+    "url": "https://github.com/huggingface/transformers",
+    "categories": [
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/huggingface/transformers"
+    },
+    "metadata": {
+      "company": "Hugging Face",
+      "license": "Apache-2.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "bfcc413e-80ea-5092-9ab4-627fc97e585f",
+    "entity_type": "Repository",
+    "name": "langchain-ai/langchain",
+    "description": "Building applications with LLMs through composability and comprehensive ecosystem integrations.",
+    "url": "https://github.com/langchain-ai/langchain",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/langchain-ai/langchain"
+    },
+    "metadata": {
+      "implements_entity": "LangChain",
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7477b4e5-b7a1-5aba-9599-e4696d2b8364",
+    "entity_type": "Repository",
+    "name": "run-llama/llamaindex",
+    "description": "LlamaIndex is a data framework for your LLM applications to connect external data sources with LLMs.",
+    "url": "https://github.com/run-llama/llama_index",
+    "categories": [
+      "Developer Tools",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/run-llama/llama_index"
+    },
+    "metadata": {
+      "implements_entity": "LlamaIndex",
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c21f8be0-89aa-5109-b1b7-e9693b5dfe8b",
+    "entity_type": "Repository",
+    "name": "ollama/ollama",
+    "description": "Get up and running with Llama 3.3, Mistral, Gemma, and other large language models locally with a single command.",
+    "url": "https://github.com/ollama/ollama",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ollama/ollama"
+    },
+    "metadata": {
+      "implements_entity": "Ollama",
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "be95aa27-093e-521a-b09d-5fcbc4241173",
+    "entity_type": "Repository",
+    "name": "ggerganov/llama.cpp",
+    "description": "LLM inference in C/C++ with minimal dependencies, AVX/NEON SIMD optimization, and Apple Silicon Metal acceleration.",
+    "url": "https://github.com/ggerganov/llama.cpp",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ggerganov/llama.cpp"
+    },
+    "metadata": {
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "39e15feb-ca9a-5666-a782-711e2becab55",
+    "entity_type": "Repository",
+    "name": "modelcontextprotocol/servers",
+    "description": "Official reference MCP (Model Context Protocol) servers repository created and maintained by Anthropic and the open community.",
+    "url": "https://github.com/modelcontextprotocol/servers",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "company": "Anthropic",
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "21ab7b20-c44c-516a-ad66-71f2e6b5a402",
+    "entity_type": "Repository",
+    "name": "meta-llama/llama3",
+    "description": "The official repository containing code and guidance for downloading and running Meta Llama 3 models.",
+    "url": "https://github.com/meta-llama/llama3",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/meta-llama/llama3"
+    },
+    "metadata": {
+      "company": "Meta",
+      "license": "Llama 3.3 Community License"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2e0b11bf-5a23-5cb8-a14d-967ba8672063",
+    "entity_type": "Repository",
+    "name": "mistralai/mistral-src",
+    "description": "Reference implementation of Mistral AI transformer architectures and inference pipelines.",
+    "url": "https://github.com/mistralai/mistral-src",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/mistralai/mistral-src"
+    },
+    "metadata": {
+      "company": "Mistral AI",
+      "license": "Apache-2.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3b5633f2-dedd-588a-9ee9-f7ef5a35ff97",
+    "entity_type": "Repository",
+    "name": "anthropics/anthropic-sdk-python",
+    "description": "Official Python client library for accessing Anthropic's Claude API with streaming and tool use support.",
+    "url": "https://github.com/anthropics/anthropic-sdk-python",
+    "categories": [
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/anthropics/anthropic-sdk-python"
+    },
+    "metadata": {
+      "company": "Anthropic",
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3742ef9a-9da1-5db9-b51f-b47b42e40789",
+    "entity_type": "Repository",
+    "name": "openai/openai-python",
+    "description": "The official Python client library for the OpenAI API covering GPT-4o, o1, Whisper, and Embeddings.",
+    "url": "https://github.com/openai/openai-python",
+    "categories": [
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/openai/openai-python"
+    },
+    "metadata": {
+      "company": "OpenAI",
+      "license": "Apache-2.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "57d40ee2-9532-5aac-a68c-bfc75910311f",
+    "entity_type": "Repository",
+    "name": "crewAIInc/crewAI",
+    "description": "Framework for orchestrating role-playing, autonomous AI agents. Foster collaborative intelligence among agents.",
+    "url": "https://github.com/crewAIInc/crewAI",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/crewAIInc/crewAI"
+    },
+    "metadata": {
+      "implements_entity": "CrewAI",
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2441c2db-8236-5918-9780-c192d3e3cd45",
+    "entity_type": "Repository",
+    "name": "KillianLucas/open-interpreter",
+    "description": "A natural language interface for computers to run code, control apps, and edit local files via LLMs.",
+    "url": "https://github.com/KillianLucas/open-interpreter",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/KillianLucas/open-interpreter"
+    },
+    "metadata": {
+      "implements_entity": "Open Interpreter",
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ba0b5e68-f5a6-56b1-846d-0686171c09ac",
+    "entity_type": "Repository",
+    "name": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular visual node-based GUI and backend for Stable Diffusion and Flux generation pipelines.",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "categories": [
+      "Creative Ai & Generation",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/comfyanonymous/ComfyUI"
+    },
+    "metadata": {
+      "license": "GPL-3.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4f7bd281-8a70-5c31-b1bf-9645b7a2696f",
+    "entity_type": "Repository",
+    "name": "AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI based on Gradio library for full-featured browser-based image generation.",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "categories": [
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+    },
+    "metadata": {
+      "license": "AGPL-3.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "e47465d7-0f17-5ec0-83db-86c12407adeb",
+    "entity_type": "Repository",
+    "name": "SYSTRAN/faster-whisper",
+    "description": "Faster Whisper transcription with CTranslate2 delivering 4x speedup over original implementation using 8-bit quantization.",
+    "url": "https://github.com/SYSTRAN/faster-whisper",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Audio & Speech"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/SYSTRAN/faster-whisper"
+    },
+    "metadata": {
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "47c473e9-b643-5e43-b870-3b0f05d04e73",
+    "entity_type": "Repository",
+    "name": "triton-lang/triton",
+    "description": "A language and compiler for writing highly efficient custom Deep Learning primitives for GPUs with Python syntax.",
+    "url": "https://github.com/triton-lang/triton",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/triton-lang/triton"
+    },
+    "metadata": {
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b50e4def-ed61-58e3-8037-32e677deddc5",
+    "entity_type": "Repository",
+    "name": "Dao-AILab/flash-attention",
+    "description": "Fast and memory-efficient exact attention with IO-awareness, powering virtually all modern frontier transformer backends.",
+    "url": "https://github.com/Dao-AILab/flash-attention",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Dao-AILab/flash-attention"
+    },
+    "metadata": {
+      "license": "BSD-3-Clause"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4251c621-7869-5da7-acd5-d5ee92fe8662",
+    "entity_type": "Repository",
+    "name": "skypilot-org/skypilot",
+    "description": "Run LLMs and AI workloads on any cloud (AWS, GCP, Azure, Lambda, RunPod) with cost minimization and autoscaling.",
+    "url": "https://github.com/skypilot-org/skypilot",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/skypilot-org/skypilot"
+    },
+    "metadata": {
+      "license": "Apache-2.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b369c3f3-74b2-5102-b259-45513ebd607a",
+    "entity_type": "Repository",
+    "name": "livekit/agents",
+    "description": "Build real-time multimodal AI voice agents and video assistants with WebRTC, OpenAI Realtime, and Gemini 2.0 Flash.",
+    "url": "https://github.com/livekit/agents",
+    "categories": [
+      "Audio & Speech",
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/livekit/agents"
+    },
+    "metadata": {
+      "license": "Apache-2.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  }
+]

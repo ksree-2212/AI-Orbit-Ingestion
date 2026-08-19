@@ -1,0 +1,339 @@
+[
+  {
+    "id": "62b0af2d-b58f-5d01-9498-3ab59b29a358",
+    "entity_type": "Personal",
+    "name": "Limitless Pendant AI",
+    "description": "Wearable AI recorder and companion that securely captures in-person conversations, transcribes audio, and creates actionable memory notes.",
+    "url": "https://limitless.ai",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://limitless.ai"
+    },
+    "metadata": {
+      "developer": "Limitless",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Meeting Summarization and Action Item Extraction"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "e3482d6e-b932-5aa0-a3bd-694d01d69d54",
+    "entity_type": "Personal",
+    "name": "Granola AI Notepad",
+    "description": "Smart meeting notepad designed for executives and designers, transforming casual keystrokes and audio into structured takeaways.",
+    "url": "https://granola.ai/app",
+    "categories": [
+      "Developer Tools",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://granola.ai"
+    },
+    "metadata": {
+      "developer": "Granola",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Meeting Summarization and Action Item Extraction"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3351258f-2ca1-5bb6-b934-7681b73c5cb5",
+    "entity_type": "Personal",
+    "name": "Pi by Inflection",
+    "description": "Emotionally intelligent, supportive personal AI conversational partner designed for thoughtful exploration and reflection.",
+    "url": "https://pi.ai",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://pi.ai"
+    },
+    "metadata": {
+      "developer": "Inflection AI",
+      "solved_tasks": [
+        "Low-Latency Real-Time Voice Chat"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "134f7459-c94e-573a-9524-acc0c0ae3a1f",
+    "entity_type": "Personal",
+    "name": "Superhuman AI",
+    "description": "Ultra-fast email client with integrated AI drafting, instant conversational summaries, and intelligent triage.",
+    "url": "https://superhuman.com/ai",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://superhuman.com"
+    },
+    "metadata": {
+      "developer": "Superhuman",
+      "powered_by_model": "GPT-4o",
+      "solved_tasks": [
+        "Long-Context Document Synthesis"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "29b24600-c7a0-5212-a569-ef2292cc1a3f",
+    "entity_type": "Personal",
+    "name": "Rewind AI",
+    "description": "The truly personalized AI search engine that records everything you've seen, said, or heard locally on your Mac with local compression.",
+    "url": "https://rewind.ai",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://rewind.ai"
+    },
+    "metadata": {
+      "developer": "Rewind",
+      "solved_tasks": [
+        "Retrieval-Augmented Generation"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3ff2f063-6a10-542d-833e-aea57ab174a3",
+    "entity_type": "Personal",
+    "name": "Dot AI Assistant",
+    "description": "Intelligent living memory companion by New Computer designed to understand your habits, conversations, and evolving interests.",
+    "url": "https://new.computer",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://new.computer"
+    },
+    "metadata": {
+      "developer": "New Computer",
+      "powered_by_model": "GPT-4o"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "76503654-536a-523a-8d6f-7aa3e026dbaa",
+    "entity_type": "Personal",
+    "name": "Sanas AI Speech Enhancer",
+    "description": "Real-time speech accent translation and noise-reduction engine improving clarity for global customer service agents.",
+    "url": "https://sanas.ai",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://sanas.ai"
+    },
+    "metadata": {
+      "developer": "Sanas",
+      "solved_tasks": [
+        "Audio Transcription and Diarization"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "dbdc0ce4-0f8f-57bb-a402-97b5939e5c17",
+    "entity_type": "Personal",
+    "name": "Otter.ai Assistant",
+    "description": "Automated meeting assistant that joins Zoom, Teams, and Google Meet calls to record, transcribe, and extract action items in real-time.",
+    "url": "https://otter.ai",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://otter.ai"
+    },
+    "metadata": {
+      "developer": "Otter.ai",
+      "solved_tasks": [
+        "Meeting Summarization and Action Item Extraction"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "984f2d0d-ca55-58d0-a1ee-1c9e7806daf5",
+    "entity_type": "Personal",
+    "name": "Notion AI Assistant",
+    "description": "Integrated workspace AI that searches across your company docs, auto-fills database properties, and drafts creative proposals.",
+    "url": "https://notion.so/product/ai",
+    "categories": [
+      "Enterprise Ai",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://notion.so"
+    },
+    "metadata": {
+      "developer": "Notion",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Retrieval-Augmented Generation",
+        "Long-Context Document Synthesis"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "367deba5-0273-5e52-8a62-972505d46bbb",
+    "entity_type": "Personal",
+    "name": "Mem.ai Personal Knowledge Graph",
+    "description": "Self-organizing workspace powered by AI that automatically links your notes, meeting memos, and documents into a living knowledge base.",
+    "url": "https://mem.ai",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://mem.ai"
+    },
+    "metadata": {
+      "developer": "Mem Labs",
+      "solved_tasks": [
+        "Semantic Search and Embeddings"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9be63c88-31d4-5729-9fd7-505e4f6e7a37",
+    "entity_type": "Personal",
+    "name": "Fathom AI Notetaker",
+    "description": "Free AI meeting recorder and transcription tool for Zoom, Google Meet, and Teams with CRM sync to HubSpot and Salesforce.",
+    "url": "https://fathom.video",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://fathom.video"
+    },
+    "metadata": {
+      "developer": "Fathom",
+      "solved_tasks": [
+        "Meeting Summarization and Action Item Extraction"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "6b7e5c67-bd87-5495-a357-cb77b2997965",
+    "entity_type": "Personal",
+    "name": "Reflect Notes AI",
+    "description": "Networked note-taking application using Whisper voice transcription and GPT-4o semantic search for personal brainstorming.",
+    "url": "https://reflect.app",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://reflect.app"
+    },
+    "metadata": {
+      "developer": "Reflect",
+      "powered_by_model": "GPT-4o"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b55e0216-a03d-5cd7-83b1-9220f93ad553",
+    "entity_type": "Personal",
+    "name": "Kagi Assistant",
+    "description": "Ad-free private search and document analysis assistant with multi-model access and fast summarization threads.",
+    "url": "https://kagi.com/assistant",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://kagi.com"
+    },
+    "metadata": {
+      "developer": "Kagi",
+      "solved_tasks": [
+        "Real-Time Web Research and Fact-Checking"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "8e830b2d-a3e0-57e1-a3f6-8865d8e71e27",
+    "entity_type": "Personal",
+    "name": "Tabby Personal Assistant",
+    "description": "Self-hosted AI coding and personal development companion running privately behind your home firewall.",
+    "url": "https://tabby.tabbyml.com",
+    "categories": [
+      "Developer Tools",
+      "Open Source Ai",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/TabbyML/tabby"
+    },
+    "metadata": {
+      "developer": "TabbyML",
+      "solved_tasks": [
+        "Autonomous Code Generation"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7019a1aa-376c-56ce-b471-33e33965e45b",
+    "entity_type": "Personal",
+    "name": "Raycast Companion AI",
+    "description": "Everyday productivity AI agent living inside your system keybinds, summarizing clipboard text and generating translations.",
+    "url": "https://raycast.com",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://raycast.com"
+    },
+    "metadata": {
+      "developer": "Raycast",
+      "powered_by_model": "Claude 3.5 Sonnet"
+    },
+    "created_at": null,
+    "updated_at": null
+  }
+]

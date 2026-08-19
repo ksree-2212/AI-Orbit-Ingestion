@@ -1,0 +1,6003 @@
+[
+  {
+    "id": "defd7c9d-9c47-5c90-a977-b59422eae63d",
+    "entity_type": "Company",
+    "name": "OpenAI",
+    "description": "AI research and deployment company behind the GPT series, ChatGPT, DALL-E, and OpenAI o1 reasoning models.",
+    "url": "https://openai.com",
+    "categories": [
+      "Ai Safety & Alignment",
+      "Generative AI",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://openai.com/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9a1f4fd1-0e37-5977-b4c4-6615e31c3561",
+    "entity_type": "Company",
+    "name": "Anthropic",
+    "description": "AI safety and research company focused on building steerable, interpretable, and reliable frontier models including Claude 3.5.",
+    "url": "https://anthropic.com",
+    "categories": [
+      "Ai Safety & Alignment",
+      "Autonomous Agents",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://anthropic.com/company"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f5b4aade-e58a-5b26-b2e3-f882b0d3d544",
+    "entity_type": "Company",
+    "name": "Mistral AI",
+    "description": "European AI lab developing open-weights and commercial frontier language models including Mistral Large and Codestral.",
+    "url": "https://mistral.ai",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://mistral.ai/company"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b13bacc5-10a1-525e-a546-d3fba6497eaa",
+    "entity_type": "Company",
+    "name": "Hugging Face",
+    "description": "The open platform where the machine learning community collaborates on models, datasets, and AI applications.",
+    "url": "https://huggingface.co",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://huggingface.co/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "6f3727f2-e759-5655-90bd-c7abae2cecb8",
+    "entity_type": "Company",
+    "name": "Cohere",
+    "description": "Enterprise AI platform specializing in enterprise-grade large language models, multilingual embeddings, and RAG solutions.",
+    "url": "https://cohere.com",
+    "categories": [
+      "Enterprise Ai",
+      "Large Language Models",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://cohere.com/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3c3869bb-8c13-54b1-800e-1d0f5b705887",
+    "entity_type": "Company",
+    "name": "DeepSeek",
+    "description": "AI research lab known for high-efficiency open models such as DeepSeek-V3 and DeepSeek-R1 reasoning models.",
+    "url": "https://deepseek.com",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://deepseek.com"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1f130411-7bc0-5933-9da2-04e8190ddb5a",
+    "entity_type": "Company",
+    "name": "Google DeepMind",
+    "description": "Pioneering AI research laboratory behind AlphaFold, AlphaGo, and Google Gemini multimodal frontier models.",
+    "url": "https://deepmind.google",
+    "categories": [
+      "Large Language Models",
+      "Multimodal Ai",
+      "Scientific Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://deepmind.google/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "fa64fa8a-dbb8-56a0-ba87-e045d10f4a2a",
+    "entity_type": "Company",
+    "name": "Meta",
+    "description": "Technology conglomerate leading open-source foundation model research with the Llama series and PyTorch ecosystem.",
+    "url": "https://ai.meta.com",
+    "categories": [
+      "Computer Vision",
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://ai.meta.com/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "13e12c4d-0234-54f3-bcaa-cd90b850ffef",
+    "entity_type": "Company",
+    "name": "NVIDIA",
+    "description": "Global leader in accelerated computing hardware, GPUs (H100, Blackwell), and AI enterprise software frameworks (CUDA, NeMo, TensorRT-LLM).",
+    "url": "https://nvidia.com",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://nvidia.com/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c0a20122-8215-540c-bff0-4fa3ed5ecebe",
+    "entity_type": "Company",
+    "name": "Figure AI",
+    "description": "Autonomous humanoid robotics company creating general-purpose bipedal robots for manufacturing, logistics, and human assistance.",
+    "url": "https://figure.ai",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://figure.ai/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1df1b2d6-1ac1-5af2-a975-37f48244412f",
+    "entity_type": "Company",
+    "name": "Boston Dynamics",
+    "description": "World leader in dynamic mobile robotics, creators of the Atlas electric humanoid, Spot quadruped, and Stretch warehouse robot.",
+    "url": "https://bostondynamics.com",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://bostondynamics.com/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3a34e7cf-13d9-5d7a-ad2c-2309c96f0bbe",
+    "entity_type": "Company",
+    "name": "Unitree Robotics",
+    "description": "Robotics enterprise developing high-performance commercial bipedal humanoid robots (G1, H1) and quadruped platforms.",
+    "url": "https://unitree.com",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://unitree.com"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "52a09620-a8cc-5866-8dff-0706399b719b",
+    "entity_type": "Company",
+    "name": "1X Technologies",
+    "description": "AI and robotics company producing androids designed to work alongside humans, including NEO and EVE bipedal/wheeled robots.",
+    "url": "https://1x.tech",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://1x.tech/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "22730574-6db4-5192-b011-7c36e0538f59",
+    "entity_type": "Company",
+    "name": "Sanctuary AI",
+    "description": "Creators of Phoenix, a general-purpose humanoid robot powered by the Carbon cognitive architecture for human-like intelligence.",
+    "url": "https://sanctuary.ai",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://sanctuary.ai/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a76bbd70-d01f-5511-92b6-4199487c4338",
+    "entity_type": "Company",
+    "name": "ElevenLabs",
+    "description": "Voice AI research company delivering lifelike text-to-speech, voice cloning, and real-time conversational voice agents.",
+    "url": "https://elevenlabs.io",
+    "categories": [
+      "Audio & Speech",
+      "Creative Ai & Generation",
+      "Generative AI"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://elevenlabs.io/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9c67d4a7-222b-55f0-9fa3-27198dbbb3a8",
+    "entity_type": "Company",
+    "name": "Runway",
+    "description": "Applied AI research company pioneering multimodal generative AI systems and foundational video models including Gen-3 Alpha.",
+    "url": "https://runwayml.com",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation",
+      "Generative AI"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://runwayml.com/about"
+    },
+    "metadata": {
+      "company": "Runway",
+      "powered_by_model": "Runway Gen-3 Alpha",
+      "solved_tasks": [
+        "Text-to-Video Cinematic Synthesis"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7287dc99-19e5-5bd4-9103-7e8352f5e978",
+    "entity_type": "Company",
+    "name": "Midjourney",
+    "description": "Advanced generative image synthesis system with enhanced photorealism, coherent human hands, dynamic lighting, and texture accuracy.",
+    "url": "https://midjourney.com",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation",
+      "Generative AI"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://midjourney.com"
+    },
+    "metadata": {
+      "developer": "Midjourney",
+      "solved_tasks": [
+        "Photorealistic Image Inpainting"
+      ],
+      "company": "Midjourney"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a05f0654-5043-58d1-8cac-5c7bfb9084e6",
+    "entity_type": "Company",
+    "name": "Cursor",
+    "description": "AI-powered code editor built on VS Code with native codebase indexing, inline multi-file edits, and agentic terminal commands.",
+    "url": "https://cursor.com",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://cursor.com/about"
+    },
+    "metadata": {
+      "developer": "Cursor",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Autonomous Code Generation",
+        "Automated Unit Test Generation"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "882257e3-132d-5863-b1fa-cb65a7b00f02",
+    "entity_type": "Company",
+    "name": "Groq",
+    "description": "Compute company creator of the LPU (Language Processing Unit) inference engine for ultra-low latency real-time LLM serving.",
+    "url": "https://groq.com",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://groq.com/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "39f06ab5-be69-5406-a495-73cb208f22b1",
+    "entity_type": "Company",
+    "name": "Scale AI",
+    "description": "Data infrastructure platform providing data annotation, RLHF, and evaluation for frontier AI labs and enterprises.",
+    "url": "https://scale.com",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Enterprise Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://scale.com/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7cb827e6-bdf4-5c94-bc16-ba5790cf22cd",
+    "entity_type": "Company",
+    "name": "Perplexity AI",
+    "description": "Conversational search engine delivering accurate, cited answers backed by live internet crawling and academic sources.",
+    "url": "https://perplexity.ai",
+    "categories": [
+      "Generative AI",
+      "Personal Ai Assistants",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://perplexity.ai/about"
+    },
+    "metadata": {
+      "developer": "Perplexity AI",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Real-Time Web Research and Fact-Checking",
+        "Retrieval-Augmented Generation"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0a122fd8-3dc2-5737-b879-59af1fc75cd7",
+    "entity_type": "Company",
+    "name": "Rabbit",
+    "description": "AI hardware startup developing pocket-sized companion devices and Large Action Models (LAM) to interact with mobile apps.",
+    "url": "https://rabbit.tech",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Autonomous Agents",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://rabbit.tech/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9931db3b-d73d-58b9-bd09-a3d67c96bfbb",
+    "entity_type": "Company",
+    "name": "Humane",
+    "description": "Experience company designing wearable AI devices, ambient computing platforms, and screenless personal assistants.",
+    "url": "https://hu.ma.ne",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://hu.ma.ne/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "22877355-c1a5-5761-b13e-ff8829a12cb2",
+    "entity_type": "Company",
+    "name": "Cerebras Systems",
+    "description": "Creator of the Wafer-Scale Engine (WSE-3), building ultra-scale compute clusters for accelerated deep learning and inference.",
+    "url": "https://cerebras.ai",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://cerebras.ai/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "6ff94a5a-3f02-52ff-a0f0-cda232bd4707",
+    "entity_type": "Company",
+    "name": "Stability AI",
+    "description": "Open-source generative AI company creator of Stable Diffusion image and video synthesis foundation models.",
+    "url": "https://stability.ai",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://stability.ai/about"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b0768f40-2f6e-5157-b685-fc9960d7f386",
+    "entity_type": "Model",
+    "name": "Claude 3.5 Sonnet",
+    "description": "Frontier multimodal AI model by Anthropic setting industry benchmarks in coding, reasoning, and visual processing.",
+    "url": "https://anthropic.com/claude/sonnet",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/anthropic"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "6346590d-55c6-511d-b7be-66f786f4f0a7",
+    "entity_type": "Model",
+    "name": "Claude 3.5 Haiku",
+    "description": "Anthropic's fastest next-generation model delivering high intelligence at sub-second response latencies.",
+    "url": "https://anthropic.com/claude/haiku",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://anthropic.com/claude"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4c32b6fd-129d-5840-8cbf-f9baba636d80",
+    "entity_type": "Model",
+    "name": "Claude 3 Opus",
+    "description": "Anthropic's flagship powerhouse model for highly complex analysis, academic synthesis, and deep research.",
+    "url": "https://anthropic.com/claude/opus",
+    "categories": [
+      "Large Language Models",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://anthropic.com/claude"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d0f411bf-2374-52aa-9a3c-5874d09979c5",
+    "entity_type": "Model",
+    "name": "GPT-4o",
+    "description": "OpenAI's flagship omni model natively processing audio, vision, and text in real-time with human-like responsiveness.",
+    "url": "https://openai.com/index/hello-gpt-4o",
+    "categories": [
+      "Audio & Speech",
+      "Large Language Models",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://openai.com/gpt-4o"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ea2edc5f-300f-5ec4-bb7b-fa0c5f46125d",
+    "entity_type": "Model",
+    "name": "GPT-4o mini",
+    "description": "Cost-efficient small model by OpenAI designed for low-latency lightweight multimodal tasks and high-throughput automation.",
+    "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://openai.com"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "35482a00-d2b1-509d-ab09-979a3718a1bd",
+    "entity_type": "Model",
+    "name": "OpenAI o1",
+    "description": "Frontier reasoning model by OpenAI trained with reinforcement learning to produce internal chains of thought before answering.",
+    "url": "https://openai.com/o1",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://openai.com/o1"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b16a9c68-54b6-5b52-9cb8-fd4518134621",
+    "entity_type": "Model",
+    "name": "OpenAI o3-mini",
+    "description": "High-speed reasoning model tailored for science, math, and coding with customizable reasoning effort tiers.",
+    "url": "https://openai.com/index/openai-o3-mini",
+    "categories": [
+      "Developer Tools",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://openai.com"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d5f280ca-e08c-5941-9076-e67b37ce8f82",
+    "entity_type": "Model",
+    "name": "DeepSeek-V3",
+    "description": "Open source repository for DeepSeek-V3 671B Mixture-of-Experts base and chat models with Multi-head Latent Attention inference code.",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+    },
+    "metadata": {
+      "implements_entity": "DeepSeek-V3",
+      "company": "DeepSeek",
+      "license": "MIT",
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "fe213dea-ef51-531a-9350-2e2c0247f663",
+    "entity_type": "Model",
+    "name": "DeepSeek-R1",
+    "description": "Open-weights reasoning model utilizing large-scale reinforcement learning without supervised warm-up to achieve breakthrough math and code logic.",
+    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "categories": [
+      "Developer Tools",
+      "Open Source Ai",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+    },
+    "metadata": {
+      "implements_entity": "DeepSeek-R1",
+      "company": "DeepSeek",
+      "license": "MIT",
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5b925cb8-7b2a-55fb-bece-502cc5be8ae1",
+    "entity_type": "Model",
+    "name": "Llama 3.3 70B",
+    "description": "Meta's state-of-the-art open weights model delivering 405B-grade capabilities in an efficient 70B footprint.",
+    "url": "https://ai.meta.com/blog/llama-3-3",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Open-Weights"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a38b75c2-ab0d-5d7e-b5b5-a3c0df4c21ab",
+    "entity_type": "Model",
+    "name": "Llama 3.1 405B",
+    "description": "The world's largest openly accessible flagship foundation model by Meta, rivaling leading closed frontier systems.",
+    "url": "https://ai.meta.com/blog/meta-llama-3-1",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-405B"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "8ff76137-1022-583f-9b61-a58f3795390c",
+    "entity_type": "Model",
+    "name": "Llama 3.2 3B",
+    "description": "Lightweight on-device multilingual text model by Meta optimized for mobile, edge, and low-memory inference.",
+    "url": "https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-models",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "304abe11-2cd3-5f9a-a3a0-98e1b34920ff",
+    "entity_type": "Model",
+    "name": "Mistral Large 2",
+    "description": "Flagship 123B parameter model from Mistral AI with top-tier code generation, reasoning, and 128k context capabilities.",
+    "url": "https://mistral.ai/news/mistral-large-2407",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-Instruct-2407"
+    },
+    "metadata": {
+      "modalities": [
+        "code"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "e01ccaf2-5d18-5efb-82e8-f2d7af54a2e8",
+    "entity_type": "Model",
+    "name": "Codestral",
+    "description": "Mistral AI's 22B open-weight generative model explicitly designed for code generation, completion, and fill-in-the-middle tasks.",
+    "url": "https://mistral.ai/news/codestral",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/mistralai/Codestral-22B-v0.1"
+    },
+    "metadata": {
+      "modalities": [
+        "code",
+        "text"
+      ],
+      "license": "Open-Weights"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ccbe04df-b631-56d9-a0ad-6e88963cdc40",
+    "entity_type": "Model",
+    "name": "Mixtral 8x22B",
+    "description": "High-capacity sparse Mixture-of-Experts model from Mistral AI offering 176B total parameters with fast 39B active routing.",
+    "url": "https://mistral.ai/news/mixtral-8x22b",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/mistralai/Mixtral-8x22B-v0.1"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "50f89fe2-55b6-5124-aeea-572de3dceb23",
+    "entity_type": "Model",
+    "name": "Gemini 1.5 Pro",
+    "description": "Google DeepMind's flagship foundation model featuring a 2-million token context window for massive multimodal document and video ingestion.",
+    "url": "https://deepmind.google/technologies/gemini/pro",
+    "categories": [
+      "Computer Vision",
+      "Large Language Models",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://deepmind.google"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal",
+        "vision"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "6f864019-49d1-56ef-8a81-21be76a972ab",
+    "entity_type": "Model",
+    "name": "Gemini 2.0 Flash",
+    "description": "Real-time multimodal model by Google DeepMind engineered for sub-200ms audio-visual streaming and tool agent invocation.",
+    "url": "https://deepmind.google/technologies/gemini/flash",
+    "categories": [
+      "Audio & Speech",
+      "Autonomous Agents",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://deepmind.google"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4aa4d30b-ec14-5bd8-9113-854265cfb539",
+    "entity_type": "Model",
+    "name": "Qwen 2.5 72B",
+    "description": "Flagship open weights model by Alibaba Cloud excelling across reasoning, coding, math, and multilingual benchmarks.",
+    "url": "https://github.com/QwenLM/Qwen2.5",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-72B-Instruct"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Open-Weights"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "92bc1a5b-5d7b-52be-bbdb-0599388d4dac",
+    "entity_type": "Model",
+    "name": "Qwen 2.5 Coder 32B",
+    "description": "Dedicated code generation and software engineering open model matching leading commercial code copilots.",
+    "url": "https://github.com/QwenLM/Qwen2.5-Coder",
+    "categories": [
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct"
+    },
+    "metadata": {
+      "modalities": [
+        "code"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "293d1c96-9a5f-56a2-9451-fb8b65163b51",
+    "entity_type": "Model",
+    "name": "Flux.1 Schnell",
+    "description": "12B parameter rectified flow transformer by Black Forest Labs delivering photorealistic text-to-image synthesis in 1-4 steps.",
+    "url": "https://blackforestlabs.ai",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/black-forest-labs/FLUX.1-schnell"
+    },
+    "metadata": {
+      "developer": "Black Forest Labs",
+      "powered_by_model": "Flux.1 Schnell",
+      "solved_tasks": [
+        "Photorealistic Image Inpainting"
+      ],
+      "modalities": [
+        "vision"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ff76a587-63ae-5417-ade5-099c1cb7b673",
+    "entity_type": "Model",
+    "name": "Stable Diffusion 3.5 Large",
+    "description": "Multimodal diffusion transformer (MMDiT) by Stability AI with 8B parameters for high-fidelity generative visual imagery.",
+    "url": "https://stability.ai/news/introducing-stable-diffusion-3-5",
+    "categories": [
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/stabilityai/stable-diffusion-3.5-large"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal",
+        "vision"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "56ae2085-27e2-588e-a63d-abd2e5e4bd6a",
+    "entity_type": "Model",
+    "name": "Whisper large-v3-turbo",
+    "description": "Optimized automatic speech recognition (ASR) model by OpenAI with reduced decoder layers for 8x faster transcription.",
+    "url": "https://github.com/openai/whisper",
+    "categories": [
+      "Audio & Speech",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/openai/whisper-large-v3-turbo"
+    },
+    "metadata": {
+      "company": "OpenAI",
+      "license": "MIT",
+      "modalities": [
+        "audio"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "e0f9cc36-ab5b-56b3-9899-fe1078ca1bc5",
+    "entity_type": "Model",
+    "name": "Command R+",
+    "description": "Cohere's 104B parameter enterprise-optimized LLM tailored for production Retrieval-Augmented Generation (RAG) and tool use.",
+    "url": "https://cohere.com/command",
+    "categories": [
+      "Enterprise Ai",
+      "Large Language Models",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/CohereForAI/c4ai-command-r-plus"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "e3c33a8b-fbbb-51d6-b2a8-841236a10c59",
+    "entity_type": "Model",
+    "name": "DALL-E 3",
+    "description": "OpenAI's advanced text-to-image synthesis model with deep semantic alignment and textual detail rendering.",
+    "url": "https://openai.com/dall-e-3",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://openai.com"
+    },
+    "metadata": {
+      "modalities": [
+        "vision"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b54f8a86-3fa4-5064-ba71-475c0515ee74",
+    "entity_type": "Model",
+    "name": "Grok-2",
+    "description": "Frontier language and vision model by xAI with real-time web integration and advanced coding benchmark performance.",
+    "url": "https://x.ai/blog/grok-2",
+    "categories": [
+      "Large Language Models",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://x.ai"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "68f59141-32ca-5b8b-ab70-b62045d15fb2",
+    "entity_type": "Model",
+    "name": "Jamba 1.5 Large",
+    "description": "Production hybrid SSM-Transformer model by AI21 Labs combining Mamba state space layers with attention for 256k context.",
+    "url": "https://ai21.com/jamba",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/ai21labs/AI21-Jamba-1.5-Large"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "76b76126-04e2-5e55-ae3d-ff9d8597d156",
+    "entity_type": "Model",
+    "name": "Phi-3.5-mini",
+    "description": "Microsoft's 3.8B parameter SLM (Small Language Model) trained on high-quality synthetic textbooks and web data with 128k context.",
+    "url": "https://azure.microsoft.com/blog/introducing-phi-3-5",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/microsoft/Phi-3.5-mini-instruct"
+    },
+    "metadata": {
+      "modalities": [
+        "text"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "846427af-0b7a-5f54-8bb0-c3c79c7b2530",
+    "entity_type": "Model",
+    "name": "Pixtral 12B",
+    "description": "Mistral AI's multimodal vision-language model natively ingesting arbitrary image resolutions and interleaved text.",
+    "url": "https://mistral.ai/news/pixtral-12b",
+    "categories": [
+      "Computer Vision",
+      "Multimodal Ai",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/mistralai/Pixtral-12B-2409"
+    },
+    "metadata": {
+      "modalities": [
+        "multimodal",
+        "text",
+        "vision"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9a7b785a-16dd-5034-8a93-8a7463190b1b",
+    "entity_type": "Model",
+    "name": "Runway Gen-3 Alpha",
+    "description": "Foundational video generation model by Runway producing high-fidelity cinematic video clips with precise motion control.",
+    "url": "https://runwayml.com/research/introducing-gen-3-alpha",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://runwayml.com"
+    },
+    "metadata": {
+      "modalities": [
+        "video",
+        "vision"
+      ],
+      "license": "Commercial / Proprietary"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1d76a0e8-ceea-5b81-b3d3-3223350c3023",
+    "entity_type": "Tool",
+    "name": "ChatGPT",
+    "description": "OpenAI's leading conversational AI platform featuring advanced web search, code interpreter, DALL-E 3 image generation, and voice chat.",
+    "url": "https://chatgpt.com",
+    "categories": [
+      "Generative AI",
+      "Large Language Models",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://openai.com/chatgpt"
+    },
+    "metadata": {
+      "developer": "OpenAI",
+      "powered_by_model": "GPT-4o",
+      "solved_tasks": [
+        "Retrieval-Augmented Generation",
+        "Autonomous Code Generation"
+      ],
+      "modalities": [
+        "code",
+        "multimodal",
+        "text",
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0c7253af-fae3-5a75-99b3-025bda3d38d0",
+    "entity_type": "Tool",
+    "name": "Claude Desktop",
+    "description": "Native desktop application for Anthropic Claude featuring Model Context Protocol (MCP) local tool integration and Artifacts preview.",
+    "url": "https://claude.ai/download",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://claude.ai"
+    },
+    "metadata": {
+      "developer": "Anthropic",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Function Calling and Tool Use",
+        "Long-Context Document Synthesis"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f18caea2-6a43-5da7-a1f5-7f690b1e8427",
+    "entity_type": "Tool",
+    "name": "vLLM",
+    "description": "High-throughput and memory-efficient LLM serving engine featuring PagedAttention and continuous batching for production inference.",
+    "url": "https://vllm.ai",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/vllm-project/vllm"
+    },
+    "metadata": {
+      "developer": "vLLM",
+      "solved_tasks": [
+        "Local LLM Quantization and Inference",
+        "Edge Hardware Model Deployment"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9e6ce3b4-c1d9-501d-b750-ec08ed9af3b4",
+    "entity_type": "Tool",
+    "name": "Ollama",
+    "description": "Get up and running with Llama 3.3, DeepSeek-R1, Mistral, and other large language models locally on macOS, Linux, and Windows.",
+    "url": "https://ollama.com",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ollama/ollama"
+    },
+    "metadata": {
+      "developer": "Ollama",
+      "solved_tasks": [
+        "Local LLM Quantization and Inference"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a50c1ac9-e0c1-5438-a391-fd3462d5e331",
+    "entity_type": "Tool",
+    "name": "LangChain",
+    "description": "Framework for developing context-aware applications powered by language models, agents, and retrieval systems.",
+    "url": "https://langchain.com",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/langchain-ai/langchain"
+    },
+    "metadata": {
+      "developer": "LangChain",
+      "solved_tasks": [
+        "Multi-Agent Collaboration",
+        "Retrieval-Augmented Generation"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "cd851e39-23fa-594a-ae6e-e2d2d27bf0fa",
+    "entity_type": "Tool",
+    "name": "LlamaIndex",
+    "description": "Data framework for LLM applications to ingest, structure, and query private and domain-specific enterprise data.",
+    "url": "https://llamaindex.ai",
+    "categories": [
+      "Developer Tools",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/run-llama/llama_index"
+    },
+    "metadata": {
+      "developer": "LlamaIndex",
+      "solved_tasks": [
+        "Retrieval-Augmented Generation",
+        "Semantic Search and Embeddings"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "24de1309-41d5-5bde-afce-15a8ccbc0bbd",
+    "entity_type": "Tool",
+    "name": "Runway Studio",
+    "description": "Web-based video generation and generative audio studio powered by Gen-3 Alpha for motion designers and film directors.",
+    "url": "https://app.runwayml.com",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://runwayml.com"
+    },
+    "metadata": {
+      "developer": "Runway",
+      "powered_by_model": "Runway Gen-3 Alpha",
+      "solved_tasks": [
+        "Text-to-Video Cinematic Synthesis"
+      ],
+      "modalities": [
+        "video",
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1b810320-b7ba-5887-a877-ee12a03889ca",
+    "entity_type": "Tool",
+    "name": "ElevenLabs Reader",
+    "description": "High-fidelity text-to-speech mobile and web app that reads articles, books, and documents in lifelike cloned voices.",
+    "url": "https://elevenlabs.io/reader",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://elevenlabs.io"
+    },
+    "metadata": {
+      "developer": "ElevenLabs",
+      "solved_tasks": [
+        "Audio Transcription and Diarization",
+        "Low-Latency Real-Time Voice Chat"
+      ],
+      "modalities": [
+        "audio",
+        "multimodal",
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7c5ad677-37af-5ad4-bcbc-1d30c115c928",
+    "entity_type": "Tool",
+    "name": "GitHub Copilot",
+    "description": "AI pair programmer embedded in Visual Studio, VS Code, and JetBrains IDEs to suggest code completions and explanations.",
+    "url": "https://github.com/features/copilot",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/features/copilot"
+    },
+    "metadata": {
+      "developer": "Microsoft",
+      "powered_by_model": "GPT-4o",
+      "solved_tasks": [
+        "Autonomous Code Generation"
+      ],
+      "modalities": [
+        "code"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c9b741cb-a25e-56e8-93d2-79557376c9c2",
+    "entity_type": "Tool",
+    "name": "Devin",
+    "description": "Cognition's autonomous AI software engineer capable of planning, executing complex coding tasks, and deploying full applications.",
+    "url": "https://cognition.ai",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://cognition.ai"
+    },
+    "metadata": {
+      "developer": "Cognition",
+      "solved_tasks": [
+        "Autonomous Code Generation",
+        "Multi-Agent Collaboration"
+      ],
+      "modalities": [
+        "code"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9b6d9106-ed0e-525b-b46b-44eaebfeea7b",
+    "entity_type": "Tool",
+    "name": "Windsurf",
+    "description": "Agentic AI IDE by Codeium featuring Flows and Cascade to coordinate developer edits across multi-file codebases.",
+    "url": "https://codeium.com/windsurf",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://codeium.com"
+    },
+    "metadata": {
+      "developer": "Codeium",
+      "solved_tasks": [
+        "Autonomous Code Generation"
+      ],
+      "modalities": [
+        "code"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "fe6bbf2b-c176-5ccf-bd94-3729afca5919",
+    "entity_type": "Tool",
+    "name": "WhisperX",
+    "description": "Enhanced automatic speech recognition pipeline featuring word-level timestamps and speaker diarization using Whisper.",
+    "url": "https://github.com/m-bain/whisperX",
+    "categories": [
+      "Audio & Speech",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/m-bain/whisperX"
+    },
+    "metadata": {
+      "developer": "m-bain",
+      "powered_by_model": "Whisper large-v3-turbo",
+      "solved_tasks": [
+        "Audio Transcription and Diarization"
+      ],
+      "modalities": [
+        "audio"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "767cd12f-32a7-5dbf-87d6-aaa6b858a2b7",
+    "entity_type": "Tool",
+    "name": "Tabnine",
+    "description": "Private, secure AI code completion assistant supporting local on-premise model hosting for enterprise developers.",
+    "url": "https://tabnine.com",
+    "categories": [
+      "Ai Safety & Alignment",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://tabnine.com"
+    },
+    "metadata": {
+      "developer": "Tabnine",
+      "solved_tasks": [
+        "Autonomous Code Generation"
+      ],
+      "modalities": [
+        "code",
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "84154c5c-7125-54f4-ae54-bb8f92c88a62",
+    "entity_type": "Tool",
+    "name": "Raycast AI",
+    "description": "Productivity launcher extension providing instant access to frontier LLMs, inline text transforms, and custom agent commands.",
+    "url": "https://raycast.com/ai",
+    "categories": [
+      "Developer Tools",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://raycast.com"
+    },
+    "metadata": {
+      "developer": "Raycast",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Long-Context Document Synthesis"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "83d8ebdd-c46c-5b4a-880b-96163ac2d6de",
+    "entity_type": "Tool",
+    "name": "Granola",
+    "description": "AI notepad for meetings that combines human typing with automated audio transcription and smart bullet-point structuring.",
+    "url": "https://granola.ai",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://granola.ai"
+    },
+    "metadata": {
+      "developer": "Granola",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Meeting Summarization and Action Item Extraction"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "625f2567-5bdd-5e51-bbd6-0ebdb70a7c6b",
+    "entity_type": "Tool",
+    "name": "Phind",
+    "description": "Intelligent search engine specifically tailored for software developers and technical architecture troubleshooting.",
+    "url": "https://phind.com",
+    "categories": [
+      "Developer Tools",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://phind.com"
+    },
+    "metadata": {
+      "developer": "Phind",
+      "solved_tasks": [
+        "Real-Time Web Research and Fact-Checking",
+        "Autonomous Code Generation"
+      ],
+      "modalities": [
+        "code"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4ceac0f3-f836-537b-8a29-9b569abdcf0e",
+    "entity_type": "Tool",
+    "name": "Replit Agent",
+    "description": "Autonomous development agent in Replit that designs, provisions databases, codes, and deploys full web apps from prompt.",
+    "url": "https://replit.com/ai",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://replit.com"
+    },
+    "metadata": {
+      "developer": "Replit",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Autonomous Code Generation"
+      ],
+      "modalities": [
+        "code"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "88a11bd8-76ed-5381-832f-8d370661da24",
+    "entity_type": "Tool",
+    "name": "Hugging Face Hub",
+    "description": "The central repository for open-source AI models, datasets, and Spaces demos with Git-based version control.",
+    "url": "https://huggingface.co/models",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "developer": "Hugging Face",
+      "solved_tasks": [
+        "Synthetic Dataset Generation"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0ba4d38b-a905-55b1-b43c-3db62921c0cc",
+    "entity_type": "Tool",
+    "name": "Poe",
+    "description": "Fast multi-bot platform by Quora letting users chat with diverse frontier models and create monetized custom AI bots.",
+    "url": "https://poe.com",
+    "categories": [
+      "Generative AI",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://poe.com"
+    },
+    "metadata": {
+      "developer": "Quora",
+      "powered_by_model": "GPT-4o",
+      "solved_tasks": [
+        "Retrieval-Augmented Generation"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5ec991cf-2416-512f-bea3-54f3946e3ec5",
+    "entity_type": "Tool",
+    "name": "Together AI",
+    "description": "Fast cloud platform for building, fine-tuning, and running open-source generative AI models at high token throughput.",
+    "url": "https://together.ai",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://together.ai"
+    },
+    "metadata": {
+      "developer": "Together AI",
+      "solved_tasks": [
+        "Local LLM Quantization and Inference"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "538ff721-eeb3-50c4-989f-296d609bc695",
+    "entity_type": "Tool",
+    "name": "GroqCloud",
+    "description": "Ultra-low-latency developer cloud API delivering hundreds of tokens per second powered by Groq LPU silicon.",
+    "url": "https://console.groq.com",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://groq.com"
+    },
+    "metadata": {
+      "developer": "Groq",
+      "solved_tasks": [
+        "Low-Latency Real-Time Voice Chat",
+        "Edge Hardware Model Deployment"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b1cdb04b-5f16-5de6-a42b-47a5ae7cdc7a",
+    "entity_type": "Tool",
+    "name": "AutoGPT",
+    "description": "Autonomous open-source agent framework executing multi-step goals via internet browsing, file management, and tool use.",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "categories": [
+      "Autonomous Agents",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT"
+    },
+    "metadata": {
+      "developer": "Significant Gravitas",
+      "solved_tasks": [
+        "Multi-Agent Collaboration",
+        "Autonomous Code Generation"
+      ],
+      "implements_entity": "AutoGPT",
+      "license": "MIT",
+      "modalities": [
+        "code"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3175a3c2-100c-50bd-81b1-2505f26fa8aa",
+    "entity_type": "Tool",
+    "name": "CrewAI",
+    "description": "Cutting-edge framework for orchestrating role-playing autonomous AI agents to solve complex enterprise workflows collaboratively.",
+    "url": "https://crewai.com",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/crewAIInc/crewAI"
+    },
+    "metadata": {
+      "developer": "CrewAI",
+      "solved_tasks": [
+        "Multi-Agent Collaboration"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "82ff580e-e6f3-57fa-b409-a0af48e4a68c",
+    "entity_type": "Tool",
+    "name": "DSPy",
+    "description": "Framework by Stanford for programming with foundation models, replacing fragile prompt engineering with automatic optimizers.",
+    "url": "https://github.com/stanfordnlp/dspy",
+    "categories": [
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/stanfordnlp/dspy"
+    },
+    "metadata": {
+      "developer": "Stanford NLP",
+      "solved_tasks": [
+        "Prompt Optimization and DSPy Compilation"
+      ],
+      "implements_entity": "DSPy",
+      "license": "MIT",
+      "modalities": [
+        "code",
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "dd8a3cf9-354b-51a3-a62d-6ca0fbd10dfb",
+    "entity_type": "Tool",
+    "name": "Open Interpreter",
+    "description": "Open-source natural language interface letting LLMs run code (Python, Bash, JS) locally on your computer terminal.",
+    "url": "https://openinterpreter.com",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/KillianLucas/open-interpreter"
+    },
+    "metadata": {
+      "developer": "Killian Lucas",
+      "solved_tasks": [
+        "Autonomous Code Generation",
+        "Function Calling and Tool Use"
+      ],
+      "modalities": [
+        "code"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "58678ab1-e4dc-5246-8427-fb4f3de58e53",
+    "entity_type": "Tool",
+    "name": "Jan.ai",
+    "description": "Open-source, local-first alternative to ChatGPT running completely offline on your desktop hardware without telemetry.",
+    "url": "https://jan.ai",
+    "categories": [
+      "Open Source Ai",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/janhq/jan"
+    },
+    "metadata": {
+      "developer": "Jan HQ",
+      "solved_tasks": [
+        "Local LLM Quantization and Inference"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "17a2fdcb-59e1-59eb-9441-b6e3a1ba1f27",
+    "entity_type": "Tool",
+    "name": "LM Studio",
+    "description": "Discover, download, and run local LLMs (GGUF format) with a sleek desktop UI and drop-in OpenAI-compatible local server.",
+    "url": "https://lmstudio.ai",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://lmstudio.ai"
+    },
+    "metadata": {
+      "developer": "LM Studio",
+      "solved_tasks": [
+        "Local LLM Quantization and Inference"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "dad4de61-988f-5658-aed7-df8183ab0f15",
+    "entity_type": "Task",
+    "name": "Autonomous Code Generation",
+    "description": "Synthesizing multi-file software implementations, boilerplate modules, and algorithmic routines from high-level natural language prompts.",
+    "url": "https://aiorbit.io/tasks/autonomous-code-generation",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "29931b89-fc83-5ebd-b0be-36e324c7fa95",
+    "entity_type": "Task",
+    "name": "Retrieval-Augmented Generation",
+    "description": "Grounding large language model responses with external verified vector knowledge stores, relational databases, and enterprise document caches.",
+    "url": "https://aiorbit.io/tasks/retrieval-augmented-generation",
+    "categories": [
+      "Enterprise Ai",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "03aa2a23-405b-5846-8ea5-a603ef3b9009",
+    "entity_type": "Task",
+    "name": "Multimodal Visual Question Answering",
+    "description": "Interpreting complex charts, architectural blueprints, UI mockups, and natural photos to answer contextual inquiries accurately.",
+    "url": "https://aiorbit.io/tasks/multimodal-vqa",
+    "categories": [
+      "Computer Vision",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9fc5c682-191e-5f86-9f71-fa8a5aa31633",
+    "entity_type": "Task",
+    "name": "Long-Context Document Synthesis",
+    "description": "Extracting insights, structural themes, contradictions, and summaries from million-token document corpuses, 10-K filings, and book manuscripts.",
+    "url": "https://aiorbit.io/tasks/long-context-synthesis",
+    "categories": [
+      "Enterprise Ai",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7cf0f30a-6943-5abc-b6db-bcab7e8e70e3",
+    "entity_type": "Task",
+    "name": "Low-Latency Real-Time Voice Chat",
+    "description": "Bidirectional full-duplex conversational interaction with sub-300ms turn-taking latency, natural intonation, and interruptibility.",
+    "url": "https://aiorbit.io/tasks/real-time-voice-chat",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "e2b88a83-3f2e-5063-8a49-d26241f73841",
+    "entity_type": "Task",
+    "name": "Humanoid Locomotion and Navigation",
+    "description": "Dynamic bipedal balance control, terrain adaptation, obstacle avoidance, and path trajectory execution for humanoid robots.",
+    "url": "https://aiorbit.io/tasks/humanoid-locomotion",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "8794f408-3577-5f63-916c-7ed4bb0218da",
+    "entity_type": "Task",
+    "name": "Bimanual Robot Manipulation",
+    "description": "Coordinated two-handed grasping, tool handling, assembly, and delicate object manipulation using vision-language-action policies.",
+    "url": "https://aiorbit.io/tasks/bimanual-manipulation",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "49a72131-1046-51b3-815f-b79b949db444",
+    "entity_type": "Task",
+    "name": "Text-to-Video Cinematic Synthesis",
+    "description": "Generating temporally coherent high-definition video scenes, camera movements, and cinematic lighting from detailed descriptive text prompts.",
+    "url": "https://aiorbit.io/tasks/text-to-video-synthesis",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d692be08-3a2e-5eaa-b85d-774ad42ce023",
+    "entity_type": "Task",
+    "name": "Photorealistic Image Inpainting",
+    "description": "Seamlessly altering, removing, or adding visual components to high-resolution imagery while maintaining lighting and textural continuity.",
+    "url": "https://aiorbit.io/tasks/image-inpainting",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "46c50cba-11e0-5c5e-9bdc-945fb663aa72",
+    "entity_type": "Task",
+    "name": "Automated Unit Test Generation",
+    "description": "Analyzing software source code to synthesize comprehensive, edge-case resilient unit, integration, and regression test suites.",
+    "url": "https://aiorbit.io/tasks/automated-unit-testing",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "216a17a8-6057-535b-ab75-e4036c09f637",
+    "entity_type": "Task",
+    "name": "Function Calling and Tool Use",
+    "description": "Parsing user queries into structured API payloads (JSON schema), executing external tool calls, and weaving results into final outputs.",
+    "url": "https://aiorbit.io/tasks/function-calling-tool-use",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "599e0bab-d7e0-51f6-8871-e48cdbef5e42",
+    "entity_type": "Task",
+    "name": "SQL Query Generation from Natural Language",
+    "description": "Translating natural language business questions into optimized, schema-compliant SQL queries against relational databases.",
+    "url": "https://aiorbit.io/tasks/text-to-sql",
+    "categories": [
+      "Developer Tools",
+      "Enterprise Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5fed8bc5-c5c6-5233-a462-18a762f7a7bf",
+    "entity_type": "Task",
+    "name": "Audio Transcription and Diarization",
+    "description": "Converting multilingual speech audio into timestamped text transcripts with precise speaker separation and noise suppression.",
+    "url": "https://aiorbit.io/tasks/audio-transcription-diarization",
+    "categories": [
+      "Audio & Speech"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5e73307e-6dcb-544d-aac8-4bbaaa7c04c1",
+    "entity_type": "Task",
+    "name": "Music Composition and Synthesis",
+    "description": "Composing full musical arrangements including harmonic chord progressions, lyrics, instrumental stems, and vocal mixing from text prompts.",
+    "url": "https://aiorbit.io/tasks/music-synthesis",
+    "categories": [
+      "Audio & Speech",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "411d585c-ff3e-5b0a-b347-d5c0c36c7805",
+    "entity_type": "Task",
+    "name": "Local LLM Quantization and Inference",
+    "description": "Compressing foundation models (AWQ, GPTQ, GGUF 4-bit) to execute on consumer hardware with minimal perplexity degradation.",
+    "url": "https://aiorbit.io/tasks/local-llm-quantization",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a443dee6-d540-5210-9ea4-2632a159a676",
+    "entity_type": "Task",
+    "name": "Synthetic Dataset Generation",
+    "description": "Creating diverse, high-entropy training datasets using frontier teacher models with programmatic quality filtering and deduplication.",
+    "url": "https://aiorbit.io/tasks/synthetic-data-generation",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "cce492c5-801c-5578-88d0-b521ccfb5168",
+    "entity_type": "Task",
+    "name": "Prompt Optimization and DSPy Compilation",
+    "description": "Programmatically discovering optimal prompt signatures and few-shot exemplars using metric-driven optimization algorithms.",
+    "url": "https://aiorbit.io/tasks/prompt-optimization",
+    "categories": [
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "55b589ef-e2d7-503c-9a22-7427e1d91e4f",
+    "entity_type": "Task",
+    "name": "Edge Hardware Model Deployment",
+    "description": "Porting and executing optimized deep learning models on resource-constrained embedded boards, smartphones, and edge devices.",
+    "url": "https://aiorbit.io/tasks/edge-hardware-deployment",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b757dfd5-2851-53f5-a0fe-f2e9842fdf32",
+    "entity_type": "Task",
+    "name": "Multi-Agent Collaboration",
+    "description": "Orchestrating specialized AI agents with distinct roles, communication protocols, and shared memory to solve macro objectives.",
+    "url": "https://aiorbit.io/tasks/multi-agent-collaboration",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "52eb2f7a-4107-5ef4-b72a-bcba63f9e0b3",
+    "entity_type": "Task",
+    "name": "Real-Time Web Research and Fact-Checking",
+    "description": "Querying search APIs, scraping live web pages, extracting relevant snippets, and synthesizing cited, factually verified answers.",
+    "url": "https://aiorbit.io/tasks/real-time-web-research",
+    "categories": [
+      "Personal Ai Assistants",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "82267bd0-444f-5b74-aca8-679f6e372764",
+    "entity_type": "Task",
+    "name": "Semantic Search and Embeddings",
+    "description": "Transforming unstructured text into dense vector embeddings for high-dimensional cosine similarity ranking and retrieval.",
+    "url": "https://aiorbit.io/tasks/semantic-search",
+    "categories": [
+      "Developer Tools",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ab4401e3-2302-57e0-b8e2-9136ebe7b8e3",
+    "entity_type": "Task",
+    "name": "Video Temporal Grounding",
+    "description": "Locating specific moments, actions, or dialogue segments within long video files based on natural language queries.",
+    "url": "https://aiorbit.io/tasks/video-temporal-grounding",
+    "categories": [
+      "Computer Vision",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c1019d48-6eac-572a-8710-4db056fa95b1",
+    "entity_type": "Task",
+    "name": "3D Asset Generation from Text",
+    "description": "Synthesizing textured 3D meshes and NeRF / Gaussian Splat representations from text descriptions or single 2D images.",
+    "url": "https://aiorbit.io/tasks/3d-asset-generation",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "15f06826-a5a3-5090-8c19-9ca0ed77d934",
+    "entity_type": "Task",
+    "name": "Meeting Summarization and Action Item Extraction",
+    "description": "Distilling multi-speaker business discussions into structured executive takeaways, decisions, and assigned follow-up action items.",
+    "url": "https://aiorbit.io/tasks/meeting-summarization",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "26241546-4212-5bf1-abae-ca8aef478273",
+    "entity_type": "Task",
+    "name": "Mathematical Reasoning and Theorem Proving",
+    "description": "Formulating rigorous step-by-step mathematical proofs, verifying formal syntax in Lean 4, and solving Olympiad-level problems.",
+    "url": "https://aiorbit.io/tasks/mathematical-reasoning",
+    "categories": [
+      "Developer Tools",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/tasks"
+    },
+    "metadata": {},
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f990f0e6-0e5b-51ae-bb6e-21d1658bf916",
+    "entity_type": "Repository",
+    "name": "vllm-project/vllm",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs with PagedAttention and CUDA kernels.",
+    "url": "https://github.com/vllm-project/vllm",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/vllm-project/vllm"
+    },
+    "metadata": {
+      "implements_entity": "vLLM",
+      "license": "Apache-2.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1d10447e-ddca-55b8-9337-3bbbb45ec962",
+    "entity_type": "Repository",
+    "name": "huggingface/transformers",
+    "description": "Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX with tens of thousands of pretrained models.",
+    "url": "https://github.com/huggingface/transformers",
+    "categories": [
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/huggingface/transformers"
+    },
+    "metadata": {
+      "company": "Hugging Face",
+      "license": "Apache-2.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "bfcc413e-80ea-5092-9ab4-627fc97e585f",
+    "entity_type": "Repository",
+    "name": "langchain-ai/langchain",
+    "description": "Building applications with LLMs through composability and comprehensive ecosystem integrations.",
+    "url": "https://github.com/langchain-ai/langchain",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/langchain-ai/langchain"
+    },
+    "metadata": {
+      "implements_entity": "LangChain",
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7477b4e5-b7a1-5aba-9599-e4696d2b8364",
+    "entity_type": "Repository",
+    "name": "run-llama/llamaindex",
+    "description": "LlamaIndex is a data framework for your LLM applications to connect external data sources with LLMs.",
+    "url": "https://github.com/run-llama/llama_index",
+    "categories": [
+      "Developer Tools",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/run-llama/llama_index"
+    },
+    "metadata": {
+      "implements_entity": "LlamaIndex",
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c21f8be0-89aa-5109-b1b7-e9693b5dfe8b",
+    "entity_type": "Repository",
+    "name": "ollama/ollama",
+    "description": "Get up and running with Llama 3.3, Mistral, Gemma, and other large language models locally with a single command.",
+    "url": "https://github.com/ollama/ollama",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ollama/ollama"
+    },
+    "metadata": {
+      "implements_entity": "Ollama",
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "be95aa27-093e-521a-b09d-5fcbc4241173",
+    "entity_type": "Repository",
+    "name": "ggerganov/llama.cpp",
+    "description": "LLM inference in C/C++ with minimal dependencies, AVX/NEON SIMD optimization, and Apple Silicon Metal acceleration.",
+    "url": "https://github.com/ggerganov/llama.cpp",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ggerganov/llama.cpp"
+    },
+    "metadata": {
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "39e15feb-ca9a-5666-a782-711e2becab55",
+    "entity_type": "Repository",
+    "name": "modelcontextprotocol/servers",
+    "description": "Official reference MCP (Model Context Protocol) servers repository created and maintained by Anthropic and the open community.",
+    "url": "https://github.com/modelcontextprotocol/servers",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "company": "Anthropic",
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "21ab7b20-c44c-516a-ad66-71f2e6b5a402",
+    "entity_type": "Repository",
+    "name": "meta-llama/llama3",
+    "description": "The official repository containing code and guidance for downloading and running Meta Llama 3 models.",
+    "url": "https://github.com/meta-llama/llama3",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/meta-llama/llama3"
+    },
+    "metadata": {
+      "company": "Meta",
+      "license": "Llama 3.3 Community License"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2e0b11bf-5a23-5cb8-a14d-967ba8672063",
+    "entity_type": "Repository",
+    "name": "mistralai/mistral-src",
+    "description": "Reference implementation of Mistral AI transformer architectures and inference pipelines.",
+    "url": "https://github.com/mistralai/mistral-src",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/mistralai/mistral-src"
+    },
+    "metadata": {
+      "company": "Mistral AI",
+      "license": "Apache-2.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3b5633f2-dedd-588a-9ee9-f7ef5a35ff97",
+    "entity_type": "Repository",
+    "name": "anthropics/anthropic-sdk-python",
+    "description": "Official Python client library for accessing Anthropic's Claude API with streaming and tool use support.",
+    "url": "https://github.com/anthropics/anthropic-sdk-python",
+    "categories": [
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/anthropics/anthropic-sdk-python"
+    },
+    "metadata": {
+      "company": "Anthropic",
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3742ef9a-9da1-5db9-b51f-b47b42e40789",
+    "entity_type": "Repository",
+    "name": "openai/openai-python",
+    "description": "The official Python client library for the OpenAI API covering GPT-4o, o1, Whisper, and Embeddings.",
+    "url": "https://github.com/openai/openai-python",
+    "categories": [
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/openai/openai-python"
+    },
+    "metadata": {
+      "company": "OpenAI",
+      "license": "Apache-2.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "57d40ee2-9532-5aac-a68c-bfc75910311f",
+    "entity_type": "Repository",
+    "name": "crewAIInc/crewAI",
+    "description": "Framework for orchestrating role-playing, autonomous AI agents. Foster collaborative intelligence among agents.",
+    "url": "https://github.com/crewAIInc/crewAI",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/crewAIInc/crewAI"
+    },
+    "metadata": {
+      "implements_entity": "CrewAI",
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2441c2db-8236-5918-9780-c192d3e3cd45",
+    "entity_type": "Repository",
+    "name": "KillianLucas/open-interpreter",
+    "description": "A natural language interface for computers to run code, control apps, and edit local files via LLMs.",
+    "url": "https://github.com/KillianLucas/open-interpreter",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/KillianLucas/open-interpreter"
+    },
+    "metadata": {
+      "implements_entity": "Open Interpreter",
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ba0b5e68-f5a6-56b1-846d-0686171c09ac",
+    "entity_type": "Repository",
+    "name": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular visual node-based GUI and backend for Stable Diffusion and Flux generation pipelines.",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "categories": [
+      "Creative Ai & Generation",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/comfyanonymous/ComfyUI"
+    },
+    "metadata": {
+      "license": "GPL-3.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4f7bd281-8a70-5c31-b1bf-9645b7a2696f",
+    "entity_type": "Repository",
+    "name": "AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI based on Gradio library for full-featured browser-based image generation.",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "categories": [
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+    },
+    "metadata": {
+      "license": "AGPL-3.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "e47465d7-0f17-5ec0-83db-86c12407adeb",
+    "entity_type": "Repository",
+    "name": "SYSTRAN/faster-whisper",
+    "description": "Faster Whisper transcription with CTranslate2 delivering 4x speedup over original implementation using 8-bit quantization.",
+    "url": "https://github.com/SYSTRAN/faster-whisper",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Audio & Speech"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/SYSTRAN/faster-whisper"
+    },
+    "metadata": {
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "47c473e9-b643-5e43-b870-3b0f05d04e73",
+    "entity_type": "Repository",
+    "name": "triton-lang/triton",
+    "description": "A language and compiler for writing highly efficient custom Deep Learning primitives for GPUs with Python syntax.",
+    "url": "https://github.com/triton-lang/triton",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/triton-lang/triton"
+    },
+    "metadata": {
+      "license": "MIT"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b50e4def-ed61-58e3-8037-32e677deddc5",
+    "entity_type": "Repository",
+    "name": "Dao-AILab/flash-attention",
+    "description": "Fast and memory-efficient exact attention with IO-awareness, powering virtually all modern frontier transformer backends.",
+    "url": "https://github.com/Dao-AILab/flash-attention",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Dao-AILab/flash-attention"
+    },
+    "metadata": {
+      "license": "BSD-3-Clause"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4251c621-7869-5da7-acd5-d5ee92fe8662",
+    "entity_type": "Repository",
+    "name": "skypilot-org/skypilot",
+    "description": "Run LLMs and AI workloads on any cloud (AWS, GCP, Azure, Lambda, RunPod) with cost minimization and autoscaling.",
+    "url": "https://github.com/skypilot-org/skypilot",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/skypilot-org/skypilot"
+    },
+    "metadata": {
+      "license": "Apache-2.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b369c3f3-74b2-5102-b259-45513ebd607a",
+    "entity_type": "Repository",
+    "name": "livekit/agents",
+    "description": "Build real-time multimodal AI voice agents and video assistants with WebRTC, OpenAI Realtime, and Gemini 2.0 Flash.",
+    "url": "https://github.com/livekit/agents",
+    "categories": [
+      "Audio & Speech",
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/livekit/agents"
+    },
+    "metadata": {
+      "license": "Apache-2.0"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "81693951-7122-5fbc-9241-da54737731eb",
+    "entity_type": "MCP",
+    "name": "github-mcp-server",
+    "description": "Model Context Protocol server enabling LLMs to browse repositories, create pull requests, read issues, and commit files directly.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/github",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "02fcc99d-d8ca-5e1c-887e-5bafa7884e03",
+    "entity_type": "MCP",
+    "name": "postgres-mcp-server",
+    "description": "MCP server providing read-only and transactional inspection capabilities over PostgreSQL databases with schema introspection.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/postgres",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b8dff38a-4771-51fe-828e-44b34c0c25d2",
+    "entity_type": "MCP",
+    "name": "filesystem-mcp-server",
+    "description": "Secure file system access MCP server providing sandboxed directory reading, file editing, tree listings, and search.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "bf05e8ab-736c-5250-870d-e68db32a4770",
+    "entity_type": "MCP",
+    "name": "brave-search-mcp-server",
+    "description": "MCP integration for Brave Search API to provide web query capabilities and local news retrieval without tracking.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search",
+    "categories": [
+      "Model Context Protocol",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c7289541-4a72-52a3-a718-2064eae1e375",
+    "entity_type": "MCP",
+    "name": "slack-mcp-server",
+    "description": "MCP server enabling AI agents to read channel history, post replies, and manage direct messages in Slack workspaces.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/slack",
+    "categories": [
+      "Model Context Protocol",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3fe50877-ff03-5757-a1e0-e56eba83ed84",
+    "entity_type": "MCP",
+    "name": "puppeteer-mcp-server",
+    "description": "Headless browser automation MCP server for taking screenshots, clicking buttons, filling forms, and scraping dynamic JS pages.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "fb92ae0b-791b-5155-8f5f-eef634bdf68d",
+    "entity_type": "MCP",
+    "name": "sqlite-mcp-server",
+    "description": "Lightweight MCP server to query, inspect schemas, and execute analytical SQL against local SQLite database files.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f5e8696b-7a74-5582-bc27-d20293499977",
+    "entity_type": "MCP",
+    "name": "memory-mcp-server",
+    "description": "Knowledge graph memory server allowing AI models to store, update, and retrieve facts about user entities and preferences.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
+    "categories": [
+      "Model Context Protocol",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4387fa7c-3434-5354-9955-96a80ec3354b",
+    "entity_type": "MCP",
+    "name": "sequential-thinking-mcp-server",
+    "description": "Dynamic reasoning MCP server enabling LLMs to break down complex multidimensional problems through step-by-step reflection.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking",
+    "categories": [
+      "Model Context Protocol",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5c42c3d7-9891-5483-9245-df02869e7e44",
+    "entity_type": "MCP",
+    "name": "google-maps-mcp-server",
+    "description": "Location and routing MCP server allowing AI assistants to query places, business ratings, travel distances, and elevation.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps",
+    "categories": [
+      "Model Context Protocol",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "df71ea2b-f8d3-5eb6-9627-9cd32f0988ee",
+    "entity_type": "MCP",
+    "name": "fetch-mcp-server",
+    "description": "Web resource fetching MCP server that converts HTML pages into sanitized clean markdown for LLM ingestion.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0422f9e1-61e5-5a5e-b024-3318bc26a100",
+    "entity_type": "MCP",
+    "name": "sentry-mcp-server",
+    "description": "MCP server to retrieve error stack traces, release telemetry, and issue frequency diagnostics directly from Sentry.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/sentry",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1c6f999d-1caa-55cb-a4a9-fad15fa34947",
+    "entity_type": "MCP",
+    "name": "docker-mcp-server",
+    "description": "Docker container management MCP server to list running containers, inspect logs, pull images, and restart services.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/docker",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2713083c-660c-5eb9-a897-847ab995a1b9",
+    "entity_type": "MCP",
+    "name": "notion-mcp-server",
+    "description": "MCP integration with Notion API to read database pages, query blocks, and append meeting summaries.",
+    "url": "https://github.com/suecharo/mcp-notion-server",
+    "categories": [
+      "Model Context Protocol",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/suecharo/mcp-notion-server"
+    },
+    "metadata": {
+      "compatible_clients": [
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "603ea3fd-10cb-57b8-be25-eac33032d07a",
+    "entity_type": "MCP",
+    "name": "linear-mcp-server",
+    "description": "Project management MCP server to create, search, and update software issue tickets and cycles in Linear.",
+    "url": "https://github.com/jerhadf/linear-mcp-server",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/jerhadf/linear-mcp-server"
+    },
+    "metadata": {
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7fa0efa9-9122-5bec-b7c6-e9fe1170fc5e",
+    "entity_type": "MCP",
+    "name": "cloudflare-mcp-server",
+    "description": "Cloudflare developer platform MCP server for deploying Workers, managing KV stores, and inspecting DNS records.",
+    "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/cloudflare/mcp-server-cloudflare"
+    },
+    "metadata": {
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "62f9a0b5-2efe-5911-bcdc-836a6425c96a",
+    "entity_type": "MCP",
+    "name": "everart-mcp-server",
+    "description": "Creative generation MCP server integrating EverArt's image model API directly into conversational LLM clients.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/everart",
+    "categories": [
+      "Creative Ai & Generation",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b56ceaf3-b98a-5167-a578-4ec7afec9f74",
+    "entity_type": "MCP",
+    "name": "redis-mcp-server",
+    "description": "In-memory cache and vector store inspection server for managing Redis key-values and executing vector similarity searches.",
+    "url": "https://github.com/redis/mcp-redis",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/redis/mcp-redis"
+    },
+    "metadata": {
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "8917e016-d848-544c-a423-ebf3bfd4b7d1",
+    "entity_type": "MCP",
+    "name": "kubernetes-mcp-server",
+    "description": "MCP server providing cluster inspection, pod log retrieval, deployment rollouts, and CRD management for Kubernetes.",
+    "url": "https://github.com/stefanprodan/mcp-server-kubernetes",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/stefanprodan/mcp-server-kubernetes"
+    },
+    "metadata": {
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "90d1a564-62b9-5e60-80ab-c9823becf5ac",
+    "entity_type": "Robot",
+    "name": "Figure 02",
+    "description": "Next-generation commercially deployed bipedal humanoid robot featuring onboard VLM intelligence and dexterous manipulation for industrial assembly.",
+    "url": "https://figure.ai/figure-02",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://figure.ai"
+    },
+    "metadata": {
+      "manufacturer": "Figure AI",
+      "powered_by_model": "OpenAI o1"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d3b0b439-6397-51eb-985b-9db5a7da9500",
+    "entity_type": "Robot",
+    "name": "Boston Dynamics Atlas",
+    "description": "Fully electric, commercial-grade humanoid robot designed for real-world heavy industrial manipulation with a full 360-degree range of motion.",
+    "url": "https://bostondynamics.com/atlas",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://bostondynamics.com"
+    },
+    "metadata": {
+      "manufacturer": "Boston Dynamics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2039365d-9df5-5e5c-8e62-fe1db9454944",
+    "entity_type": "Robot",
+    "name": "Boston Dynamics Spot",
+    "description": "Agile quadruped mobile robot that navigates terrain with unprecedented mobility, automating routine inspection tasks and data capture.",
+    "url": "https://bostondynamics.com/spot",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://bostondynamics.com"
+    },
+    "metadata": {
+      "manufacturer": "Boston Dynamics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2f28c12e-5fb0-52a8-9385-314fc81ca6c3",
+    "entity_type": "Robot",
+    "name": "Tesla Optimus Gen 2",
+    "description": "Bipedal general-purpose humanoid robot developed by Tesla using end-to-end neural network visual navigation and custom actuators.",
+    "url": "https://tesla.com/optimus",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://tesla.com"
+    },
+    "metadata": {
+      "manufacturer": "Tesla"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "cf859dd4-3ead-529d-8e72-eb7b8d9b1ea9",
+    "entity_type": "Robot",
+    "name": "Unitree G1",
+    "description": "Mass-produced human-like agent humanoid robot offering 360-degree joint flexibility, reinforcement learning locomotion, and under-$16k pricing.",
+    "url": "https://unitree.com/g1",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://unitree.com"
+    },
+    "metadata": {
+      "manufacturer": "Unitree Robotics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2609b4fd-3513-5a1e-924b-124a355374d6",
+    "entity_type": "Robot",
+    "name": "Unitree Go2",
+    "description": "Intelligent bipedal/quadruped companion robot equipped with 4D ultra-wide LiDAR, obstacle avoidance, and GPT-powered voice interaction.",
+    "url": "https://unitree.com/go2",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://unitree.com"
+    },
+    "metadata": {
+      "manufacturer": "Unitree Robotics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "bcc8b01f-cf3a-5109-999f-232160f6f70b",
+    "entity_type": "Robot",
+    "name": "1X NEO",
+    "description": "Bipedal humanoid android built with bio-inspired soft actuators specifically engineered for safe physical interaction in home environments.",
+    "url": "https://1x.tech/neo",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://1x.tech"
+    },
+    "metadata": {
+      "manufacturer": "1X Technologies"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7c5c119b-5db0-50f9-bb2f-a5f6cda9bca1",
+    "entity_type": "Robot",
+    "name": "1X EVE",
+    "description": "Commercial wheeled android with dual manipulative grippers deployed across European industrial and security facilities.",
+    "url": "https://1x.tech/eve",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://1x.tech"
+    },
+    "metadata": {
+      "manufacturer": "1X Technologies"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7a5ed16a-7441-5454-9b86-39a4439ea869",
+    "entity_type": "Robot",
+    "name": "Sanctuary AI Phoenix",
+    "description": "General-purpose humanoid robot powered by the Carbon AI cognitive architecture featuring human-like haptic tactile dexterity.",
+    "url": "https://sanctuary.ai/phoenix",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://sanctuary.ai"
+    },
+    "metadata": {
+      "manufacturer": "Sanctuary AI"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0ed349ec-1d47-57a3-9237-393d4ff32c2b",
+    "entity_type": "Robot",
+    "name": "Apptronik Apollo",
+    "description": "Commercial humanoid robot designed to work alongside humans in warehouses and manufacturing plants with swappable batteries.",
+    "url": "https://apptronik.com/apollo",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://apptronik.com"
+    },
+    "metadata": {
+      "manufacturer": "Apptronik"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "391b8f3b-d70d-56b9-9c32-6ebbbe31ea01",
+    "entity_type": "Robot",
+    "name": "Agility Robotics Digit",
+    "description": "Bipedal logistics robot purpose-built for bulk tote handling and bulk warehouse automation inside distribution centers.",
+    "url": "https://agilityrobotics.com/digit",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://agilityrobotics.com"
+    },
+    "metadata": {
+      "manufacturer": "Agility Robotics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4c7ce7e1-2f90-543a-8a16-09d72a701a00",
+    "entity_type": "Robot",
+    "name": "Kepler Forerunner K1",
+    "description": "General-purpose humanoid robot with planetary roller screw actuators for high payload capacity and factory tasks.",
+    "url": "https://keplerbot.com",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://keplerbot.com"
+    },
+    "metadata": {
+      "manufacturer": "Kepler Robotics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5085aa38-4724-5a5f-95e7-ca39c11d1b3f",
+    "entity_type": "Robot",
+    "name": "Fourier Intelligence GR-1",
+    "description": "General-purpose humanoid robot developed for rehabilitation assistance, elderly care, and laboratory research.",
+    "url": "https://fftai.com/gr1",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://fftai.com"
+    },
+    "metadata": {
+      "manufacturer": "Fourier Intelligence"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b1ad0b3b-1c36-51ce-9a84-6e9137dbe648",
+    "entity_type": "Robot",
+    "name": "UBTECH Walker S",
+    "description": "Industrial humanoid robot equipped with multi-modal visual sensor fusion deployed in EV automotive factory inspection lines.",
+    "url": "https://ubtrobot.com/walker-s",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://ubtrobot.com"
+    },
+    "metadata": {
+      "manufacturer": "UBTECH Robotics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f7d1527d-f47d-5468-ab7f-da4150b729bc",
+    "entity_type": "Robot",
+    "name": "PAL Robotics TALOS",
+    "description": "Heavy-payload bipedal humanoid research platform with torque control across all joints for dynamic force tasks.",
+    "url": "https://pal-robotics.com/robots/talos",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://pal-robotics.com"
+    },
+    "metadata": {
+      "manufacturer": "PAL Robotics"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "14c0e1b7-d333-57c1-b74f-405b65f9f305",
+    "entity_type": "Device",
+    "name": "NVIDIA H100 SXM",
+    "description": "Enterprise AI accelerator based on Hopper architecture with Transformer Engine, 80GB HBM3 memory, and 3.35 TB/s memory bandwidth.",
+    "url": "https://nvidia.com/h100",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://nvidia.com"
+    },
+    "metadata": {
+      "manufacturer": "NVIDIA",
+      "supported_models": [
+        "Llama 3.1 405B",
+        "DeepSeek-V3",
+        "Mistral Large 2"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a40d7fae-3e8e-53dd-bd13-8f40f9045842",
+    "entity_type": "Device",
+    "name": "NVIDIA B200 Blackwell",
+    "description": "Next-generation Blackwell AI superchip with 208 billion transistors delivering up to 20 petaflops of FP4 inference compute.",
+    "url": "https://nvidia.com/blackwell",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://nvidia.com"
+    },
+    "metadata": {
+      "manufacturer": "NVIDIA",
+      "supported_models": [
+        "Llama 3.1 405B",
+        "DeepSeek-R1"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "430c4a4e-a82a-555a-b02c-07fb79b11716",
+    "entity_type": "Device",
+    "name": "NVIDIA GB200 NVL72",
+    "description": "Liquid-cooled rack-scale system connecting 72 Blackwell GPUs and 36 Grace CPUs into a massive single-GPU domain with NVLink 5.",
+    "url": "https://nvidia.com/gb200-nvl72",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://nvidia.com"
+    },
+    "metadata": {
+      "manufacturer": "NVIDIA"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "af68eb16-7435-5256-8b76-847c43f73c24",
+    "entity_type": "Device",
+    "name": "Groq LPU Card",
+    "description": "Language Processing Unit PCIe accelerator built on deterministic Tensor Streaming Architecture for ultra-high token generation speed.",
+    "url": "https://groq.com/hardware",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://groq.com"
+    },
+    "metadata": {
+      "manufacturer": "Groq",
+      "supported_models": [
+        "Llama 3.3 70B",
+        "Mistral NeMo",
+        "Whisper large-v3-turbo"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f52cd5af-c613-54e8-8e7f-41b323df6bea",
+    "entity_type": "Device",
+    "name": "Apple Vision Pro",
+    "description": "Spatial computing headset powered by Apple M2 and R1 silicon running spatial AI, computer vision, and gaze-tracking neural networks.",
+    "url": "https://apple.com/apple-vision-pro",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Computer Vision"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://apple.com"
+    },
+    "metadata": {
+      "manufacturer": "Apple"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b02d7a18-25e4-5cb0-90ae-8d64e65ceda8",
+    "entity_type": "Device",
+    "name": "Rabbit R1",
+    "description": "Pocket AI companion device featuring Rabbit OS, push-to-talk microphone, 360-degree rotational camera, and analog scroll wheel.",
+    "url": "https://rabbit.tech/r1",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://rabbit.tech"
+    },
+    "metadata": {
+      "manufacturer": "Rabbit"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d6941e42-dea2-5ef7-b879-4b5e66a293d1",
+    "entity_type": "Device",
+    "name": "Humane Ai Pin",
+    "description": "Screenless wearable pin with laser ink display, voice gestures, and OpenAI cloud model integration.",
+    "url": "https://hu.ma.ne/aipin",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://hu.ma.ne"
+    },
+    "metadata": {
+      "manufacturer": "Humane"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5222da92-b172-557b-a9ec-4722787b2020",
+    "entity_type": "Device",
+    "name": "Raspberry Pi 5 AI Kit",
+    "description": "Compact edge AI bundle combining Raspberry Pi 5 with Hailo-8L M.2 neural accelerator delivering 13 TOPS of local inference.",
+    "url": "https://raspberrypi.com/products/ai-kit",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://raspberrypi.com"
+    },
+    "metadata": {
+      "supported_models": [
+        "Llama 3.2 3B"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7fbc6924-07db-53d6-8c70-0da2572c0046",
+    "entity_type": "Device",
+    "name": "NVIDIA Jetson Orin Nano",
+    "description": "Compact edge AI module offering up to 40 TOPS of AI compute for computer vision, robotics, and generative AI edge applications.",
+    "url": "https://nvidia.com/jetson-orin-nano",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://nvidia.com"
+    },
+    "metadata": {
+      "manufacturer": "NVIDIA",
+      "supported_models": [
+        "Llama 3.2 3B",
+        "Phi-3.5-mini"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c49d2add-cd22-5422-859a-3041ecd66bf8",
+    "entity_type": "Device",
+    "name": "Tenstorrent Wormhole",
+    "description": "Tensix core RISC-V based machine learning accelerator card engineered for scalable cost-effective transformer training and inference.",
+    "url": "https://tenstorrent.com/hardware/wormhole",
+    "categories": [
+      "Ai Hardware & Accelerators"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://tenstorrent.com"
+    },
+    "metadata": {
+      "manufacturer": "Tenstorrent"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "867f58a7-8bd0-5c70-8566-7c48226aa5ae",
+    "entity_type": "Device",
+    "name": "Intel Gaudi 3",
+    "description": "AI accelerator tailored for cost-effective generative AI training and deployment with 128GB HBM2e memory and 3.7 TB/s bandwidth.",
+    "url": "https://intel.com/gaudi3",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://intel.com"
+    },
+    "metadata": {
+      "manufacturer": "Intel",
+      "supported_models": [
+        "Llama 3.3 70B",
+        "Mistral Large 2"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "43d3b049-7368-59b6-a3a0-31b366a89a55",
+    "entity_type": "Device",
+    "name": "AMD Instinct MI300X",
+    "description": "Generative AI accelerator featuring CDNA 3 architecture with 192GB HBM3 memory and 5.3 TB/s bandwidth for large model inference.",
+    "url": "https://amd.com/instinct-mi300x",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://amd.com"
+    },
+    "metadata": {
+      "manufacturer": "AMD",
+      "supported_models": [
+        "Llama 3.1 405B",
+        "DeepSeek-V3"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a9b280be-6795-58e1-8348-0c50a760e0cd",
+    "entity_type": "Device",
+    "name": "Google TPU v5p",
+    "description": "Google's most powerful Tensor Processing Unit supercomputer chip optimized for training frontier foundation models like Gemini.",
+    "url": "https://cloud.google.com/tpu",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://cloud.google.com"
+    },
+    "metadata": {
+      "manufacturer": "Google DeepMind",
+      "supported_models": [
+        "Gemini 1.5 Pro",
+        "Gemini 2.0 Flash"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7374b06f-75dd-5693-ae6f-2bba65b670fd",
+    "entity_type": "Device",
+    "name": "Cerebras CS-3",
+    "description": "Wafer-Scale AI supercomputer containing 4 million AI cores on a single continuous silicon wafer for instant trillion-parameter training.",
+    "url": "https://cerebras.ai/product-system",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://cerebras.ai"
+    },
+    "metadata": {
+      "manufacturer": "Cerebras Systems",
+      "supported_models": [
+        "Llama 3.3 70B"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "66f4ed0d-8f9c-5640-8701-118c19f59e51",
+    "entity_type": "Device",
+    "name": "Hailo-8 M.2 Module",
+    "description": "Ultra-compact M.2 AI acceleration module for edge vision and industrial IoT systems delivering 26 TOPS at 2.5 watts.",
+    "url": "https://hailo.ai/products/ai-accelerators/hailo-8-m2-module",
+    "categories": [
+      "Ai Hardware & Accelerators"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://hailo.ai"
+    },
+    "metadata": {
+      "manufacturer": "Hailo"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "86aad242-3ed8-5dab-ae6c-9ba84541736c",
+    "entity_type": "Device",
+    "name": "Meta Ray-Ban Smart Glasses",
+    "description": "Smart glasses with open-ear speakers, ultra-wide 12MP camera, and Meta AI multimodal voice assistant integration.",
+    "url": "https://ray-ban.com/meta",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://meta.com"
+    },
+    "metadata": {
+      "manufacturer": "Meta",
+      "supported_models": [
+        "Llama 3.2 3B"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b078abd0-e3b2-5134-9f13-be928d8b3d2d",
+    "entity_type": "Device",
+    "name": "Friend AI Pendant",
+    "description": "Wearable Bluetooth AI pendant worn around the neck that listens to your daily life and sends context-aware text messages.",
+    "url": "https://friend.com",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://friend.com"
+    },
+    "metadata": {
+      "manufacturer": "Friend"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2ec738a6-7605-5d79-893b-30e503e5149a",
+    "entity_type": "Device",
+    "name": "Plaud Note AI Recorder",
+    "description": "Card-thin voice recorder attached to smartphones that captures phone calls, transcribes via Whisper, and structures summaries with Claude.",
+    "url": "https://plaud.ai",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://plaud.ai"
+    },
+    "metadata": {
+      "manufacturer": "Plaud",
+      "supported_models": [
+        "Whisper large-v3-turbo",
+        "Claude 3.5 Sonnet"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "adb065be-09ea-5736-b060-128c906dbec9",
+    "entity_type": "News",
+    "name": "Anthropic Announces Claude 3.5 Sonnet Upgrade with Native Tool Use and Computer Control",
+    "description": "Anthropic unveils an upgraded Claude 3.5 Sonnet model introducing an industry-first public beta of computer use, enabling models to interact with desktop screens and keyboards.",
+    "url": "https://anthropic.com/news/3-5-models-and-computer-use",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://anthropic.com/news"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Anthropic",
+        "Claude 3.5 Sonnet"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f6515b1c-5001-5e4a-aa58-4a7ec5f1d675",
+    "entity_type": "News",
+    "name": "DeepSeek Open-Sources DeepSeek-R1 Reasoning Model and System Weights under MIT License",
+    "description": "DeepSeek disrupts AI economics by releasing weights and technical recipes for DeepSeek-R1, demonstrating frontier reasoning parity using purely reinforcement learning.",
+    "url": "https://deepseek.com/news/deepseek-r1-release",
+    "categories": [
+      "Open Source Ai",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://deepseek.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "DeepSeek",
+        "DeepSeek-R1"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ad644f36-18e8-56fa-ae00-322361e08b12",
+    "entity_type": "News",
+    "name": "OpenAI Unveils o1 Reasoning Model Series for Advanced Math, Coding, and Science",
+    "description": "OpenAI announces the o1 family of models that spend more test-time compute thinking through problems before providing solutions.",
+    "url": "https://openai.com/news/introducing-openai-o1",
+    "categories": [
+      "Large Language Models",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://openai.com/news"
+    },
+    "metadata": {
+      "covered_entities": [
+        "OpenAI",
+        "OpenAI o1"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "447c8cdf-2111-546f-b201-ec5476ee9c09",
+    "entity_type": "News",
+    "name": "Figure 02 Humanoid Robot Successfully Completes Production Trial at BMW Spartanburg Plant",
+    "description": "Figure AI announces that its Figure 02 humanoid robot successfully completed sheet metal and chassis insertion trials on the active BMW automotive assembly line.",
+    "url": "https://figure.ai/news/bmw-pilot-success",
+    "categories": [
+      "Autonomous Agents",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://figure.ai"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Figure AI",
+        "Figure 02"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ecf7fbbf-b2af-5bc8-b416-2ca9823aabba",
+    "entity_type": "News",
+    "name": "Anthropic Open-Sources Model Context Protocol (MCP) Standard for Universal AI Tools",
+    "description": "Anthropic releases the Model Context Protocol (MCP) as an open industry standard to replace fragmented custom integrations between LLMs and enterprise tools.",
+    "url": "https://anthropic.com/news/model-context-protocol",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://anthropic.com/news"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Anthropic",
+        "github-mcp-server",
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d5bf0557-dfab-5202-b1a9-9efbab34c022",
+    "entity_type": "News",
+    "name": "NVIDIA Blackwell GB200 Systems Enter Mass Production and Global Data Center Shipments",
+    "description": "NVIDIA CEO Jensen Huang confirms full mass production ramp of Blackwell GB200 NVL72 liquid-cooled supercomputing systems.",
+    "url": "https://nvidianews.nvidia.com/news/blackwell-production-ramp",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://nvidianews.nvidia.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "NVIDIA",
+        "NVIDIA B200 Blackwell",
+        "NVIDIA GB200 NVL72"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "08670926-0621-5d6c-b38d-3e74daf93b42",
+    "entity_type": "News",
+    "name": "Meta Releases Llama 3.3 70B Offering 405B Capabilities at Single-GPU Serving Cost",
+    "description": "Meta AI publishes Llama 3.3 70B, combining advanced knowledge distillation and fine-tuning to rival the largest 405B frontier open models.",
+    "url": "https://ai.meta.com/blog/llama-3-3-release",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://ai.meta.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Meta",
+        "Llama 3.3 70B"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1ebe7437-58e1-573c-ad36-83e95ecb92ab",
+    "entity_type": "News",
+    "name": "Mistral AI Launches Codestral Open-Weight Model for Software Developers",
+    "description": "Mistral AI introduces Codestral, a 22B parameter model tailored specifically for code generation, completion, and fill-in-the-middle operations across 80+ programming languages.",
+    "url": "https://mistral.ai/news/codestral-announcement",
+    "categories": [
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://mistral.ai/news"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Mistral AI",
+        "Codestral"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ca1abf76-a1fa-5f65-aa11-0e2235dfe5bb",
+    "entity_type": "News",
+    "name": "Runway Launches Gen-3 Alpha Video Model with Breakthrough Camera Motion Controls",
+    "description": "Runway unveils Gen-3 Alpha, delivering significant improvements in fidelity, temporal consistency, and fine-grained camera direction for video creators.",
+    "url": "https://runwayml.com/news/gen-3-alpha-launch",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://runwayml.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Runway",
+        "Runway Gen-3 Alpha"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ab159af1-3fa7-5bb5-9a8a-61d30e8a1259",
+    "entity_type": "News",
+    "name": "Black Forest Labs Announces Flux.1 Suite of Open-Weight Diffusion Models",
+    "description": "Founded by the original creators of Stable Diffusion, Black Forest Labs releases Flux.1 Schnell, Dev, and Pro models for state-of-the-art image generation.",
+    "url": "https://blackforestlabs.ai/announcements/flux1-release",
+    "categories": [
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://blackforestlabs.ai"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Flux.1 Schnell",
+        "Flux.1 Dev"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "16c34d08-9d38-5438-9042-63beabd985de",
+    "entity_type": "News",
+    "name": "Groq Demonstrates Over 500 Tokens/Second Inference Throughput on LPU Hardware",
+    "description": "Groq showcases real-time streaming LLM performance exceeding 500 tokens per second for Llama 3.3 models running on LPUs.",
+    "url": "https://groq.com/news/groq-500-tps-milestone",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://groq.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Groq",
+        "Groq LPU Card"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0c939ab6-5cb3-55ca-ac98-9b5425d83566",
+    "entity_type": "News",
+    "name": "Apple Intelligence Rolls Out Across iOS, iPadOS, and macOS with Private Cloud Compute",
+    "description": "Apple launches Apple Intelligence featuring on-device foundational models, writing tools, photo clean-up, and Siri integrations.",
+    "url": "https://apple.com/newsroom/2026/08/apple-intelligence",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://apple.com/newsroom"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Apple Vision Pro"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2b25570e-76f0-5248-978c-bf9acd7af2c2",
+    "entity_type": "News",
+    "name": "ElevenLabs Launches Conversational Voice Agent API with Sub-250ms Response Latency",
+    "description": "ElevenLabs introduces an end-to-end voice agent platform enabling developers to deploy conversational voice bots with integrated speech-to-speech pipelines.",
+    "url": "https://elevenlabs.io/news/conversational-ai-api",
+    "categories": [
+      "Audio & Speech",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://elevenlabs.io"
+    },
+    "metadata": {
+      "covered_entities": [
+        "ElevenLabs",
+        "ElevenLabs Reader"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0553cd98-2c5c-5b3e-84c8-3d18bc47b491",
+    "entity_type": "News",
+    "name": "Boston Dynamics Retires Hydraulic Atlas to Debut Fully Electric Commercial Humanoid",
+    "description": "Boston Dynamics unveils an all-electric Atlas humanoid robot engineered for real-world industrial automotive applications in partnership with Hyundai.",
+    "url": "https://bostondynamics.com/news/electric-atlas-reveal",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://bostondynamics.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Boston Dynamics",
+        "Boston Dynamics Atlas"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d1f17cd8-85a8-5292-9153-bf78e8174ff8",
+    "entity_type": "News",
+    "name": "Hugging Face Hub Surpasses 1 Million Open Machine Learning Models Milestone",
+    "description": "Hugging Face marks a historic milestone as over one million open AI models and datasets are actively hosted and evaluated on the platform.",
+    "url": "https://huggingface.co/blog/1-million-models",
+    "categories": [
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Hugging Face",
+        "Hugging Face Hub"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d6901deb-36f2-5416-92ff-3dbb69c6eb9c",
+    "entity_type": "News",
+    "name": "Unitree Robotics Announces Commercial Availability of G1 Humanoid Robot at $16,000",
+    "description": "Unitree announces mass production and global shipping of the G1 bipedal humanoid robot priced at $16k to democratize robotics education and research.",
+    "url": "https://unitree.com/news/g1-mass-production",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://unitree.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Unitree Robotics",
+        "Unitree G1"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b81ab8b3-26f2-5d49-99ff-de573059aa47",
+    "entity_type": "News",
+    "name": "Cohere Unveils Command R+ Tailored for Enterprise Retrieval-Augmented Generation",
+    "description": "Cohere introduces Command R+, a scalable 104B model with advanced multilingual citations, tool use, and enterprise compliance integration.",
+    "url": "https://cohere.com/news/command-r-plus",
+    "categories": [
+      "Enterprise Ai",
+      "Large Language Models",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://cohere.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Cohere",
+        "Command R+"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c89739a7-5fa3-5336-ae11-8447f207466f",
+    "entity_type": "News",
+    "name": "Anysphere Raises $60 Million Series A at $2.5B Valuation for Cursor AI Code Editor",
+    "description": "Anysphere, the developer of Cursor, closes a new funding round to expand its autonomous programming infrastructure and frontier model partnerships.",
+    "url": "https://cursor.com/blog/series-a",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://cursor.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "76ad9508-1149-57fb-9ea1-80056dc2005a",
+    "entity_type": "News",
+    "name": "Google DeepMind AlphaFold 3 Successfully Models Interactions of All Life's Molecules",
+    "description": "DeepMind and Isomorphic Labs publish AlphaFold 3, predicting structure and interactions of proteins, DNA, RNA, ligands, and chemical modifications with unprecedented accuracy.",
+    "url": "https://deepmind.google/discover/blog/alphafold-3-predicts-structure-and-interactions",
+    "categories": [
+      "Generative AI",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://deepmind.google"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Google DeepMind"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0867acf6-7195-58c5-836f-a3c802440851",
+    "entity_type": "News",
+    "name": "OpenAI Rolls Out GPT-4o Advanced Voice Mode with Expressive Real-Time Emotional Prosody",
+    "description": "OpenAI begins full rollout of Advanced Voice Mode powered by GPT-4o, allowing fluid interruptions, singing, humor, and emotional nuances in conversational audio.",
+    "url": "https://openai.com/news/advanced-voice-mode-rollout",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://openai.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "OpenAI",
+        "GPT-4o",
+        "ChatGPT"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1b86eccf-c640-5e3f-8f49-2280d92b657f",
+    "entity_type": "News",
+    "name": "Scale AI Closes $1 Billion Series F Funding Led by Accel to Build Defense and Frontier Data",
+    "description": "Scale AI reaches $13.8B valuation in Series F round with participation from NVIDIA, Amazon, and Meta to fuel frontier model evaluation and synthetic RLHF datasets.",
+    "url": "https://scale.com/blog/series-f",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Enterprise Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://scale.com"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Scale AI",
+        "NVIDIA",
+        "Meta"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "57032c9c-dffe-5825-8755-2edd017fdfe6",
+    "entity_type": "News",
+    "name": "Stability AI Unveils Stable Diffusion 3.5 Suite with Improved Typography and Prompt Following",
+    "description": "Stability AI introduces Stable Diffusion 3.5 Large, Large Turbo, and Medium under a permissive community license for research and commercial use.",
+    "url": "https://stability.ai/news/stable-diffusion-3-5-release",
+    "categories": [
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "News/RSS",
+      "url": "https://stability.ai"
+    },
+    "metadata": {
+      "covered_entities": [
+        "Stability AI",
+        "Stable Diffusion 3.5 Large"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "28a10642-065f-5cf8-b2a5-b38386c649bf",
+    "entity_type": "Video",
+    "name": "Andrej Karpathy: Let's build GPT from scratch, in code, spelled out",
+    "description": "Comprehensive 2-hour walkthrough building a complete Transformer generative pre-trained language model in Python and PyTorch from raw mathematics to character generation.",
+    "url": "https://youtube.com/watch?v=kCc8FmEb1nY",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "subject": "Large Language Models"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "eedd45b0-af21-5760-8349-22ac2d85713b",
+    "entity_type": "Video",
+    "name": "3Blue1Brown: Visualizing Attention Mechanisms in Large Language Models (Transformers)",
+    "description": "Geometric and visual intuitive breakdown of self-attention mechanisms, query-key dot products, and multi-head representation spaces in modern transformers.",
+    "url": "https://youtube.com/watch?v=eMlx5fFNoYc",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "subject": "Large Language Models"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3361920b-7f48-5212-9199-fe3b5a514866",
+    "entity_type": "Video",
+    "name": "Yannic Kilcher: DeepSeek-R1 Architecture and Pure Reinforcement Learning Paper Review",
+    "description": "In-depth technical breakdown of DeepSeek-R1 paper, explaining cold-start vs pure RL emergent reasoning behaviors, reward modeling, and distillation efficiency.",
+    "url": "https://youtube.com/watch?v=deepseek_r1_review",
+    "categories": [
+      "Open Source Ai",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "DeepSeek-R1"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "00a142c9-a1a3-54be-8fae-ec50529b7444",
+    "entity_type": "Video",
+    "name": "Two Minute Papers: Figure 02 Humanoid Robot Working Inside BMW Automotive Plant!",
+    "description": "Fellow scholars, what a time to be alive! A breakdown of the Figure 02 humanoid robot autonomous sheet metal handling in real industrial factory conditions.",
+    "url": "https://youtube.com/watch?v=figure02_bmw_twominute",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Figure 02"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "51c25a2d-80e1-5dde-a55d-e84411122855",
+    "entity_type": "Video",
+    "name": "Lex Fridman Podcast: Dario Amodei on Claude 3.5, Scaling Laws, and the Future of AI",
+    "description": "Anthropic CEO Dario Amodei discusses constitutional AI, mechanistic interpretability, model scaling trajectories, and safe deployment of frontier intelligence.",
+    "url": "https://youtube.com/watch?v=lex_dario_amodei",
+    "categories": [
+      "Ai Safety & Alignment",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Anthropic"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b4466da1-02b6-5d54-a50d-7c474f99a596",
+    "entity_type": "Video",
+    "name": "Fireship: Model Context Protocol (MCP) in 100 Seconds - The USB-C for AI Apps",
+    "description": "Fast-paced overview of Anthropic's Model Context Protocol (MCP), explaining why universal tools and data connectors will replace custom API glue code.",
+    "url": "https://youtube.com/watch?v=mcp_in_100_seconds",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "github-mcp-server"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1aa8d077-4de2-51fb-b80e-58b43c187a74",
+    "entity_type": "Video",
+    "name": "StatQuest: Transformer Neural Networks Explained Simply from Embeddings to Self-Attention",
+    "description": "Clear step-by-step conceptual guide to Positional Encoding, Query/Key/Value transformations, and Multi-Head Attention without overwhelming mathematical jargon.",
+    "url": "https://youtube.com/watch?v=statquest_transformers",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "subject": "Large Language Models"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3fa1631f-ef68-5eaf-ad5f-20c9e21f9ae2",
+    "entity_type": "Video",
+    "name": "AI Explained: OpenAI o1 Chain of Thought and Internal Reasoning Mechanics Analyzed",
+    "description": "Technical analysis evaluating OpenAI o1 and o1-mini benchmarks, hidden reasoning tokens, backtracking, and performance scaling with thinking time.",
+    "url": "https://youtube.com/watch?v=aiexplained_o1",
+    "categories": [
+      "Large Language Models",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "OpenAI o1"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "72449147-f006-559f-8619-b8beee393cf3",
+    "entity_type": "Video",
+    "name": "Wes Roth: Unitree G1 Humanoid Robot Mass Production and Factory Testing Deep Dive",
+    "description": "Analysis of Unitree G1 humanoid robot features, commercial price points at $16k, actuator torque ratings, and consumer applications.",
+    "url": "https://youtube.com/watch?v=wesroth_unitree_g1",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Unitree G1"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f0f3ccbf-9d5c-5da9-9f71-cba2927ac2db",
+    "entity_type": "Video",
+    "name": "The Verge: Humane Ai Pin and Rabbit R1 Six Months Later - The State of Dedicated AI Gadgets",
+    "description": "Long-term review and real-world testing of standalone AI hardware devices, wearable cameras, and battery life tradeoffs.",
+    "url": "https://youtube.com/watch?v=theverge_ai_gadgets_review",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Rabbit R1"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "41b4ba3e-4717-53c3-a004-d70611d8df9a",
+    "entity_type": "Video",
+    "name": "Matthew Berman: Complete Guide to Running Open-Source Local LLMs with Ollama and vLLM",
+    "description": "Step-by-step tutorial on deploying Llama 3.3 and DeepSeek locally, setting up continuous batching, and integrating with Open WebUI.",
+    "url": "https://youtube.com/watch?v=matthewberman_local_llms",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Ollama"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "58ca5c5b-0941-5101-a0c7-8152ddbcd021",
+    "entity_type": "Video",
+    "name": "TechLead: Cursor AI vs GitHub Copilot - Why Every Developer is Switching",
+    "description": "Senior software engineer perspective comparing Cursor AI multi-file edits and composer mode with traditional GitHub Copilot completions.",
+    "url": "https://youtube.com/watch?v=techlead_cursor_vs_copilot",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Cursor"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f12ade4c-46d6-5781-97ae-d7b0596ad7d9",
+    "entity_type": "Video",
+    "name": "Dwarkesh Patel: Demis Hassabis on AGI, AlphaFold 3, and Scaling Intelligence",
+    "description": "In-depth conversation with Google DeepMind co-founder Demis Hassabis on the journey from AlphaGo to Gemini 2.0 and AlphaFold biomolecular breakthrough.",
+    "url": "https://youtube.com/watch?v=dwarkesh_demis_hassabis",
+    "categories": [
+      "Generative AI",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Google DeepMind"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "cad5458d-191e-5b29-b3b5-c182c8e7438c",
+    "entity_type": "Video",
+    "name": "Computerphile: How Diffusion Models Actually Work Step by Step",
+    "description": "Professor Mike Pound breaks down forward noise addition, reverse score-matching denoising processes, and U-Net / DiT architectures in generative imaging.",
+    "url": "https://youtube.com/watch?v=computerphile_diffusion",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "subject": "Creative AI & Generation"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5bc68b57-0a26-5290-8e1c-4708d1b25b79",
+    "entity_type": "Video",
+    "name": "Umar Jamil: Llama 3 Source Code Walkthrough from Scratch with PyTorch",
+    "description": "Line-by-line coding tutorial implementing RoPE (Rotary Position Embedding), Grouped-Query Attention (GQA), and SwiGLU activations as in Meta Llama 3.",
+    "url": "https://youtube.com/watch?v=umarjamil_llama3",
+    "categories": [
+      "Developer Tools",
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Llama 3.3 70B"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1d1e04b1-5fb6-5d72-a6ad-d0883e334780",
+    "entity_type": "Video",
+    "name": "MKBHD: Apple Vision Pro - 6 Months Later Real World Review",
+    "description": "Marques Brownlee shares comprehensive impressions on spatial computing ergonomics, persona realism, hand tracking latency, and day-to-day productivity.",
+    "url": "https://youtube.com/watch?v=mkbhd_vision_pro_6months",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Computer Vision"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Apple Vision Pro"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "75da4fd9-694e-5d50-8149-fffb7d1202f8",
+    "entity_type": "Video",
+    "name": "Stanford CS25: Transformers in Vision, Robotics, and Multimodal Systems",
+    "description": "Stanford University guest lecture on Vision Transformers (ViT), diffusion models in robotic manipulation, and cross-modal attention mechanisms.",
+    "url": "https://youtube.com/watch?v=stanford_cs25_multimodal",
+    "categories": [
+      "Multimodal Ai",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "subject": "Multimodal AI"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "a2d48b49-423b-5442-80fb-752cba83557b",
+    "entity_type": "Video",
+    "name": "Greg Kamradt: 25+ Advanced RAG Techniques Explained with Code Implementations",
+    "description": "Architectural breakdown of chunking strategies, hypothetical document embeddings (HyDE), contextual reranking, and semantic caching for enterprise RAG.",
+    "url": "https://youtube.com/watch?v=gregkamradt_rag_techniques",
+    "categories": [
+      "Developer Tools",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "subject": "Retrieval-Augmented Generation"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ffb55d16-bf4f-5aab-9f71-d65ae56499ff",
+    "entity_type": "Video",
+    "name": "George Hotz: Tinygrad, Custom GPU Kernels, and Building AI Compute from Ground Up",
+    "description": "George Hotz live-coding session explaining memory layout optimization, matrix multiplications, and writing clean deep learning frameworks.",
+    "url": "https://youtube.com/watch?v=georgehotz_tinygrad",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "subject": "AI Hardware & Accelerators"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "476866d0-4aa5-5690-86e0-649539eb1091",
+    "entity_type": "Video",
+    "name": "Prompt Engineering: Building Production Multi-Agent Systems with CrewAI and LangGraph",
+    "description": "Practical guide to constructing collaborative multi-agent teams with shared state, deterministic guardrails, and automated feedback loops.",
+    "url": "https://youtube.com/watch?v=promptengineering_crewai_langgraph",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "CrewAI"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2454f8bb-c820-5a08-a69c-5cf8b8056370",
+    "entity_type": "Video",
+    "name": "Yannic Kilcher: FlashAttention-3 Fast and Memory-Efficient Exact Attention on Hopper GPUs",
+    "description": "Technical review explaining asynchronous data movement between HBM and SRAM on NVIDIA H100 to maximize tensor core utilization.",
+    "url": "https://youtube.com/watch?v=yannic_flashattention3",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "NVIDIA H100 SXM"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0d5123f0-90ab-510a-bd5d-cc47e194976d",
+    "entity_type": "Video",
+    "name": "Two Minute Papers: Groq Ultra-Fast LPU In Action Generating 500 Tokens Per Second!",
+    "description": "Demonstration of lightning-fast conversational streaming on Groq's Tensor Streaming Processor silicon compared to standard GPU clusters.",
+    "url": "https://youtube.com/watch?v=twominutepapers_groq_lpu",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "YouTube",
+      "url": "https://youtube.com"
+    },
+    "metadata": {
+      "featured_entity": "Groq LPU Card"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0ea06414-007b-5c25-bd5a-e2a5d24c093d",
+    "entity_type": "Collection",
+    "name": "Top Open-Source LLMs 2026",
+    "description": "A curated collection of leading open-weight foundation models offering state-of-the-art reasoning, coding, and multilingual performance.",
+    "url": "https://aiorbit.io/collections/top-open-source-llms",
+    "categories": [
+      "Large Language Models",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Llama 3.3 70B",
+        "DeepSeek-V3",
+        "DeepSeek-R1",
+        "Qwen 2.5 72B",
+        "Codestral"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "e3c5ad51-9f80-5226-a482-cccaf4b61872",
+    "entity_type": "Collection",
+    "name": "Production RAG Stack Blueprint",
+    "description": "Essential production-ready frameworks, retrieval models, and vector management tools for building robust enterprise RAG systems.",
+    "url": "https://aiorbit.io/collections/production-rag-stack",
+    "categories": [
+      "Developer Tools",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "LlamaIndex",
+        "LangChain",
+        "Command R+",
+        "postgres-mcp-server"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "17c2cc2e-529b-5843-aa94-3a29764c1db3",
+    "entity_type": "Collection",
+    "name": "Official MCP Server Directory",
+    "description": "Standardized Model Context Protocol servers connecting frontier LLM clients to external developer tools and data stores.",
+    "url": "https://aiorbit.io/collections/official-mcp-servers",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "github-mcp-server",
+        "postgres-mcp-server",
+        "filesystem-mcp-server",
+        "brave-search-mcp-server",
+        "puppeteer-mcp-server"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2b8c140b-54c5-5b85-b622-38da63c6c5f1",
+    "entity_type": "Collection",
+    "name": "Humanoid Robotics Pioneers",
+    "description": "Leading commercial and research humanoid bipedal robots pushing the boundaries of embodied AI and physical automation.",
+    "url": "https://aiorbit.io/collections/humanoid-robotics-pioneers",
+    "categories": [
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Figure 02",
+        "Boston Dynamics Atlas",
+        "Tesla Optimus Gen 2",
+        "Unitree G1",
+        "Sanctuary AI Phoenix"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0d73d53e-b074-59a3-bc37-7b5991963204",
+    "entity_type": "Collection",
+    "name": "Local LLM Inference Engines",
+    "description": "High-performance engines and CLI runtimes optimized for running quantized neural models on consumer desktops and private servers.",
+    "url": "https://aiorbit.io/collections/local-llm-inference-engines",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "vLLM",
+        "Ollama",
+        "LM Studio",
+        "Jan.ai"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "36a5b31b-b027-562b-9bba-c1415e61c6d5",
+    "entity_type": "Collection",
+    "name": "Premier AI Code Assistants",
+    "description": "The best developer tools and AI-native IDEs transforming modern software development through automated code synthesis.",
+    "url": "https://aiorbit.io/collections/ai-code-assistants",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Cursor",
+        "GitHub Copilot",
+        "Windsurf",
+        "Devin"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d9fdf307-661c-5f73-960c-4552e77ce44b",
+    "entity_type": "Collection",
+    "name": "Multimodal Vision-Language Leaders",
+    "description": "Top multimodal systems capable of joint reasoning across text, high-resolution imagery, charts, and video feeds.",
+    "url": "https://aiorbit.io/collections/multimodal-leaders",
+    "categories": [
+      "Computer Vision",
+      "Multimodal Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Claude 3.5 Sonnet",
+        "GPT-4o",
+        "Gemini 1.5 Pro",
+        "Pixtral 12B"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "27f5e824-fc20-50a1-ae5c-56a1fa2a3716",
+    "entity_type": "Collection",
+    "name": "Next-Gen AI Hardware & Accelerators",
+    "description": "Cutting-edge silicon, specialized LPUs, wafer-scale chips, and edge AI boards accelerating foundation model workloads.",
+    "url": "https://aiorbit.io/collections/ai-hardware-accelerators",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Ai Infrastructure & Serving"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "NVIDIA H100 SXM",
+        "NVIDIA B200 Blackwell",
+        "Groq LPU Card",
+        "Cerebras CS-3"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5d17359c-8e54-56e8-a8f0-6901ab4937d4",
+    "entity_type": "Collection",
+    "name": "Creative Generative Media Suite",
+    "description": "Premier image, video, and audio synthesis tools enabling artists and creators to generate production-quality media.",
+    "url": "https://aiorbit.io/collections/creative-media-suite",
+    "categories": [
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Midjourney Web",
+        "Runway Studio",
+        "ElevenLabs Voice Studio",
+        "Flux.1 Schnell"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2d6e25ac-7756-5478-add4-44b0535c1977",
+    "entity_type": "Collection",
+    "name": "Autonomous Multi-Agent Frameworks",
+    "description": "Modern orchestration libraries and runtime environments designed for multi-agent delegation and autonomous execution.",
+    "url": "https://aiorbit.io/collections/multi-agent-frameworks",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "CrewAI",
+        "AutoGPT",
+        "LangChain"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1d2ee6c4-1bd1-5dcc-b744-7571a08b7686",
+    "entity_type": "Collection",
+    "name": "Real-Time Voice and Speech Ecosystem",
+    "description": "High-fidelity automatic speech recognition models, low-latency voice synthesis APIs, and voice agent orchestration.",
+    "url": "https://aiorbit.io/collections/voice-speech-ecosystem",
+    "categories": [
+      "Audio & Speech"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Whisper large-v3-turbo",
+        "ElevenLabs Reader",
+        "WhisperX"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "6492ffc5-1860-5911-ae5a-a72b62416add",
+    "entity_type": "Collection",
+    "name": "Frontier AI Safety and Alignment Labs",
+    "description": "Organizations and research groups dedicated to constitutional AI, interpretability, and robust safety guardrails.",
+    "url": "https://aiorbit.io/collections/ai-safety-labs",
+    "categories": [
+      "Ai Safety & Alignment"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Anthropic",
+        "OpenAI",
+        "Google DeepMind"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "18305e0f-7e91-54c5-9eb2-01961ffeff21",
+    "entity_type": "Collection",
+    "name": "Open-Weights Diffusion Models",
+    "description": "Openly licensed diffusion and flow-matching transformer weights for local photorealistic image synthesis.",
+    "url": "https://aiorbit.io/collections/open-diffusion-models",
+    "categories": [
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Flux.1 Schnell",
+        "Flux.1 Dev",
+        "Stable Diffusion 3.5 Large"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4d6c905e-28b2-53d0-bd98-7f65b9fffb92",
+    "entity_type": "Collection",
+    "name": "Edge AI & Embedded Robotics Kits",
+    "description": "Energy-efficient compute modules and developer kits powering real-time perception for drones, mobile robots, and smart sensors.",
+    "url": "https://aiorbit.io/collections/edge-ai-robotics-kits",
+    "categories": [
+      "Ai Hardware & Accelerators",
+      "Robotics & Embodied Ai"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "NVIDIA Jetson Orin Nano",
+        "Raspberry Pi 5 AI Kit",
+        "Hailo-8 M.2 Module"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f810d1d8-4f30-5bfb-ac3a-7cc124b093c6",
+    "entity_type": "Collection",
+    "name": "Enterprise Foundation Model Catalog",
+    "description": "High-throughput frontier LLM APIs backed by strict data privacy guarantees, high uptime SLAs, and SOC2 compliance.",
+    "url": "https://aiorbit.io/collections/enterprise-foundation-models",
+    "categories": [
+      "Enterprise Ai",
+      "Large Language Models"
+    ],
+    "source": {
+      "name": "AI Directories",
+      "url": "https://aiorbit.io/collections"
+    },
+    "metadata": {
+      "item_references": [
+        "Claude 3.5 Sonnet",
+        "GPT-4o",
+        "Command R+",
+        "Mistral Large 2"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "62b0af2d-b58f-5d01-9498-3ab59b29a358",
+    "entity_type": "Personal",
+    "name": "Limitless Pendant AI",
+    "description": "Wearable AI recorder and companion that securely captures in-person conversations, transcribes audio, and creates actionable memory notes.",
+    "url": "https://limitless.ai",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://limitless.ai"
+    },
+    "metadata": {
+      "developer": "Limitless",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Meeting Summarization and Action Item Extraction"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "e3482d6e-b932-5aa0-a3bd-694d01d69d54",
+    "entity_type": "Personal",
+    "name": "Granola AI Notepad",
+    "description": "Smart meeting notepad designed for executives and designers, transforming casual keystrokes and audio into structured takeaways.",
+    "url": "https://granola.ai/app",
+    "categories": [
+      "Developer Tools",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://granola.ai"
+    },
+    "metadata": {
+      "developer": "Granola",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Meeting Summarization and Action Item Extraction"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3351258f-2ca1-5bb6-b934-7681b73c5cb5",
+    "entity_type": "Personal",
+    "name": "Pi by Inflection",
+    "description": "Emotionally intelligent, supportive personal AI conversational partner designed for thoughtful exploration and reflection.",
+    "url": "https://pi.ai",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://pi.ai"
+    },
+    "metadata": {
+      "developer": "Inflection AI",
+      "solved_tasks": [
+        "Low-Latency Real-Time Voice Chat"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "134f7459-c94e-573a-9524-acc0c0ae3a1f",
+    "entity_type": "Personal",
+    "name": "Superhuman AI",
+    "description": "Ultra-fast email client with integrated AI drafting, instant conversational summaries, and intelligent triage.",
+    "url": "https://superhuman.com/ai",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://superhuman.com"
+    },
+    "metadata": {
+      "developer": "Superhuman",
+      "powered_by_model": "GPT-4o",
+      "solved_tasks": [
+        "Long-Context Document Synthesis"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "29b24600-c7a0-5212-a569-ef2292cc1a3f",
+    "entity_type": "Personal",
+    "name": "Rewind AI",
+    "description": "The truly personalized AI search engine that records everything you've seen, said, or heard locally on your Mac with local compression.",
+    "url": "https://rewind.ai",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://rewind.ai"
+    },
+    "metadata": {
+      "developer": "Rewind",
+      "solved_tasks": [
+        "Retrieval-Augmented Generation"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3ff2f063-6a10-542d-833e-aea57ab174a3",
+    "entity_type": "Personal",
+    "name": "Dot AI Assistant",
+    "description": "Intelligent living memory companion by New Computer designed to understand your habits, conversations, and evolving interests.",
+    "url": "https://new.computer",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://new.computer"
+    },
+    "metadata": {
+      "developer": "New Computer",
+      "powered_by_model": "GPT-4o"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "76503654-536a-523a-8d6f-7aa3e026dbaa",
+    "entity_type": "Personal",
+    "name": "Sanas AI Speech Enhancer",
+    "description": "Real-time speech accent translation and noise-reduction engine improving clarity for global customer service agents.",
+    "url": "https://sanas.ai",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://sanas.ai"
+    },
+    "metadata": {
+      "developer": "Sanas",
+      "solved_tasks": [
+        "Audio Transcription and Diarization"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "dbdc0ce4-0f8f-57bb-a402-97b5939e5c17",
+    "entity_type": "Personal",
+    "name": "Otter.ai Assistant",
+    "description": "Automated meeting assistant that joins Zoom, Teams, and Google Meet calls to record, transcribe, and extract action items in real-time.",
+    "url": "https://otter.ai",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://otter.ai"
+    },
+    "metadata": {
+      "developer": "Otter.ai",
+      "solved_tasks": [
+        "Meeting Summarization and Action Item Extraction"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "984f2d0d-ca55-58d0-a1ee-1c9e7806daf5",
+    "entity_type": "Personal",
+    "name": "Notion AI Assistant",
+    "description": "Integrated workspace AI that searches across your company docs, auto-fills database properties, and drafts creative proposals.",
+    "url": "https://notion.so/product/ai",
+    "categories": [
+      "Enterprise Ai",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://notion.so"
+    },
+    "metadata": {
+      "developer": "Notion",
+      "powered_by_model": "Claude 3.5 Sonnet",
+      "solved_tasks": [
+        "Retrieval-Augmented Generation",
+        "Long-Context Document Synthesis"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "367deba5-0273-5e52-8a62-972505d46bbb",
+    "entity_type": "Personal",
+    "name": "Mem.ai Personal Knowledge Graph",
+    "description": "Self-organizing workspace powered by AI that automatically links your notes, meeting memos, and documents into a living knowledge base.",
+    "url": "https://mem.ai",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://mem.ai"
+    },
+    "metadata": {
+      "developer": "Mem Labs",
+      "solved_tasks": [
+        "Semantic Search and Embeddings"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "9be63c88-31d4-5729-9fd7-505e4f6e7a37",
+    "entity_type": "Personal",
+    "name": "Fathom AI Notetaker",
+    "description": "Free AI meeting recorder and transcription tool for Zoom, Google Meet, and Teams with CRM sync to HubSpot and Salesforce.",
+    "url": "https://fathom.video",
+    "categories": [
+      "Audio & Speech",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://fathom.video"
+    },
+    "metadata": {
+      "developer": "Fathom",
+      "solved_tasks": [
+        "Meeting Summarization and Action Item Extraction"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "6b7e5c67-bd87-5495-a357-cb77b2997965",
+    "entity_type": "Personal",
+    "name": "Reflect Notes AI",
+    "description": "Networked note-taking application using Whisper voice transcription and GPT-4o semantic search for personal brainstorming.",
+    "url": "https://reflect.app",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://reflect.app"
+    },
+    "metadata": {
+      "developer": "Reflect",
+      "powered_by_model": "GPT-4o"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b55e0216-a03d-5cd7-83b1-9220f93ad553",
+    "entity_type": "Personal",
+    "name": "Kagi Assistant",
+    "description": "Ad-free private search and document analysis assistant with multi-model access and fast summarization threads.",
+    "url": "https://kagi.com/assistant",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://kagi.com"
+    },
+    "metadata": {
+      "developer": "Kagi",
+      "solved_tasks": [
+        "Real-Time Web Research and Fact-Checking"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "8e830b2d-a3e0-57e1-a3f6-8865d8e71e27",
+    "entity_type": "Personal",
+    "name": "Tabby Personal Assistant",
+    "description": "Self-hosted AI coding and personal development companion running privately behind your home firewall.",
+    "url": "https://tabby.tabbyml.com",
+    "categories": [
+      "Developer Tools",
+      "Open Source Ai",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/TabbyML/tabby"
+    },
+    "metadata": {
+      "developer": "TabbyML",
+      "solved_tasks": [
+        "Autonomous Code Generation"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7019a1aa-376c-56ce-b471-33e33965e45b",
+    "entity_type": "Personal",
+    "name": "Raycast Companion AI",
+    "description": "Everyday productivity AI agent living inside your system keybinds, summarizing clipboard text and generating translations.",
+    "url": "https://raycast.com",
+    "categories": [
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://raycast.com"
+    },
+    "metadata": {
+      "developer": "Raycast",
+      "powered_by_model": "Claude 3.5 Sonnet"
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "55ea3ef8-bad4-5446-85d8-32f4e81de87f",
+    "entity_type": "Creative",
+    "name": "Udio Music",
+    "description": "High-fidelity AI music generation platform created by former DeepMind researchers producing full vocal tracks, instruments, and solos.",
+    "url": "https://udio.com",
+    "categories": [
+      "Audio & Speech",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://udio.com"
+    },
+    "metadata": {
+      "developer": "Udio",
+      "solved_tasks": [
+        "Music Composition and Synthesis"
+      ],
+      "modalities": [
+        "audio"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3b94c201-92e3-5b6f-b6e3-615f516564f2",
+    "entity_type": "Creative",
+    "name": "Suno v3.5",
+    "description": "Generative audio platform capable of synthesizing radio-quality two-minute songs with diverse musical styles and lyric generation.",
+    "url": "https://suno.com",
+    "categories": [
+      "Audio & Speech",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://suno.com"
+    },
+    "metadata": {
+      "developer": "Suno",
+      "solved_tasks": [
+        "Music Composition and Synthesis"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "67ba9c09-396e-5b88-8a82-a4311dc589d0",
+    "entity_type": "Creative",
+    "name": "Krea AI Realtime Canvas",
+    "description": "Real-time interactive generative canvas that transforms rough brushstrokes and 3D shapes into rendered artwork instantaneously.",
+    "url": "https://krea.ai",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://krea.ai"
+    },
+    "metadata": {
+      "developer": "Krea AI",
+      "modalities": [
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "15270f40-40f4-52ef-ac18-21d605bf9a6a",
+    "entity_type": "Creative",
+    "name": "Magnific AI Upscaler",
+    "description": "High-resolution hallucinatory image upscaler and enhancement engine that adds intricate realistic details to images.",
+    "url": "https://magnific.ai",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://magnific.ai"
+    },
+    "metadata": {
+      "developer": "Freepik / Magnific",
+      "solved_tasks": [
+        "Photorealistic Image Inpainting"
+      ],
+      "modalities": [
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "76e4f2d9-0857-57b7-96ab-346b935c8389",
+    "entity_type": "Creative",
+    "name": "ElevenLabs Voice Studio",
+    "description": "Professional audio workspace for voice cloning, dynamic emotional pacing, dubbing across 29 languages, and sound effects creation.",
+    "url": "https://elevenlabs.io/voice-lab",
+    "categories": [
+      "Audio & Speech",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://elevenlabs.io"
+    },
+    "metadata": {
+      "company": "ElevenLabs",
+      "solved_tasks": [
+        "Audio Transcription and Diarization"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "95d7656e-6a22-5976-b3b1-e4d2c79aaacf",
+    "entity_type": "Creative",
+    "name": "Pika 1.5",
+    "description": "Generative video tool featuring Pikaffects (inflate, melt, crush, explode) and realistic physics for visual creators.",
+    "url": "https://pika.art",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://pika.art"
+    },
+    "metadata": {
+      "developer": "Pika Labs",
+      "solved_tasks": [
+        "Text-to-Video Cinematic Synthesis"
+      ],
+      "modalities": [
+        "video",
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "dcbdee8d-2d2e-55fd-a1fe-6ad2773928c0",
+    "entity_type": "Creative",
+    "name": "Luma Dream Machine",
+    "description": "High-speed video generation model creating realistic, smooth camera pans and complex character movements from text or images.",
+    "url": "https://lumalabs.ai/dream-machine",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://lumalabs.ai"
+    },
+    "metadata": {
+      "developer": "Luma AI",
+      "solved_tasks": [
+        "Text-to-Video Cinematic Synthesis"
+      ],
+      "modalities": [
+        "video",
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c4ede107-0bc6-5c86-9862-19391841dc8d",
+    "entity_type": "Creative",
+    "name": "Topaz Video AI",
+    "description": "Production-grade desktop neural video enhancer for motion deinterlacing, 4K/8K upscaling, and 120fps frame interpolation.",
+    "url": "https://topazlabs.com/topaz-video-ai",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://topazlabs.com"
+    },
+    "metadata": {
+      "developer": "Topaz Labs",
+      "modalities": [
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "49805d01-df8f-557e-88ae-c79e3d23baab",
+    "entity_type": "Creative",
+    "name": "Leonardo AI",
+    "description": "Comprehensive creative suite offering fine-tuned generative models for game assets, character concept art, and marketing collateral.",
+    "url": "https://leonardo.ai",
+    "categories": [
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://leonardo.ai"
+    },
+    "metadata": {
+      "developer": "Canva / Leonardo AI",
+      "solved_tasks": [
+        "Photorealistic Image Inpainting"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "67ab8b49-7b39-5e9e-ac84-e7c7c3982dc9",
+    "entity_type": "Creative",
+    "name": "Ideogram 2.0",
+    "description": "Leading text-to-image platform known for flawless typography rendering, graphic design layout, and photorealistic accuracy.",
+    "url": "https://ideogram.ai",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://ideogram.ai"
+    },
+    "metadata": {
+      "developer": "Ideogram AI",
+      "modalities": [
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "60d61de3-2ee8-5f6d-86f2-f3d4a6bd5874",
+    "entity_type": "Creative",
+    "name": "Recraft AI Vector Generator",
+    "description": "Infinite vector canvas that generates editable vector graphics, icons, 3D illustrations, and brand style guides.",
+    "url": "https://recraft.ai",
+    "categories": [
+      "Creative Ai & Generation",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://recraft.ai"
+    },
+    "metadata": {
+      "developer": "Recraft",
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "ea62d2ae-690f-5dd3-a8ed-e6b65af2bcb7",
+    "entity_type": "Creative",
+    "name": "Stable Video Diffusion",
+    "description": "Open-source latent video diffusion model by Stability AI capable of generating multi-view video clips from single still images.",
+    "url": "https://stability.ai/stable-video",
+    "categories": [
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Stability-AI/generative-models"
+    },
+    "metadata": {
+      "company": "Stability AI",
+      "solved_tasks": [
+        "Text-to-Video Cinematic Synthesis"
+      ],
+      "modalities": [
+        "video",
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3c4af421-888a-5780-a60f-f3cf9db29e49",
+    "entity_type": "Creative",
+    "name": "Civitai Model Hub",
+    "description": "Open community repository for sharing and discovering fine-tuned Stable Diffusion checkpoints, LoRAs, and ControlNets.",
+    "url": "https://civitai.com",
+    "categories": [
+      "Creative Ai & Generation",
+      "Open Source Ai"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://civitai.com"
+    },
+    "metadata": {
+      "developer": "Civitai",
+      "modalities": [
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "dde536be-112b-54b9-815f-5110206e379f",
+    "entity_type": "Creative",
+    "name": "Meshy 3D AI",
+    "description": "3D generative AI tool that turns text descriptions and 2D concept sketches into fully textured, low-poly and high-poly 3D meshes.",
+    "url": "https://meshy.ai",
+    "categories": [
+      "Computer Vision",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://meshy.ai"
+    },
+    "metadata": {
+      "developer": "Meshy",
+      "solved_tasks": [
+        "3D Asset Generation from Text"
+      ],
+      "modalities": [
+        "vision"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "90703930-f160-51f8-8038-3a93a609c7e0",
+    "entity_type": "Creative",
+    "name": "Kaiber AI Animation",
+    "description": "Generative creative audio-reactive video studio used by musicians (Linkin Park, Kid Cudi) to produce animated music videos.",
+    "url": "https://kaiber.ai",
+    "categories": [
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://kaiber.ai"
+    },
+    "metadata": {
+      "developer": "Kaiber",
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "d9afffcc-969f-5c5c-ae89-4a5983ba54ba",
+    "entity_type": "Creative",
+    "name": "Soundraw AI Music",
+    "description": "Generative background music creation tool allowing creators to customize tempo, instruments, and energy arc dynamically.",
+    "url": "https://soundraw.io",
+    "categories": [
+      "Audio & Speech",
+      "Creative Ai & Generation"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://soundraw.io"
+    },
+    "metadata": {
+      "developer": "Soundraw",
+      "solved_tasks": [
+        "Music Composition and Synthesis"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "191e6a34-9a60-5d68-b9ab-392121b00e85",
+    "entity_type": "Creative",
+    "name": "Spline AI 3D Generator",
+    "description": "Collaborative 3D design software incorporating generative prompts to create interactive web 3D scenes, physics, and animations.",
+    "url": "https://spline.design/ai",
+    "categories": [
+      "Creative Ai & Generation",
+      "Developer Tools"
+    ],
+    "source": {
+      "name": "Official Product Sites",
+      "url": "https://spline.design"
+    },
+    "metadata": {
+      "developer": "Spline",
+      "solved_tasks": [
+        "3D Asset Generation from Text"
+      ],
+      "modalities": [
+        "text"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  }
+]

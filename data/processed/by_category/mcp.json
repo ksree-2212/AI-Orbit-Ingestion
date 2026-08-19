@@ -1,0 +1,447 @@
+[
+  {
+    "id": "81693951-7122-5fbc-9241-da54737731eb",
+    "entity_type": "MCP",
+    "name": "github-mcp-server",
+    "description": "Model Context Protocol server enabling LLMs to browse repositories, create pull requests, read issues, and commit files directly.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/github",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "02fcc99d-d8ca-5e1c-887e-5bafa7884e03",
+    "entity_type": "MCP",
+    "name": "postgres-mcp-server",
+    "description": "MCP server providing read-only and transactional inspection capabilities over PostgreSQL databases with schema introspection.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/postgres",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b8dff38a-4771-51fe-828e-44b34c0c25d2",
+    "entity_type": "MCP",
+    "name": "filesystem-mcp-server",
+    "description": "Secure file system access MCP server providing sandboxed directory reading, file editing, tree listings, and search.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "bf05e8ab-736c-5250-870d-e68db32a4770",
+    "entity_type": "MCP",
+    "name": "brave-search-mcp-server",
+    "description": "MCP integration for Brave Search API to provide web query capabilities and local news retrieval without tracking.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search",
+    "categories": [
+      "Model Context Protocol",
+      "Retrieval-Augmented Generation"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "c7289541-4a72-52a3-a718-2064eae1e375",
+    "entity_type": "MCP",
+    "name": "slack-mcp-server",
+    "description": "MCP server enabling AI agents to read channel history, post replies, and manage direct messages in Slack workspaces.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/slack",
+    "categories": [
+      "Model Context Protocol",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "3fe50877-ff03-5757-a1e0-e56eba83ed84",
+    "entity_type": "MCP",
+    "name": "puppeteer-mcp-server",
+    "description": "Headless browser automation MCP server for taking screenshots, clicking buttons, filling forms, and scraping dynamic JS pages.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer",
+    "categories": [
+      "Autonomous Agents",
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "fb92ae0b-791b-5155-8f5f-eef634bdf68d",
+    "entity_type": "MCP",
+    "name": "sqlite-mcp-server",
+    "description": "Lightweight MCP server to query, inspect schemas, and execute analytical SQL against local SQLite database files.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "f5e8696b-7a74-5582-bc27-d20293499977",
+    "entity_type": "MCP",
+    "name": "memory-mcp-server",
+    "description": "Knowledge graph memory server allowing AI models to store, update, and retrieve facts about user entities and preferences.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
+    "categories": [
+      "Model Context Protocol",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "4387fa7c-3434-5354-9955-96a80ec3354b",
+    "entity_type": "MCP",
+    "name": "sequential-thinking-mcp-server",
+    "description": "Dynamic reasoning MCP server enabling LLMs to break down complex multidimensional problems through step-by-step reflection.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking",
+    "categories": [
+      "Model Context Protocol",
+      "Reasoning Models"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "5c42c3d7-9891-5483-9245-df02869e7e44",
+    "entity_type": "MCP",
+    "name": "google-maps-mcp-server",
+    "description": "Location and routing MCP server allowing AI assistants to query places, business ratings, travel distances, and elevation.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps",
+    "categories": [
+      "Model Context Protocol",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "df71ea2b-f8d3-5eb6-9627-9cd32f0988ee",
+    "entity_type": "MCP",
+    "name": "fetch-mcp-server",
+    "description": "Web resource fetching MCP server that converts HTML pages into sanitized clean markdown for LLM ingestion.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "0422f9e1-61e5-5a5e-b024-3318bc26a100",
+    "entity_type": "MCP",
+    "name": "sentry-mcp-server",
+    "description": "MCP server to retrieve error stack traces, release telemetry, and issue frequency diagnostics directly from Sentry.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/sentry",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "1c6f999d-1caa-55cb-a4a9-fad15fa34947",
+    "entity_type": "MCP",
+    "name": "docker-mcp-server",
+    "description": "Docker container management MCP server to list running containers, inspect logs, pull images, and restart services.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/docker",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "2713083c-660c-5eb9-a897-847ab995a1b9",
+    "entity_type": "MCP",
+    "name": "notion-mcp-server",
+    "description": "MCP integration with Notion API to read database pages, query blocks, and append meeting summaries.",
+    "url": "https://github.com/suecharo/mcp-notion-server",
+    "categories": [
+      "Model Context Protocol",
+      "Personal Ai Assistants"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/suecharo/mcp-notion-server"
+    },
+    "metadata": {
+      "compatible_clients": [
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "603ea3fd-10cb-57b8-be25-eac33032d07a",
+    "entity_type": "MCP",
+    "name": "linear-mcp-server",
+    "description": "Project management MCP server to create, search, and update software issue tickets and cycles in Linear.",
+    "url": "https://github.com/jerhadf/linear-mcp-server",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/jerhadf/linear-mcp-server"
+    },
+    "metadata": {
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "7fa0efa9-9122-5bec-b7c6-e9fe1170fc5e",
+    "entity_type": "MCP",
+    "name": "cloudflare-mcp-server",
+    "description": "Cloudflare developer platform MCP server for deploying Workers, managing KV stores, and inspecting DNS records.",
+    "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/cloudflare/mcp-server-cloudflare"
+    },
+    "metadata": {
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "62f9a0b5-2efe-5911-bcdc-836a6425c96a",
+    "entity_type": "MCP",
+    "name": "everart-mcp-server",
+    "description": "Creative generation MCP server integrating EverArt's image model API directly into conversational LLM clients.",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/everart",
+    "categories": [
+      "Creative Ai & Generation",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    "metadata": {
+      "vendor": "Anthropic",
+      "compatible_clients": [
+        "Claude Desktop"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "b56ceaf3-b98a-5167-a578-4ec7afec9f74",
+    "entity_type": "MCP",
+    "name": "redis-mcp-server",
+    "description": "In-memory cache and vector store inspection server for managing Redis key-values and executing vector similarity searches.",
+    "url": "https://github.com/redis/mcp-redis",
+    "categories": [
+      "Developer Tools",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/redis/mcp-redis"
+    },
+    "metadata": {
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "8917e016-d848-544c-a423-ebf3bfd4b7d1",
+    "entity_type": "MCP",
+    "name": "kubernetes-mcp-server",
+    "description": "MCP server providing cluster inspection, pod log retrieval, deployment rollouts, and CRD management for Kubernetes.",
+    "url": "https://github.com/stefanprodan/mcp-server-kubernetes",
+    "categories": [
+      "Ai Infrastructure & Serving",
+      "Model Context Protocol"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/stefanprodan/mcp-server-kubernetes"
+    },
+    "metadata": {
+      "compatible_clients": [
+        "Claude Desktop",
+        "Cursor"
+      ]
+    },
+    "created_at": null,
+    "updated_at": null
+  }
+]
